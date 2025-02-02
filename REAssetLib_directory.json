@@ -7,7 +7,35 @@
             "CRC": 674248949,
             "compressedSize": 93409955,
             "uncompressedSize": 927655476,
-            "URL": "https://raw.githubusercontent.com/NSACloud/RE-Asset-Library-Collection/main/MHWILDS.reassetlib"
+            "URL": "1V60gdk8TTo_mjhG8LlwZ3doKkxxMe60K"
+        },
+		{
+            "displayName": "Monster Hunter Rise",
+            "gameName": "MHRSB",
+            "timestamp": "2025-02-02 19:59:23",
+            "CRC": 2428404793,
+            "compressedSize": 541376991,
+            "uncompressedSize": 3313143545,
+            "URL": "1OcOlko-RGWTsd3bjE0I72FrMhQKQ1WOK"
+        },
+        {
+            "displayName": "Resident Evil 2 Ray Tracing",
+            "gameName": "RE2RT",
+            "timestamp": "2025-02-02 20:08:22",
+            "CRC": 626903437,
+            "compressedSize": 187369835,
+            "uncompressedSize": 1001916197,
+            "URL": "1llw5_RuGN9amy2Zblv4Sj9Dnm-OUwjQy"
+        },
+        {
+            "displayName": "Resident Evil 4",
+            "gameName": "RE4",
+            "timestamp": "2025-02-02 13:01:36",
+            "CRC": 777949153,
+            "compressedSize": 469315675,
+            "uncompressedSize": 2471402753,
+            "URL": "1_Sp2XObTRN0sfgVafbs6T2m6u8ez1WQ8"
         }
+        
     ]
 }
