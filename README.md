@@ -1,4 +1,4 @@
-This repository is for storing RE Engine Asset Libaries.
+This repository is for storing RE Engine Asset Libraries.
 
 You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https://github.com/NSACloud/RE-Asset-Library)
 
