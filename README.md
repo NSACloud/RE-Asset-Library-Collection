@@ -4,7 +4,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-* MHWILDS - Most important things are labeled.
+* MHWILDS - Updated 2/6/2025 - Most important things are labeled.
 * MHRSB - Completely unlabeled.
 * RE2RT - Completely unlabeled.
 * RE4 - Most important things are labeled.
