@@ -8,9 +8,19 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 * MHRSB - Completely unlabeled.
 * RE2RT - Completely unlabeled.
 * RE4 - Most important things are labeled.
+* DMC5 - Added 2/7/2025 - Completely unlabeled.
 
 If you would like to contribute to mapping out libraries, use the "Submit Library Changes to Github" button when you have the asset library blend file open.
 
+### Contributors</summary>
+Thank you to the following people for helping with asset libraries: 
+<details>
+<summary>DMC5</summary>
+
+**Che, vainiuss1**
+    
+</details>
+  
 # NO GAME ASSETS ARE INCLUDED
 **These asset libraries do not contain any game assets. You must own the games and extract the game files yourself.**
 
