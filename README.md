@@ -8,7 +8,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 * MHRSB - Completely unlabeled.
 * RE2RT - Completely unlabeled.
 * RE4 - Most important things are labeled.
-* DMC5 - Added 2/7/2025 - Completely unlabeled.
+* DMC5 - Updated 2/8/2025 - Completely unlabeled.
 
 If you would like to contribute to mapping out libraries, use the "Submit Library Changes to Github" button when you have the asset library blend file open.
 
