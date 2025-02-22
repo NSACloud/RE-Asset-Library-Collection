@@ -3,6 +3,7 @@
         {
             "displayName": "Monster Hunter Wilds",
             "gameName": "MHWILDS",
+            "releaseDescription": "Open Beta 2 support.",
             "timestamp": "2025-02-15 00:06:07",
             "CRC": 122220802,
             "compressedSize": 101136155,
@@ -12,6 +13,7 @@
         {
             "displayName": "Monster Hunter Rise",
             "gameName": "MHRSB",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-02 19:59:23",
             "CRC": 2428404793,
             "compressedSize": 541376991,
@@ -21,6 +23,7 @@
         {
             "displayName": "Resident Evil 2 Ray Tracing",
             "gameName": "RE2RT",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-02 20:08:22",
             "CRC": 626903437,
             "compressedSize": 187369835,
@@ -30,6 +33,7 @@
         {
             "displayName": "Resident Evil 4",
             "gameName": "RE4",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-02 13:01:36",
             "CRC": 777949153,
             "compressedSize": 469315675,
@@ -37,8 +41,19 @@
             "URL": "1_Sp2XObTRN0sfgVafbs6T2m6u8ez1WQ8"
         },
         {
+            "displayName": "Street Fighter 6",
+            "gameName": "SF6",
+            "releaseDescription": "Supports Mai update.",
+            "timestamp": "2025-02-21 19:47:23",
+            "CRC": 1394975041,
+            "compressedSize": 554894773,
+            "uncompressedSize": 3159957007,
+            "URL": "1en__vKL2fkw0ScfscfE_HrZBbBAgZ7sF"
+        },
+        {
             "displayName": "Devil May Cry 5",
             "gameName": "DMC5",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-08 18:02:45",
             "CRC": 4251953172,
             "compressedSize": 321943096,
