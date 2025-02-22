@@ -1,0 +1,3 @@
+These scripts are for verifying and testing functionality of RE Asset Library.
+
+To be able to use them, place them into the RE-Asset-Library addon folder where __init__.py is.
