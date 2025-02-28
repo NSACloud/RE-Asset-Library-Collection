@@ -4,11 +4,16 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-* MHWILDS - Updated 2/14/2025 - Most important things are labeled.
-* MHRSB - Completely unlabeled.
-* RE2RT - Completely unlabeled.
-* RE4 - Most important things are labeled.
-* DMC5 - Updated 2/8/2025 - Completely unlabeled.
+2/28/2025 - All libraries have been updated with compressed thumbnails, reducing their download sizes by roughly 50%.
+
+Update to RE Asset Library V0.6 or higher before updating libraries.
+
+* MHWILDS - Updated 2/28/2025 - Most important things are labeled.
+* MHRSB - Updated 2/28/2025 - Completely unlabeled.
+* RE2RT - Updated 2/28/2025 - Completely unlabeled.
+* RE4 - Updated 2/28/2025 - Most important things are labeled.
+* SF6 - Updated 2/28/2025 - Most important things are labeled.
+* DMC5 - Updated 2/28/2025 - Completely unlabeled.
 
 If you would like to contribute to mapping out libraries, use the "Submit Library Changes to Github" button when you have the asset library blend file open.
 
@@ -23,8 +28,6 @@ Thank you to the following people for helping with asset libraries:
   
 # NO GAME ASSETS ARE INCLUDED
 **These asset libraries do not contain any game assets. You must own the games and extract the game files yourself.**
-
-**See the [Game File Extraction Tutorial](https://github.com/Modding-Haven/REEngine-Modding-Documentation/wiki/Extracting-Game-Files) for info on how to extract game files yourself.**
 
 The way asset libraries with this addon works is very simple.
 
