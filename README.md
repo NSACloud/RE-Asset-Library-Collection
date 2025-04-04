@@ -4,11 +4,10 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-2/28/2025 - All libraries have been updated with compressed thumbnails, reducing their download sizes by roughly 50%.
-
+4/4/2025 - MH Wilds TU1 support.
 Update to RE Asset Library V0.6 or higher before updating libraries.
 
-* MHWILDS - Updated 2/28/2025 - Most important things are labeled.
+* MHWILDS - Updated 4/4/2025 - Title Update 1 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
 * RE4 - Updated 2/28/2025 - Most important things are labeled.

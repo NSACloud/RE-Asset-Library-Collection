@@ -1,0 +1,19 @@
+File Path	Display Name	Category (Forward Slash Separated)	Tags (Comma Separated)	Platform Extension	Language Extension
+Art/Model/Character/ch00/000/0000/ch00_000_0000.mesh	Player Head (M)	Player/Head/Male	ch00_000_0000.mesh		
+Art/Model/Character/ch00/001/0000/ch00_001_0000.mesh	Player Head (F)	Player/Head/Female	ch00_001_0000.mesh		
+Art/Model/Character/ch00/500/0000/ch00_500_0000.mesh	Alma Head	NPC/Head	ch00_500_0000.mesh		
+Art/Model/Character/ch00/505/0000/ch00_505_0000.mesh	Gemma Head	NPC/Head	ch00_505_0000.mesh		
+Art/Model/Character/ch01/500/0/000/ch01_500_0000.chain2	Alma Hair (Chain Physics)	NPC/Hair	ch01_500_0000.chain2		
+Art/Model/Character/ch01/500/0/000/ch01_500_0000.mesh	Alma Hair	NPC/Hair	ch01_500_0000.mesh		
+Art/Model/Character/ch01/505/0/000/ch01_505_0000.chain2	Gemma Hair (Chain Physics)	NPC/Hair	ch01_505_0000.chain2		
+Art/Model/Character/ch01/505/0/000/ch01_505_0000.mesh	Gemma Hair	NPC/Hair	ch01_505_0000.mesh		
+Art/Model/Character/ch04/0/00/00/00/ch04_000_0000.chain2	Alma Body (Chain Physics)	NPC/Body	ch04_000_0000.chain2		
+Art/Model/Character/ch04/0/00/00/00/ch04_000_0000.mesh	Alma Body	NPC/Body	ch04_000_0000.mesh		
+Art/Model/Character/ch04/0/00/00/01/ch04_000_0001.chain2	Alma Coat + Scarf (Chain Physics)	NPC/Body	ch04_000_0001.chain2		
+Art/Model/Character/ch04/0/00/00/01/ch04_000_0001.mesh	Alma Coat + Scarf	NPC/Body	ch04_000_0001.mesh		
+Art/Model/Character/ch04/0/00/00/50/ch04_000_0050.chain2	Alma Scarf (Chain Physics)	NPC/Body	ch04_000_0050.chain2		
+Art/Model/Character/ch04/0/00/00/50/ch04_000_0050.mesh	Alma Scarf	NPC/Body	ch04_000_0050.mesh		
+Art/Model/Character/ch04/0/04/00/00/ch04_004_0000.chain2	Gemma Body (Chain Physics)	NPC/Body	ch04_004_0000.chain2		
+Art/Model/Character/ch04/0/04/00/00/ch04_004_0000.mesh	Gemma Body	NPC/Body	ch04_004_0000.mesh		
+Art/Model/Character/ch04/0/04/00/50/ch04_004_0050.mesh	Gemma Coat	NPC/Body	ch04_004_0050.mesh		
+Art/Model/Item/it55/10/0008/it5510_0008_1.mesh	Alma Glasses	Items/Misc	it5510_0008_1.mesh		

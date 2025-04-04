@@ -6,6 +6,23 @@ import os
 import json
 import csv
 
+def readPathOverrides(overrideDir):
+	overrideDict = dict()
+	
+	for entry in os.scandir(overrideDir):
+		if entry.is_file() and entry.name.endswith(".tsv"):
+			tsvPath = os.path.join(overrideDir,entry.name)
+			with open(tsvPath,"r") as file:
+				rd = csv.reader(file, delimiter="\t", quotechar='"')
+				next(rd)#Skip header
+				
+				for row in rd:
+					overrideDict[row[0]] = list(row)
+					
+	print("Overrides:")
+	print(overrideDict)
+	return overrideDict
+
 def buildWeaponIDDictFromCSV(csvPath):
 	idDict = dict()
 	with open(csvPath,"r") as file:
@@ -89,8 +106,11 @@ wpPartsDict = {
 
 weaponTypeStrings = tuple(fullIDDict.keys())
 CATALOG_PATH = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
-CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_new.tsv"
+CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_NEWTU1.tsv"
+OVERRIDES_DIR = os.path.join(os.getcwd(),"Overrides")
 #CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
+
+overrideDict = readPathOverrides(OVERRIDES_DIR)
 
 ARMOR_DUMP = os.path.join(os.path.dirname(__file__),"armorSeries.json")
 MONSTER_DUMP = os.path.join(os.path.dirname(__file__),"monsterSeries.json")
@@ -103,6 +123,13 @@ with open(MONSTER_DUMP,"r", encoding ="utf-8") as file:
 	largeMonsterInfo = monsterInfo["Large"]
 	smallMonsterInfo = monsterInfo["Small"]
 	endemicMonsterInfo = monsterInfo["Endemic"]
+
+with open(MONSTER_DUMP,"r", encoding ="utf-8") as file:
+	monsterInfo = json.load(file)
+	largeMonsterInfo = monsterInfo["Large"]
+	smallMonsterInfo = monsterInfo["Small"]
+	endemicMonsterInfo = monsterInfo["Endemic"]
+	
 AUTOMATIC_CATEGORY_LIST = [
 	("Armors/Male",r"Art/Model/Character/ch02"),
 	("Armors/Female",r"Art/Model/Character/ch03"),
@@ -382,7 +409,11 @@ with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 					
 			#
 			#Name Overrides
-			#TODO
+			if filePath in overrideDict:
+				override = overrideDict[filePath]
+				name = override[1]
+				category = override[2]
+				tags = override[3]
 			#print(filePath)
 			outputFile.write(f"{filePath}\t{name}\t{category}\t{tags}\t{platformExtension}\t{langExtension}")
 

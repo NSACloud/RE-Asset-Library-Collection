@@ -1,0 +1,62 @@
+File Path	Display Name	Category (Forward Slash Separated)	Tags (Comma Separated)	Platform Extension	Language Extension
+Art/Model/Item/it00/00/0018/it0000_0018_0.chain2	Hanayako Yohino (Chain Physics)	Weapons/Great Sword	it0000_0018_0.chain2,Akanesasu (Chain Physics)		
+Art/Model/Item/it00/00/0018/it0000_0018_0.mesh	Hanayako Yohino	Weapons/Great Sword	it0000_0018_0.mesh,Akanesasu		
+Art/Model/Item/it00/00/0021/it0000_0021_0.mesh	Zoh Veiah	Weapons/Great Sword	it0000_0021_0.mesh,Blazing Veiah		
+Art/Model/Item/it01/00/0025/it0100_0025_0.mesh	Zoh Mikal	Weapons/Sword and Shield	it0100_0025_0.mesh,Blazing Mikal		
+Art/Model/Item/it01/00/0025/it0100_0025_1.mesh	Zoh Mikal (Shield)	Weapons/Sword and Shield	it0100_0025_1.mesh,Blazing Mikal (Shield)		
+Art/Model/Item/it01/00/0030/it0100_0030_0.chain2	Hana no Nagoriwo (Chain Physics)	Weapons/Sword and Shield	it0100_0030_0.chain2,Kurenawi Ougi (Chain Physics)		
+Art/Model/Item/it01/00/0030/it0100_0030_0.mesh	Hana no Nagoriwo	Weapons/Sword and Shield	it0100_0030_0.mesh,Kurenawi Ougi		
+Art/Model/Item/it01/00/0030/it0100_0030_1.chain2	Hana no Nagoriwo (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0030_1.chain2,Kurenawi Ougi (Shield) (Chain Physics)		
+Art/Model/Item/it01/00/0030/it0100_0030_1.mesh	Hana no Nagoriwo (Shield)	Weapons/Sword and Shield	it0100_0030_1.mesh,Kurenawi Ougi (Shield)		
+Art/Model/Item/it02/00/0024/it0200_0024_0.mesh	Zoh Liel (L)	Weapons/Dual Blades	it0200_0024_0.mesh,Blazing Liel (L)		
+Art/Model/Item/it02/00/0024/it0200_0024_1.mesh	Zoh Liel (R)	Weapons/Dual Blades	it0200_0024_1.mesh,Blazing Liel (R)		
+Art/Model/Item/it02/00/0029/it0200_0029_0.chain2	Morning Dawn (L) (Chain Physics)	Weapons/Dual Blades	it0200_0029_0.chain2,Evening Dusk (L) (Chain Physics)		
+Art/Model/Item/it02/00/0029/it0200_0029_0.mesh	Morning Dawn (L)	Weapons/Dual Blades	it0200_0029_0.mesh,Evening Dusk (L)		
+Art/Model/Item/it02/00/0029/it0200_0029_1.chain2	Morning Dawn (R) (Chain Physics)	Weapons/Dual Blades	it0200_0029_1.chain2,Evening Dusk (R) (Chain Physics)		
+Art/Model/Item/it02/00/0029/it0200_0029_1.mesh	Morning Dawn (R)	Weapons/Dual Blades	it0200_0029_1.mesh,Evening Dusk (R)		
+Art/Model/Item/it03/00/0022/it0300_0022_0.mesh	Zoh Rafel	Weapons/Long Sword	it0300_0022_0.mesh,Blazing Rafel		
+Art/Model/Item/it03/00/0022/it0300_0022_1.mesh	Zoh Rafel (Sheathe)	Weapons/Long Sword	it0300_0022_1.mesh,Blazing Rafel (Sheathe)		
+Art/Model/Item/it03/00/0025/it0300_0025_0.mesh	Kakaru Kumo Naki	Weapons/Long Sword	it0300_0025_0.mesh,Tamonowo		
+Art/Model/Item/it03/00/0025/it0300_0025_1.chain2	Kakaru Kumo Naki (Sheathe) (Chain Physics)	Weapons/Long Sword	it0300_0025_1.chain2,Tamonowo (Sheathe) (Chain Physics)		
+Art/Model/Item/it03/00/0025/it0300_0025_1.mesh	Kakaru Kumo Naki (Sheathe)	Weapons/Long Sword	it0300_0025_1.mesh,Tamonowo (Sheathe)		
+Art/Model/Item/it04/00/0020/it0400_0020_0.chain2	Purity Hammer (Chain Physics)	Weapons/Hammer	it0400_0020_0.chain2,Sinter Hammer (Chain Physics)		
+Art/Model/Item/it04/00/0020/it0400_0020_0.mesh	Purity Hammer	Weapons/Hammer	it0400_0020_0.mesh,Sinter Hammer		
+Art/Model/Item/it04/00/0023/it0400_0023_0.mesh	Zoh Uria	Weapons/Hammer	it0400_0023_0.mesh,Blazing Uria		
+Art/Model/Item/it05/00/0013/it0500_0013_0.chain2	Poetic Bell (Chain Physics)	Weapons/Hunting Horn	it0500_0013_0.chain2,Summoning Bell (Chain Physics)		
+Art/Model/Item/it05/00/0013/it0500_0013_0.mesh	Poetic Bell	Weapons/Hunting Horn	it0500_0013_0.mesh,Summoning Bell		
+Art/Model/Item/it05/00/0021/it0500_0021_0.mesh	Zoh Gariel	Weapons/Hunting Horn	it0500_0021_0.mesh,Blazing Gariel		
+Art/Model/Item/it06/00/0015/it0600_0015_0.chain2	Hana Mo Hana Nare (Chain Physics)	Weapons/Lance	it0600_0015_0.chain2,Kimi Ga Kiru (Chain Physics)		
+Art/Model/Item/it06/00/0015/it0600_0015_0.mesh	Hana Mo Hana Nare	Weapons/Lance	it0600_0015_0.mesh,Kimi Ga Kiru		
+Art/Model/Item/it06/00/0015/it0600_0015_1.chain2	Hana Mo Hana Nare (Shield) (Chain Physics)	Weapons/Lance	it0600_0015_1.chain2,Kimi Ga Kiru (Shield) (Chain Physics)		
+Art/Model/Item/it06/00/0015/it0600_0015_1.mesh	Hana Mo Hana Nare (Shield)	Weapons/Lance	it0600_0015_1.mesh,Kimi Ga Kiru (Shield)		
+Art/Model/Item/it06/00/0022/it0600_0022_0.mesh	Zoh Sital	Weapons/Lance	it0600_0022_0.mesh,Blazing Sital		
+Art/Model/Item/it06/00/0022/it0600_0022_1.mesh	Zoh Sital (Shield)	Weapons/Lance	it0600_0022_1.mesh,Blazing Sital (Shield)		
+Art/Model/Item/it07/00/0011/it0700_0011_0.chain2	Ukiyo no Yamiwo (Chain Physics)	Weapons/Gun Lance	it0700_0011_0.chain2,Mizumori (Chain Physics)		
+Art/Model/Item/it07/00/0011/it0700_0011_0.mesh	Ukiyo no Yamiwo	Weapons/Gun Lance	it0700_0011_0.mesh,Mizumori		
+Art/Model/Item/it07/00/0011/it0700_0011_1.chain2	Ukiyo no Yamiwo (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0011_1.chain2,Mizumori (Shield) (Chain Physics)		
+Art/Model/Item/it07/00/0011/it0700_0011_1.mesh	Ukiyo no Yamiwo (Shield)	Weapons/Gun Lance	it0700_0011_1.mesh,Mizumori (Shield)		
+Art/Model/Item/it07/00/0021/it0700_0021_0.mesh	Zoh Lael	Weapons/Gun Lance	it0700_0021_0.mesh,Blazing Lael		
+Art/Model/Item/it07/00/0021/it0700_0021_1.mesh	Zoh Lael (Shield)	Weapons/Gun Lance	it0700_0021_1.mesh,Blazing Lael (Shield)		
+Art/Model/Item/it08/00/0018/it0800_0018_0.chain2	Fond Farewell (Chain Physics)	Weapons/Switch Axe	it0800_0018_0.chain2,Parting Slice (Chain Physics)		
+Art/Model/Item/it08/00/0018/it0800_0018_0.mesh	Fond Farewell	Weapons/Switch Axe	it0800_0018_0.mesh,Parting Slice		
+Art/Model/Item/it08/00/0020/it0800_0020_0.mesh	Zoh Mahaiah	Weapons/Switch Axe	it0800_0020_0.mesh,Blazing Mahaiah		
+Art/Model/Item/it09/00/0014/it0900_0014_0.mesh	Mizuniya Drill	Weapons/Charge Blade	it0900_0014_0.mesh,Final Fieldblade		
+Art/Model/Item/it09/00/0014/it0900_0014_1.chain2	Mizuniya Drill (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0014_1.chain2,Final Fieldblade (Shield) (Chain Physics)		
+Art/Model/Item/it09/00/0014/it0900_0014_1.mesh	Mizuniya Drill (Shield)	Weapons/Charge Blade	it0900_0014_1.mesh,Final Fieldblade (Shield)		
+Art/Model/Item/it09/00/0021/it0900_0021_0.mesh	Zoh Yirmiya	Weapons/Charge Blade	it0900_0021_0.mesh,Blazing Yirmiya		
+Art/Model/Item/it09/00/0021/it0900_0021_1.mesh	Zoh Yirmiya (Shield)	Weapons/Charge Blade	it0900_0021_1.mesh,Blazing Yirmiya (Shield)		
+Art/Model/Item/it10/00/0021/it1000_0021_0.mesh	Zoh Katir	Weapons/Insect Glaive	it1000_0021_0.mesh,Blazing Katir		
+Art/Model/Item/it10/00/0026/it1000_0026_0.chain2	Fox Halberd (Chain Physics)	Weapons/Insect Glaive	it1000_0026_0.chain2,Curved Naganagi (Chain Physics)		
+Art/Model/Item/it10/00/0026/it1000_0026_0.mesh	Fox Halberd	Weapons/Insect Glaive	it1000_0026_0.mesh,Curved Naganagi		
+Art/Model/Item/it11/00/0021/it1100_0021_0.chain2	Blessed Rain (Chain Physics)	Weapons/Bow	it1100_0021_0.chain2,Heaven's Manna (Chain Physics)		
+Art/Model/Item/it11/00/0021/it1100_0021_0.mesh	Blessed Rain	Weapons/Bow	it1100_0021_0.mesh,Heaven's Manna		
+Art/Model/Item/it11/00/0021/it1100_0021_1.chain2	Blessed Rain (Quiver) (Chain Physics)	Weapons/Bow	it1100_0021_1.chain2,Heaven's Manna (Quiver) (Chain Physics)		
+Art/Model/Item/it11/00/0021/it1100_0021_1.mesh	Blessed Rain (Quiver)	Weapons/Bow	it1100_0021_1.mesh,Heaven's Manna (Quiver)		
+Art/Model/Item/it11/00/0023/it1100_0023_0.mesh	Zoh Samira	Weapons/Bow	it1100_0023_0.mesh,Blazing Samira		
+Art/Model/Item/it11/00/0023/it1100_0023_1.mesh	Zoh Samira (Quiver)	Weapons/Bow	it1100_0023_1.mesh,Blazing Samira (Quiver)		
+Art/Model/Item/it12/00/0019/it1200_0019_0.chain2	Cirrus Blaster (Chain Physics)	Weapons/Heavy Bowgun	it1200_0019_0.chain2,Mountainous Roar (Chain Physics)		
+Art/Model/Item/it12/00/0019/it1200_0019_0.mesh	Cirrus Blaster	Weapons/Heavy Bowgun	it1200_0019_0.mesh,Mountainous Roar		
+Art/Model/Item/it12/00/0021/it1200_0021_0.mesh	Zoh Mitran	Weapons/Heavy Bowgun	it1200_0021_0.mesh,Blazing Mitran		
+Art/Model/Item/it13/00/0020/it1300_0020_0.mesh	Zoh Kaiah	Weapons/Light Bowgun	it1300_0020_0.mesh,Blazing Kaiah		
+Art/Model/Item/it13/00/0024/it1300_0024_0.chain2	Desolate Mist (Chain Physics)	Weapons/Light Bowgun	it1300_0024_0.chain2,Nifl Mist (Chain Physics)		
+Art/Model/Item/it13/00/0024/it1300_0024_0.mesh	Desolate Mist	Weapons/Light Bowgun	it1300_0024_0.mesh,Nifl Mist		
