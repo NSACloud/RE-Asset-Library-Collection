@@ -3,11 +3,11 @@
         {
             "displayName": "Monster Hunter Wilds",
             "gameName": "MHWILDS",
-            "releaseDescription": "Supports latest title update (TU1).",
-            "timestamp": "2025-04-04 08:50:56",
-            "CRC": 322250132,
-            "compressedSize": 179780009,
-            "uncompressedSize": 2902525604,
+            "releaseDescription": "Supports latest title update (TU1.5 SF6 Collab).",
+            "timestamp": "2025-05-30 22:23:53",
+            "CRC": 1049495845,
+            "compressedSize": 180964217,
+            "uncompressedSize": 2918348877,
             "URL": "1dNXn3-jSHYsE-74kGrRShsi_lTfLwyAY"
         },
         {
@@ -21,9 +21,19 @@
             "URL": "1V60gdk8TTo_mjhG8LlwZ3doKkxxMe60K"
         },
         {
+            "displayName": "Dragons Dogma 2",
+            "gameName": "DD2",
+            "releaseDescription": "Supports latest game version.",
+            "timestamp": "2025-05-30 22:27:46",
+            "CRC": 1561573544,
+            "compressedSize": 160884421,
+            "uncompressedSize": 2807646331,
+            "URL": "1KlKTRd3jrIau_Lxm5TbdoNDnsvOfVUQp"
+        },
+        {
             "displayName": "Resident Evil 2 Ray Tracing",
             "gameName": "RE2RT",
-            "releaseDescription": "Supports latest game version. Asset Library addon V0.6 or higher required.",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-27 23:29:59",
             "CRC": 1342006204,
             "compressedSize": 82446046,
@@ -33,7 +43,7 @@
         {
             "displayName": "Resident Evil 4",
             "gameName": "RE4",
-            "releaseDescription": "Supports latest game version. Asset Library addon V0.6 or higher required.",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-27 04:34:51",
             "CRC": 3043501433,
             "compressedSize": 208470229,
@@ -43,7 +53,7 @@
         {
             "displayName": "Street Fighter 6",
             "gameName": "SF6",
-            "releaseDescription": "Supports Mai update. Asset Library addon V0.6 or higher required.",
+            "releaseDescription": "Supports Mai update.",
             "timestamp": "2025-02-27 23:38:54",
             "CRC": 811770984,
             "compressedSize": 267561807,
@@ -53,7 +63,7 @@
         {
             "displayName": "Devil May Cry 5",
             "gameName": "DMC5",
-            "releaseDescription": "Supports latest game version. Asset Library addon V0.6 or higher required.",
+            "releaseDescription": "Supports latest game version.",
             "timestamp": "2025-02-27 23:14:24",
             "CRC": 3658268177,
             "compressedSize": 150967055,

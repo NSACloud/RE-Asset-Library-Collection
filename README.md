@@ -4,11 +4,11 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-4/4/2025 - MH Wilds TU1 support.
-Update to RE Asset Library V0.6 or higher before updating libraries.
+5/30/2025 - MH Wilds TU1.5 support. Added DD2 asset library by shadowcookie.
 
-* MHWILDS - Updated 4/4/2025 - Title Update 1 support.
+* MHWILDS - Updated 5/30/2025 - Title Update 1.5 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
+* DD2 - Updated 5/30/2025 - Most important things are labeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
 * RE4 - Updated 2/28/2025 - Most important things are labeled.
 * SF6 - Updated 2/28/2025 - Most important things are labeled.
@@ -22,6 +22,13 @@ Thank you to the following people for helping with asset libraries:
 <summary>DMC5</summary>
 
 **Che, vainiuss1**
+    
+</details>
+
+<details>
+<summary>DD2</summary>
+
+**shadowcookie**
     
 </details>
   
