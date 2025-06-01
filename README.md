@@ -4,10 +4,11 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-5/30/2025 - MH Wilds TU1.5 support. Added DD2 asset library by shadowcookie.
+6/1/2025 - Added Onimusha 2 asset library. Thank you to Niko and Murad58 for help with labeling.
 
 * MHWILDS - Updated 5/30/2025 - Title Update 1.5 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
+* ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
 * RE4 - Updated 2/28/2025 - Most important things are labeled.
@@ -31,7 +32,11 @@ Thank you to the following people for helping with asset libraries:
 **shadowcookie**
     
 </details>
-  
+<summary>ONI2</summary>
+
+**Niko,Murad58**
+    
+</details>
 # NO GAME ASSETS ARE INCLUDED
 **These asset libraries do not contain any game assets. You must own the games and extract the game files yourself.**
 

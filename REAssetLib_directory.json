@@ -21,6 +21,16 @@
             "URL": "1V60gdk8TTo_mjhG8LlwZ3doKkxxMe60K"
         },
         {
+            "displayName": "Onimusha 2",
+            "gameName": "ONI2",
+            "releaseDescription": "Supports latest game version. RE Mesh Editor v0.48 or higher required.",
+            "timestamp": "2025-06-01 12:56:58",
+            "CRC": 140204416,
+            "compressedSize": 13583547,
+            "uncompressedSize": 135240712,
+            "URL": "1SsOG13G-MLi5KNOvFa_LhBezRvrbJ7Z7"
+        },
+        {
             "displayName": "Dragons Dogma 2",
             "gameName": "DD2",
             "releaseDescription": "Supports latest game version.",
