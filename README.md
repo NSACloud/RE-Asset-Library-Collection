@@ -4,11 +4,9 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-6/4/2025 - Updated SF6 asset library for the Elena update.
+6/30/2025 - Updated MH Wilds asset library for Title Update 2.
 
-6/1/2025 - Added Onimusha 2 asset library. Thank you to Niko and Murad58 for help with labeling.
-
-* MHWILDS - Updated 5/30/2025 - Title Update 1.5 support.
+* MHWILDS - Updated 6/30/2025 - Title Update 2 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.

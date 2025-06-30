@@ -1,0 +1,808 @@
+File Path	Display Name	Category (Forward Slash Separated)	Tags (Comma Separated)	Platform Extension	Language Extension
+Art/Model/Item/it00/00/0000/it0000_0000_0.chain2	Jawblade (Chain Physics)	Weapons/Great Sword	it0000_0000_0.chain2,Giant Jawblade		
+Art/Model/Item/it00/00/0000/it0000_0000_0.mesh	Jawblade	Weapons/Great Sword	it0000_0000_0.mesh,Giant Jawblade		
+Art/Model/Item/it00/00/0001/it0000_0001_0.chain2	Dosha Fellslayer (Chain Physics)	Weapons/Great Sword	it0000_0001_0.chain2,Dosha Fellslayer II,Dosha Fellslayer III		
+Art/Model/Item/it00/00/0001/it0000_0001_0.mesh	Dosha Fellslayer	Weapons/Great Sword	it0000_0001_0.mesh,Dosha Fellslayer II,Dosha Fellslayer III		
+Art/Model/Item/it00/00/0003/it0000_0003_0.chain2	Fellslayer Dangeom (Chain Physics)	Weapons/Great Sword	it0000_0003_0.chain2		
+Art/Model/Item/it00/00/0003/it0000_0003_0.mesh	Fellslayer Dangeom	Weapons/Great Sword	it0000_0003_0.mesh		
+Art/Model/Item/it00/00/0004/it0000_0004_0.chain2	Hope Blade (Chain Physics)	Weapons/Great Sword	it0000_0004_0.chain2,Hope Blade II,Hope Blade III,Hope Blade IV,Hope Blade V,Esperanza Blade		
+Art/Model/Item/it00/00/0004/it0000_0004_0.mesh	Hope Blade	Weapons/Great Sword	it0000_0004_0.mesh,Hope Blade II,Hope Blade III,Hope Blade IV,Hope Blade V,Esperanza Blade		
+Art/Model/Item/it00/00/0005/it0000_0005_0.mesh	Valkyrie Blade	Weapons/Great Sword	it0000_0005_0.mesh,Valkyrie Blade II,Sieglinde		
+Art/Model/Item/it00/00/0006/it0000_0006_0.chain2	Quematrice Espada (Chain Physics)	Weapons/Great Sword	it0000_0006_0.chain2,Quematrice Espada II,Quematrice Espada III,Quematrice Espada IV		
+Art/Model/Item/it00/00/0006/it0000_0006_0.mesh	Quematrice Espada	Weapons/Great Sword	it0000_0006_0.mesh,Quematrice Espada II,Quematrice Espada III,Quematrice Espada IV		
+Art/Model/Item/it00/00/0007/it0000_0007_0.chain2	Firetrail Blaisdell (Chain Physics)	Weapons/Great Sword	it0000_0007_0.chain2		
+Art/Model/Item/it00/00/0007/it0000_0007_0.mesh	Firetrail Blaisdell	Weapons/Great Sword	it0000_0007_0.mesh		
+Art/Model/Item/it00/00/0008/it0000_0008_0.mesh	Red Wing	Weapons/Great Sword	it0000_0008_0.mesh,Rathalos Firesword		
+Art/Model/Item/it00/00/0009/it0000_0009_0.chain2	Schattenstolz (Chain Physics)	Weapons/Great Sword	it0000_0009_0.chain2,Düsterstolz		
+Art/Model/Item/it00/00/0009/it0000_0009_0.mesh	Schattenstolz	Weapons/Great Sword	it0000_0009_0.mesh,Düsterstolz		
+Art/Model/Item/it00/00/0010/it0000_0010_0.mesh	Immane Blade	Weapons/Great Sword	it0000_0010_0.mesh,Immane Blade II,Immane Blade III,Immolator Blade		
+Art/Model/Item/it00/00/0011/it0000_0011_0.chain2	Nu Krake (Chain Physics)	Weapons/Great Sword	it0000_0011_0.chain2,Nu Krake II,Abaddonian Krake		
+Art/Model/Item/it00/00/0011/it0000_0011_0.mesh	Nu Krake	Weapons/Great Sword	it0000_0011_0.mesh,Nu Krake II,Abaddonian Krake		
+Art/Model/Item/it00/00/0012/it0000_0012_0.mesh	Chicken Decapitator	Weapons/Great Sword	it0000_0012_0.mesh,Chicken Decapitator II,Rooster Decapitator		
+Art/Model/Item/it00/00/0013/it0000_0013_0.mesh	Slaughter	Weapons/Great Sword	it0000_0013_0.mesh,Slaughter II,Poison King		
+Art/Model/Item/it00/00/0014/it0000_0014_0.mesh	Lagiacrus Blade	Weapons/Great Sword	it0000_0014_0.mesh,High Lagia Blade,Lagiacrus Blade		
+Art/Model/Item/it00/00/0015/it0000_0015_0.mesh	Impudent Cheda	Weapons/Great Sword	it0000_0015_0.mesh		
+Art/Model/Item/it00/00/0017/it0000_0017_0.chain2	G. Veldian Gladius (Chain Physics)	Weapons/Great Sword	it0000_0017_0.chain2,G. Veldian Gladius II,G. Stalwart Lamorak		
+Art/Model/Item/it00/00/0017/it0000_0017_0.mesh	G. Veldian Gladius	Weapons/Great Sword	it0000_0017_0.mesh,G. Veldian Gladius II,G. Stalwart Lamorak		
+Art/Model/Item/it00/00/0019/it0000_0019_0.mesh	Jin Dhavaar	Weapons/Great Sword	it0000_0019_0.mesh,Precipice Metallam		
+Art/Model/Item/it00/00/0020/it0000_0020_0.chain2	Nihil Great Sword (Chain Physics)	Weapons/Great Sword	it0000_0020_0.chain2,Nihil Great Sword II,Prinvrilos Dissolution		
+Art/Model/Item/it00/00/0020/it0000_0020_0.mesh	Nihil Great Sword	Weapons/Great Sword	it0000_0020_0.mesh,Nihil Great Sword II,Prinvrilos Dissolution		
+Art/Model/Item/it00/00/0023/it0000_0023_0.chain2	Paretic Blade (Chain Physics)	Weapons/Great Sword	it0000_0023_0.chain2,Paretic Blade II,Paretic Blade III,Paretic Blade IV,Destructive Torpor		
+Art/Model/Item/it00/00/0023/it0000_0023_0.mesh	Paretic Blade	Weapons/Great Sword	it0000_0023_0.mesh,Paretic Blade II,Paretic Blade III,Paretic Blade IV,Destructive Torpor		
+Art/Model/Item/it00/00/0024/it0000_0024_0.chain2	Veldian Gladius (Chain Physics)	Weapons/Great Sword	it0000_0024_0.chain2,Stalwart Lamorak		
+Art/Model/Item/it00/00/0024/it0000_0024_0.mesh	Veldian Gladius	Weapons/Great Sword	it0000_0024_0.mesh,Stalwart Lamorak		
+Art/Model/Item/it00/00/0027/it0000_0027_0.chain2	Frozen Speartuna (Chain Physics)	Weapons/Great Sword	it0000_0027_0.chain2,Frozen Speartuna II,Freezer Speartuna		
+Art/Model/Item/it00/00/0027/it0000_0027_0.mesh	Frozen Speartuna	Weapons/Great Sword	it0000_0027_0.mesh,Frozen Speartuna II,Freezer Speartuna		
+Art/Model/Item/it00/01/0002/it0001_0002_0.mesh	Bone Blade	Weapons/Great Sword	it0001_0002_0.mesh,Bone Blade II,Bone Blade III,Bone Blade IV,Bone Slasher		
+Art/Model/Item/it00/01/0004/it0001_0004_0.mesh	Buster Sword	Weapons/Great Sword	it0001_0004_0.mesh,Buster Sword II,Buster Sword III		
+Art/Model/Item/it00/01/0006/it0001_0006_0.mesh	Ravager Blade	Weapons/Great Sword	it0001_0006_0.mesh		
+Art/Model/Item/it00/10/0000/it0010_0000_0.mesh	Albirath Wing	Weapons/Great Sword	it0010_0000_0.mesh,Albirath Wing II,Whitefire Rathguard		
+Art/Model/Item/it00/10/0001/it0010_0001_0.chain2	Dosha Grimslayer (Chain Physics)	Weapons/Great Sword	it0010_0001_0.chain2,Dosha Grimslayer II,Grimslayer Urgeom		
+Art/Model/Item/it00/10/0001/it0010_0001_0.mesh	Dosha Grimslayer	Weapons/Great Sword	it0010_0001_0.mesh,Dosha Grimslayer II,Grimslayer Urgeom		
+Art/Model/Item/it00/10/0002/it0010_0002_0.chain2	Smiting Fulgur (Chain Physics)	Weapons/Great Sword	it0010_0002_0.chain2,Fulgurcleaver Guardiana		
+Art/Model/Item/it00/10/0002/it0010_0002_0.mesh	Smiting Fulgur	Weapons/Great Sword	it0010_0002_0.mesh,Fulgurcleaver Guardiana		
+Art/Model/Item/it00/10/0003/it0010_0003_0.mesh	Artian Blade	Weapons/Great Sword	it0010_0003_0.mesh,Artian Blade II,Varianza		
+Art/Model/Item/it00/99/it0099_0000_0.chain2	Jawblade (Chain Physics)	Weapons/Great Sword	it0099_0000_0.chain2,Giant Jawblade		
+Art/Model/Item/it01/00/0002/it0100_0002_0.chain2	Quematrice Cuchillo (Chain Physics)	Weapons/Sword and Shield	it0100_0002_0.chain2,Quematrice Cuchillo II,Quematrice Cuchillo III,Quematrice Cuchillo IV		
+Art/Model/Item/it01/00/0002/it0100_0002_0.mesh	Quematrice Cuchillo	Weapons/Sword and Shield	it0100_0002_0.mesh,Quematrice Cuchillo II,Quematrice Cuchillo III,Quematrice Cuchillo IV		
+Art/Model/Item/it01/00/0002/it0100_0002_1.chain2	Quematrice Cuchillo (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0002_1.chain2,Quematrice Cuchillo II,Quematrice Cuchillo III,Quematrice Cuchillo IV		
+Art/Model/Item/it01/00/0002/it0100_0002_1.mesh	Quematrice Cuchillo (Shield)	Weapons/Sword and Shield	it0100_0002_1.mesh,Quematrice Cuchillo II,Quematrice Cuchillo III,Quematrice Cuchillo IV		
+Art/Model/Item/it01/00/0003/it0100_0003_0.chain2	Firetrail Fornax (Chain Physics)	Weapons/Sword and Shield	it0100_0003_0.chain2		
+Art/Model/Item/it01/00/0003/it0100_0003_0.mesh	Firetrail Fornax	Weapons/Sword and Shield	it0100_0003_0.mesh		
+Art/Model/Item/it01/00/0003/it0100_0003_1.chain2	Firetrail Fornax (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0003_1.chain2		
+Art/Model/Item/it01/00/0003/it0100_0003_1.mesh	Firetrail Fornax (Shield)	Weapons/Sword and Shield	it0100_0003_1.mesh		
+Art/Model/Item/it01/00/0004/it0100_0004_0.mesh	Chata Club	Weapons/Sword and Shield	it0100_0004_0.mesh,Chata Club II,Chata Club III,Chata Club IV		
+Art/Model/Item/it01/00/0004/it0100_0004_1.mesh	Chata Club (Shield)	Weapons/Sword and Shield	it0100_0004_1.mesh,Chata Club II,Chata Club III,Chata Club IV		
+Art/Model/Item/it01/00/0005/it0100_0005_0.mesh	Shrouded Katalo	Weapons/Sword and Shield	it0100_0005_0.mesh		
+Art/Model/Item/it01/00/0005/it0100_0005_1.mesh	Shrouded Katalo (Shield)	Weapons/Sword and Shield	it0100_0005_1.mesh		
+Art/Model/Item/it01/00/0006/it0100_0006_0.mesh	Naab Sword 	Weapons/Sword and Shield	it0100_0006_0.mesh,Feral Fangs ,Naab Sword 		
+Art/Model/Item/it01/00/0006/it0100_0006_1.mesh	Naab Sword (Shield)	Weapons/Sword and Shield	it0100_0006_1.mesh,Feral Fangs (Shield),Naab Sword (Shield)		
+Art/Model/Item/it01/00/0007/it0100_0007_0.chain2	Hope Sword (Chain Physics)	Weapons/Sword and Shield	it0100_0007_0.chain2,Hope Sword II,Hope Sword III,Hope Sword IV,Hope Sword V,Esperanza Sword		
+Art/Model/Item/it01/00/0007/it0100_0007_0.mesh	Hope Sword	Weapons/Sword and Shield	it0100_0007_0.mesh,Hope Sword II,Hope Sword III,Hope Sword IV,Hope Sword V,Esperanza Sword		
+Art/Model/Item/it01/00/0007/it0100_0007_1.chain2	Hope Sword (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0007_1.chain2,Hope Sword II,Hope Sword III,Hope Sword IV,Hope Sword V,Esperanza Sword		
+Art/Model/Item/it01/00/0007/it0100_0007_1.mesh	Hope Sword (Shield)	Weapons/Sword and Shield	it0100_0007_1.mesh,Hope Sword II,Hope Sword III,Hope Sword IV,Hope Sword V,Esperanza Sword		
+Art/Model/Item/it01/00/0008/it0100_0008_0.mesh	Balahara Blade	Weapons/Sword and Shield	it0100_0008_0.mesh,Balahara Blade II,Balahara Blade III,Balahara Blade IV		
+Art/Model/Item/it01/00/0008/it0100_0008_1.mesh	Balahara Blade (Shield)	Weapons/Sword and Shield	it0100_0008_1.mesh,Balahara Blade II,Balahara Blade III,Balahara Blade IV		
+Art/Model/Item/it01/00/0009/it0100_0009_0.mesh	Sandsea Katduva	Weapons/Sword and Shield	it0100_0009_0.mesh		
+Art/Model/Item/it01/00/0009/it0100_0009_1.mesh	Sandsea Katduva (Shield)	Weapons/Sword and Shield	it0100_0009_1.mesh		
+Art/Model/Item/it01/00/0010/it0100_0010_0.mesh	Rey Kuara	Weapons/Sword and Shield	it0100_0010_0.mesh,Rey Kuara II,Rey Kuara III,Kuara Clairsword		
+Art/Model/Item/it01/00/0010/it0100_0010_1.chain2	Rey Kuara (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0010_1.chain2,Rey Kuara II,Rey Kuara III,Kuara Clairsword		
+Art/Model/Item/it01/00/0010/it0100_0010_1.mesh	Rey Kuara (Shield)	Weapons/Sword and Shield	it0100_0010_1.mesh,Rey Kuara II,Rey Kuara III,Kuara Clairsword		
+Art/Model/Item/it01/00/0011/it0100_0011_0.mesh	Princess Rapier	Weapons/Sword and Shield	it0100_0011_0.mesh,Princess Rapier II,Queen Rapier		
+Art/Model/Item/it01/00/0011/it0100_0011_1.mesh	Princess Rapier (Shield)	Weapons/Sword and Shield	it0100_0011_1.mesh,Princess Rapier II,Queen Rapier		
+Art/Model/Item/it01/00/0012/it0100_0012_0.mesh	Heat Edge	Weapons/Sword and Shield	it0100_0012_0.mesh,Corona		
+Art/Model/Item/it01/00/0012/it0100_0012_1.mesh	Heat Edge (Shield)	Weapons/Sword and Shield	it0100_0012_1.mesh,Corona		
+Art/Model/Item/it01/00/0013/it0100_0013_0.mesh	Sucher-Ankh	Weapons/Sword and Shield	it0100_0013_0.mesh,Jäger-Ankh		
+Art/Model/Item/it01/00/0013/it0100_0013_1.mesh	Sucher-Ankh (Shield)	Weapons/Sword and Shield	it0100_0013_1.mesh,Jäger-Ankh		
+Art/Model/Item/it01/00/0014/it0100_0014_0.mesh	Scaly Sword	Weapons/Sword and Shield	it0100_0014_0.mesh,Scaly Sword II,Scaly Sword III,Nerskiller		
+Art/Model/Item/it01/00/0014/it0100_0014_1.mesh	Scaly Sword (Shield)	Weapons/Sword and Shield	it0100_0014_1.mesh,Scaly Sword II,Scaly Sword III,Nerskiller		
+Art/Model/Item/it01/00/0015/it0100_0015_0.mesh	Ajara Saber	Weapons/Sword and Shield	it0100_0015_0.mesh,Ajara Saber II,Ajara-Subinda		
+Art/Model/Item/it01/00/0015/it0100_0015_1.mesh	Ajara Saber (Shield)	Weapons/Sword and Shield	it0100_0015_1.mesh,Ajara Saber II,Ajara-Subinda		
+Art/Model/Item/it01/00/0016/it0100_0016_0.mesh	Venom's Pain	Weapons/Sword and Shield	it0100_0016_0.mesh,Venoms Pain II,Viperine Saber		
+Art/Model/Item/it01/00/0016/it0100_0016_1.mesh	Venom's Pain (Shield)	Weapons/Sword and Shield	it0100_0016_1.mesh,Venoms Pain II,Viperine Saber		
+Art/Model/Item/it01/00/0017/it0100_0017_0.mesh	Lagia Sword 	Weapons/Sword and Shield	it0100_0017_0.mesh,High Lagia Sword ,Lagia Sword 		
+Art/Model/Item/it01/00/0017/it0100_0017_1.mesh	Lagia Sword (Shield)	Weapons/Sword and Shield	it0100_0017_1.mesh,High Lagia Sword (Shield),Lagia Sword (Shield)		
+Art/Model/Item/it01/00/0019/it0100_0019_0.mesh	Gravios Syphos	Weapons/Sword and Shield	it0100_0019_0.mesh,Titans Armament		
+Art/Model/Item/it01/00/0019/it0100_0019_1.mesh	Gravios Syphos (Shield)	Weapons/Sword and Shield	it0100_0019_1.mesh,Titans Armament		
+Art/Model/Item/it01/00/0020/it0100_0020_0.mesh	Snow-white Jambiya	Weapons/Sword and Shield	it0100_0020_0.mesh,Snow Lion Jambiya		
+Art/Model/Item/it01/00/0020/it0100_0020_1.chain2	Snow-white Jambiya (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0020_1.chain2,Snow Lion Jambiya		
+Art/Model/Item/it01/00/0020/it0100_0020_1.mesh	Snow-white Jambiya (Shield)	Weapons/Sword and Shield	it0100_0020_1.mesh,Snow Lion Jambiya		
+Art/Model/Item/it01/00/0022/it0100_0022_0.chain2	G. Veldian Mucro (Chain Physics)	Weapons/Sword and Shield	it0100_0022_0.chain2,G. Veldian Mucro II,G. Guiding Artorius		
+Art/Model/Item/it01/00/0022/it0100_0022_0.mesh	G. Veldian Mucro	Weapons/Sword and Shield	it0100_0022_0.mesh,G. Veldian Mucro II,G. Guiding Artorius		
+Art/Model/Item/it01/00/0022/it0100_0022_1.chain2	G. Veldian Mucro (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0022_1.chain2,G. Veldian Mucro II,G. Guiding Artorius		
+Art/Model/Item/it01/00/0022/it0100_0022_1.mesh	G. Veldian Mucro (Shield)	Weapons/Sword and Shield	it0100_0022_1.mesh,G. Veldian Mucro II,G. Guiding Artorius		
+Art/Model/Item/it01/00/0023/it0100_0023_0.chain2	Jin Dhaklab (Chain Physics)	Weapons/Sword and Shield	it0100_0023_0.chain2,Precipice Mateptro		
+Art/Model/Item/it01/00/0023/it0100_0023_0.mesh	Jin Dhaklab	Weapons/Sword and Shield	it0100_0023_0.mesh,Precipice Mateptro		
+Art/Model/Item/it01/00/0023/it0100_0023_1.mesh	Jin Dhaklab (Shield)	Weapons/Sword and Shield	it0100_0023_1.mesh,Precipice Mateptro		
+Art/Model/Item/it01/00/0024/it0100_0024_0.mesh	Nihil Sword	Weapons/Sword and Shield	it0100_0024_0.mesh,Nihil Sword II,Cordayles Revocation		
+Art/Model/Item/it01/00/0024/it0100_0024_1.chain2	Nihil Sword (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0024_1.chain2,Nihil Sword II,Cordayles Revocation		
+Art/Model/Item/it01/00/0024/it0100_0024_1.mesh	Nihil Sword (Shield)	Weapons/Sword and Shield	it0100_0024_1.mesh,Nihil Sword II,Cordayles Revocation		
+Art/Model/Item/it01/00/0027/it0100_0027_0.mesh	Barina Dague	Weapons/Sword and Shield	it0100_0027_0.mesh,Barina Dague II,Barina Dague III,Barina Dague IV		
+Art/Model/Item/it01/00/0027/it0100_0027_1.chain2	Barina Dague (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0027_1.chain2,Barina Dague II,Barina Dague III,Barina Dague IV		
+Art/Model/Item/it01/00/0027/it0100_0027_1.mesh	Barina Dague (Shield)	Weapons/Sword and Shield	it0100_0027_1.mesh,Barina Dague II,Barina Dague III,Barina Dague IV		
+Art/Model/Item/it01/00/0028/it0100_0028_0.chain2	Veldian Mucro (Chain Physics)	Weapons/Sword and Shield	it0100_0028_0.chain2,Guiding Artorius		
+Art/Model/Item/it01/00/0028/it0100_0028_0.mesh	Veldian Mucro	Weapons/Sword and Shield	it0100_0028_0.mesh,Guiding Artorius		
+Art/Model/Item/it01/00/0028/it0100_0028_1.chain2	Veldian Mucro (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0028_1.chain2,Guiding Artorius		
+Art/Model/Item/it01/00/0028/it0100_0028_1.mesh	Veldian Mucro (Shield)	Weapons/Sword and Shield	it0100_0028_1.mesh,Guiding Artorius		
+Art/Model/Item/it01/00/0029/it0100_0029_0.chain2	Mining Pickaxe  (Chain Physics)	Weapons/Sword and Shield	it0100_0029_0.chain2,Digmore War Pick  (Chain Physics),Mining Pickaxe  (Chain Physics)		
+Art/Model/Item/it01/00/0029/it0100_0029_0.mesh	Mining Pickaxe 	Weapons/Sword and Shield	it0100_0029_0.mesh,Digmore War Pick ,Mining Pickaxe 		
+Art/Model/Item/it01/00/0029/it0100_0029_1.mesh	Mining Pickaxe (Shield)	Weapons/Sword and Shield	it0100_0029_1.mesh,Digmore War Pick (Shield),Mining Pickaxe (Shield)		
+Art/Model/Item/it01/00/0033/it0100_0033_0.mesh	Lala Acanthopelm	Weapons/Sword and Shield	it0100_0033_0.mesh		
+Art/Model/Item/it01/00/0033/it0100_0033_1.chain2	Lala Acanthopelm (Shield) (Chain Physics)	Weapons/Sword and Shield	it0100_0033_1.chain2		
+Art/Model/Item/it01/00/0033/it0100_0033_1.mesh	Lala Acanthopelm (Shield)	Weapons/Sword and Shield	it0100_0033_1.mesh		
+Art/Model/Item/it01/01/0001/it0101_0001_0.mesh	Bone Kukri	Weapons/Sword and Shield	it0101_0001_0.mesh,Bone Kukri II,Bone Kukri III,Bone Kukri IV,Chief Kukri		
+Art/Model/Item/it01/01/0001/it0101_0001_1.mesh	Bone Kukri (Shield)	Weapons/Sword and Shield	it0101_0001_1.mesh,Bone Kukri II,Bone Kukri III,Bone Kukri IV,Chief Kukri		
+Art/Model/Item/it01/01/0002/it0101_0002_0.mesh	Iron Beater	Weapons/Sword and Shield	it0101_0002_0.mesh,Iron Beater II,Iron Beater III,Smithys Pride		
+Art/Model/Item/it01/01/0002/it0101_0002_1.mesh	Iron Beater (Shield)	Weapons/Sword and Shield	it0101_0002_1.mesh,Iron Beater II,Iron Beater III,Smithys Pride		
+Art/Model/Item/it01/10/0000/it0110_0000_0.mesh	Albirath Edge	Weapons/Sword and Shield	it0110_0000_0.mesh,Albirath Edge II,Melting Point		
+Art/Model/Item/it01/10/0000/it0110_0000_1.mesh	Albirath Edge (Shield)	Weapons/Sword and Shield	it0110_0000_1.mesh,Albirath Edge II,Melting Point		
+Art/Model/Item/it01/10/0002/it0110_0002_0.mesh	Rending Fulgur	Weapons/Sword and Shield	it0110_0002_0.mesh,Fulgursword Guardiana		
+Art/Model/Item/it01/10/0002/it0110_0002_1.chain2	Rending Fulgur (Shield) (Chain Physics)	Weapons/Sword and Shield	it0110_0002_1.chain2,Fulgursword Guardiana		
+Art/Model/Item/it01/10/0002/it0110_0002_1.mesh	Rending Fulgur (Shield)	Weapons/Sword and Shield	it0110_0002_1.mesh,Fulgursword Guardiana		
+Art/Model/Item/it01/10/0003/it0110_0003_0.mesh	Artian Sword	Weapons/Sword and Shield	it0110_0003_0.mesh,Artian Sword II,Verdoloto		
+Art/Model/Item/it01/10/0003/it0110_0003_1.mesh	Artian Sword (Shield)	Weapons/Sword and Shield	it0110_0003_1.mesh,Artian Sword II,Verdoloto		
+Art/Model/Item/it02/00/0000/it0200_0000_0.mesh	Zakun Twins (L)	Weapons/Dual Blades	it0200_0000_0.mesh,Terrible Twins (L),Zakun Twins (L)		
+Art/Model/Item/it02/00/0000/it0200_0000_1.mesh	Zakun Twins (R)	Weapons/Dual Blades	it0200_0000_1.mesh,Terrible Twins (R),Zakun Twins (R)		
+Art/Model/Item/it02/00/0002/it0200_0002_0.mesh	Guild Knight Sabers (L)	Weapons/Dual Blades	it0200_0002_0.mesh,Guild Knight Sabers II,Master Sabers		
+Art/Model/Item/it02/00/0002/it0200_0002_1.mesh	Guild Knight Sabers (R)	Weapons/Dual Blades	it0200_0002_1.mesh,Guild Knight Sabers II,Master Sabers		
+Art/Model/Item/it02/00/0003/it0200_0003_0.mesh	Quematrice Silexes (L)	Weapons/Dual Blades	it0200_0003_0.mesh,Quematrice Silexes II,Quematrice Silexes III,Quematrice Silexes IV		
+Art/Model/Item/it02/00/0003/it0200_0003_1.mesh	Quematrice Silexes (R)	Weapons/Dual Blades	it0200_0003_1.mesh,Quematrice Silexes II,Quematrice Silexes III,Quematrice Silexes IV		
+Art/Model/Item/it02/00/0004/it0200_0004_0.mesh	Firetrail Magnesiae (L)	Weapons/Dual Blades	it0200_0004_0.mesh		
+Art/Model/Item/it02/00/0004/it0200_0004_1.mesh	Firetrail Magnesiae (R)	Weapons/Dual Blades	it0200_0004_1.mesh		
+Art/Model/Item/it02/00/0005/it0200_0005_0.mesh	Barina Faucilles (L)	Weapons/Dual Blades	it0200_0005_0.mesh,Barina Faucilles II,Barina Faucilles III,Barina Faucilles IV		
+Art/Model/Item/it02/00/0005/it0200_0005_1.mesh	Barina Faucilles (R)	Weapons/Dual Blades	it0200_0005_1.mesh,Barina Faucilles II,Barina Faucilles III,Barina Faucilles IV		
+Art/Model/Item/it02/00/0006/it0200_0006_0.mesh	Lala Harpactirs (L)	Weapons/Dual Blades	it0200_0006_0.mesh		
+Art/Model/Item/it02/00/0006/it0200_0006_1.mesh	Lala Harpactirs (R)	Weapons/Dual Blades	it0200_0006_1.mesh		
+Art/Model/Item/it02/00/0007/it0200_0007_0.mesh	Pink Maracas (L)	Weapons/Dual Blades	it0200_0007_0.mesh,Pink Maracas II,Funky Maracas		
+Art/Model/Item/it02/00/0007/it0200_0007_1.mesh	Pink Maracas (R)	Weapons/Dual Blades	it0200_0007_1.mesh,Pink Maracas II,Funky Maracas		
+Art/Model/Item/it02/00/0008/it0200_0008_0.chain2	Dosha Fastflayers (L) (Chain Physics)	Weapons/Dual Blades	it0200_0008_0.chain2,Dosha Fastflayers II,Dosha Fastflayers III		
+Art/Model/Item/it02/00/0008/it0200_0008_0.mesh	Dosha Fastflayers (L)	Weapons/Dual Blades	it0200_0008_0.mesh,Dosha Fastflayers II,Dosha Fastflayers III		
+Art/Model/Item/it02/00/0008/it0200_0008_1.chain2	Dosha Fastflayers (R) (Chain Physics)	Weapons/Dual Blades	it0200_0008_1.chain2,Dosha Fastflayers II,Dosha Fastflayers III		
+Art/Model/Item/it02/00/0008/it0200_0008_1.mesh	Dosha Fastflayers (R)	Weapons/Dual Blades	it0200_0008_1.mesh,Dosha Fastflayers II,Dosha Fastflayers III		
+Art/Model/Item/it02/00/0009/it0200_0009_0.chain2	Fastflayers Jambastra (L) (Chain Physics)	Weapons/Dual Blades	it0200_0009_0.chain2		
+Art/Model/Item/it02/00/0009/it0200_0009_0.mesh	Fastflayers Jambastra (L)	Weapons/Dual Blades	it0200_0009_0.mesh		
+Art/Model/Item/it02/00/0009/it0200_0009_1.chain2	Fastflayers Jambastra (R) (Chain Physics)	Weapons/Dual Blades	it0200_0009_1.chain2		
+Art/Model/Item/it02/00/0009/it0200_0009_1.mesh	Fastflayers Jambastra (R)	Weapons/Dual Blades	it0200_0009_1.mesh		
+Art/Model/Item/it02/00/0010/it0200_0010_0.chain2	Uth Ngarpatu (L) (Chain Physics)	Weapons/Dual Blades	it0200_0010_0.chain2,Uth Ngarpatu II,Uth Ngarpatu III,Ngarpatu-of-the-Waves		
+Art/Model/Item/it02/00/0010/it0200_0010_0.mesh	Uth Ngarpatu (L)	Weapons/Dual Blades	it0200_0010_0.mesh,Uth Ngarpatu II,Uth Ngarpatu III,Ngarpatu-of-the-Waves		
+Art/Model/Item/it02/00/0010/it0200_0010_1.chain2	Uth Ngarpatu (R) (Chain Physics)	Weapons/Dual Blades	it0200_0010_1.chain2,Uth Ngarpatu II,Uth Ngarpatu III,Ngarpatu-of-the-Waves		
+Art/Model/Item/it02/00/0010/it0200_0010_1.mesh	Uth Ngarpatu (R)	Weapons/Dual Blades	it0200_0010_1.mesh,Uth Ngarpatu II,Uth Ngarpatu III,Ngarpatu-of-the-Waves		
+Art/Model/Item/it02/00/0011/it0200_0011_0.mesh	Twin Flames (L)	Weapons/Dual Blades	it0200_0011_0.mesh,Wyvern Lovers		
+Art/Model/Item/it02/00/0011/it0200_0011_1.mesh	Twin Flames (R)	Weapons/Dual Blades	it0200_0011_1.mesh,Wyvern Lovers		
+Art/Model/Item/it02/00/0012/it0200_0012_0.chain2	Fledderklauen (L) (Chain Physics)	Weapons/Dual Blades	it0200_0012_0.chain2,Hungerklauen		
+Art/Model/Item/it02/00/0012/it0200_0012_0.mesh	Fledderklauen (L)	Weapons/Dual Blades	it0200_0012_0.mesh,Hungerklauen		
+Art/Model/Item/it02/00/0012/it0200_0012_1.chain2	Fledderklauen (R) (Chain Physics)	Weapons/Dual Blades	it0200_0012_1.chain2,Hungerklauen		
+Art/Model/Item/it02/00/0012/it0200_0012_1.mesh	Fledderklauen (R)	Weapons/Dual Blades	it0200_0012_1.mesh,Hungerklauen		
+Art/Model/Item/it02/00/0013/it0200_0013_0.mesh	Ajara Twin Edges (L)	Weapons/Dual Blades	it0200_0013_0.mesh,Ajara Twin Edges II,Ajara-Panthaka		
+Art/Model/Item/it02/00/0013/it0200_0013_1.mesh	Ajara Twin Edges (R)	Weapons/Dual Blades	it0200_0013_1.mesh,Ajara Twin Edges II,Ajara-Panthaka		
+Art/Model/Item/it02/00/0015/it0200_0015_0.chain2	Kut-Ku Pair (L) (Chain Physics)	Weapons/Dual Blades	it0200_0015_0.chain2,Kut-Ku Pair II,Dual Kut-Ku		
+Art/Model/Item/it02/00/0015/it0200_0015_0.mesh	Kut-Ku Pair (L)	Weapons/Dual Blades	it0200_0015_0.mesh,Kut-Ku Pair II,Dual Kut-Ku		
+Art/Model/Item/it02/00/0015/it0200_0015_1.chain2	Kut-Ku Pair (R) (Chain Physics)	Weapons/Dual Blades	it0200_0015_1.chain2,Kut-Ku Pair II,Dual Kut-Ku		
+Art/Model/Item/it02/00/0015/it0200_0015_1.mesh	Kut-Ku Pair (R)	Weapons/Dual Blades	it0200_0015_1.mesh,Kut-Ku Pair II,Dual Kut-Ku		
+Art/Model/Item/it02/00/0016/it0200_0016_0.mesh	Dual Battleaxes (L)	Weapons/Dual Blades	it0200_0016_0.mesh,Dual Battleaxes II,Final Battleaxes		
+Art/Model/Item/it02/00/0016/it0200_0016_1.mesh	Dual Battleaxes (R)	Weapons/Dual Blades	it0200_0016_1.mesh,Dual Battleaxes II,Final Battleaxes		
+Art/Model/Item/it02/00/0017/it0200_0017_0.mesh	Twin Acrus (L)	Weapons/Dual Blades	it0200_0017_0.mesh,Levin Acrus (L),Twin Acrus (L)		
+Art/Model/Item/it02/00/0017/it0200_0017_1.mesh	Twin Acrus (R)	Weapons/Dual Blades	it0200_0017_1.mesh,Levin Acrus (R),Twin Acrus (R)		
+Art/Model/Item/it02/00/0018/it0200_0018_0.mesh	Gravios Warmakers (L)	Weapons/Dual Blades	it0200_0018_0.mesh,Gravios Conquerors		
+Art/Model/Item/it02/00/0018/it0200_0018_1.mesh	Gravios Warmakers (R)	Weapons/Dual Blades	it0200_0018_1.mesh,Gravios Conquerors		
+Art/Model/Item/it02/00/0019/it0200_0019_0.mesh	Blango Sai (L)	Weapons/Dual Blades	it0200_0019_0.mesh,Blango Trishula		
+Art/Model/Item/it02/00/0019/it0200_0019_1.mesh	Blango Sai (R)	Weapons/Dual Blades	it0200_0019_1.mesh,Blango Trishula		
+Art/Model/Item/it02/00/0021/it0200_0021_0.chain2	G. Veldian Harpes (L) (Chain Physics)	Weapons/Dual Blades	it0200_0021_0.chain2,G. Veldian Harpes II,G. Inspired Ywain		
+Art/Model/Item/it02/00/0021/it0200_0021_0.mesh	G. Veldian Harpes (L)	Weapons/Dual Blades	it0200_0021_0.mesh,G. Veldian Harpes II,G. Inspired Ywain		
+Art/Model/Item/it02/00/0021/it0200_0021_1.chain2	G. Veldian Harpes (R) (Chain Physics)	Weapons/Dual Blades	it0200_0021_1.chain2,G. Veldian Harpes II,G. Inspired Ywain		
+Art/Model/Item/it02/00/0021/it0200_0021_1.mesh	G. Veldian Harpes (R)	Weapons/Dual Blades	it0200_0021_1.mesh,G. Veldian Harpes II,G. Inspired Ywain		
+Art/Model/Item/it02/00/0023/it0200_0023_0.mesh	Jin Dhakoo (L)	Weapons/Dual Blades	it0200_0023_0.mesh,Precipice Ulokiem		
+Art/Model/Item/it02/00/0023/it0200_0023_1.mesh	Jin Dhakoo (R)	Weapons/Dual Blades	it0200_0023_1.mesh,Precipice Ulokiem		
+Art/Model/Item/it02/00/0026/it0200_0026_0.chain2	Veldian Harpes (L) (Chain Physics)	Weapons/Dual Blades	it0200_0026_0.chain2,Inspired Ywain		
+Art/Model/Item/it02/00/0026/it0200_0026_0.mesh	Veldian Harpes (L)	Weapons/Dual Blades	it0200_0026_0.mesh,Inspired Ywain		
+Art/Model/Item/it02/00/0026/it0200_0026_1.chain2	Veldian Harpes (R) (Chain Physics)	Weapons/Dual Blades	it0200_0026_1.chain2,Inspired Ywain		
+Art/Model/Item/it02/00/0026/it0200_0026_1.mesh	Veldian Harpes (R)	Weapons/Dual Blades	it0200_0026_1.mesh,Inspired Ywain		
+Art/Model/Item/it02/00/0028/it0200_0028_0.chain2	Hope Daggers (L) (Chain Physics)	Weapons/Dual Blades	it0200_0028_0.chain2,Hope Daggers II,Hope Daggers III,Hope Daggers IV,Hope Daggers V,Esperanza Daggers		
+Art/Model/Item/it02/00/0028/it0200_0028_0.mesh	Hope Daggers (L)	Weapons/Dual Blades	it0200_0028_0.mesh,Hope Daggers II,Hope Daggers III,Hope Daggers IV,Hope Daggers V,Esperanza Daggers		
+Art/Model/Item/it02/00/0028/it0200_0028_1.chain2	Hope Daggers (R) (Chain Physics)	Weapons/Dual Blades	it0200_0028_1.chain2,Hope Daggers II,Hope Daggers III,Hope Daggers IV,Hope Daggers V,Esperanza Daggers		
+Art/Model/Item/it02/00/0028/it0200_0028_1.mesh	Hope Daggers (R)	Weapons/Dual Blades	it0200_0028_1.mesh,Hope Daggers II,Hope Daggers III,Hope Daggers IV,Hope Daggers V,Esperanza Daggers		
+Art/Model/Item/it02/01/0001/it0201_0001_0.mesh	Dual Hatchets (L)	Weapons/Dual Blades	it0201_0001_0.mesh,Dual Hatchets II,Dual Hatchets III,Dual Cleavers		
+Art/Model/Item/it02/01/0001/it0201_0001_1.mesh	Dual Hatchets (R)	Weapons/Dual Blades	it0201_0001_1.mesh,Dual Hatchets II,Dual Hatchets III,Dual Cleavers		
+Art/Model/Item/it02/01/0004/it0201_0004_0.mesh	Bone Hatchets (L)	Weapons/Dual Blades	it0201_0004_0.mesh,Bone Hatchets II,Bone Hatchets III,Bone Hatchets IV,Wild Hatchets		
+Art/Model/Item/it02/01/0004/it0201_0004_1.mesh	Bone Hatchets (R)	Weapons/Dual Blades	it0201_0004_1.mesh,Bone Hatchets II,Bone Hatchets III,Bone Hatchets IV,Wild Hatchets		
+Art/Model/Item/it02/10/0000/it0210_0000_0.mesh	Twin Albiraths (L)	Weapons/Dual Blades	it0210_0000_0.mesh,Twin Albiraths II,Wyvern Sentinels		
+Art/Model/Item/it02/10/0000/it0210_0000_1.mesh	Twin Albiraths (R)	Weapons/Dual Blades	it0210_0000_1.mesh,Twin Albiraths II,Wyvern Sentinels		
+Art/Model/Item/it02/10/0001/it0210_0001_0.chain2	Chthonian Kusarigamas (L) (Chain Physics)	Weapons/Dual Blades	it0210_0001_0.chain2,Chthonian Kusarigamas II,Bequeathed Oblivion		
+Art/Model/Item/it02/10/0001/it0210_0001_0.mesh	Chthonian Kusarigamas (L)	Weapons/Dual Blades	it0210_0001_0.mesh,Chthonian Kusarigamas II,Bequeathed Oblivion		
+Art/Model/Item/it02/10/0001/it0210_0001_1.chain2	Chthonian Kusarigamas (R) (Chain Physics)	Weapons/Dual Blades	it0210_0001_1.chain2,Chthonian Kusarigamas II,Bequeathed Oblivion		
+Art/Model/Item/it02/10/0001/it0210_0001_1.mesh	Chthonian Kusarigamas (R)	Weapons/Dual Blades	it0210_0001_1.mesh,Chthonian Kusarigamas II,Bequeathed Oblivion		
+Art/Model/Item/it02/10/0002/it0210_0002_0.chain2	Dosha Guardflayers (L) (Chain Physics)	Weapons/Dual Blades	it0210_0002_0.chain2,Dosha Guardflayers II,Guardflayers Urbastra		
+Art/Model/Item/it02/10/0002/it0210_0002_0.mesh	Dosha Guardflayers (L)	Weapons/Dual Blades	it0210_0002_0.mesh,Dosha Guardflayers II,Guardflayers Urbastra		
+Art/Model/Item/it02/10/0002/it0210_0002_1.chain2	Dosha Guardflayers (R) (Chain Physics)	Weapons/Dual Blades	it0210_0002_1.chain2,Dosha Guardflayers II,Guardflayers Urbastra		
+Art/Model/Item/it02/10/0002/it0210_0002_1.mesh	Dosha Guardflayers (R)	Weapons/Dual Blades	it0210_0002_1.mesh,Dosha Guardflayers II,Guardflayers Urbastra		
+Art/Model/Item/it02/10/0003/it0210_0003_0.mesh	Whirling Fulgur (L)	Weapons/Dual Blades	it0210_0003_0.mesh,Fulgurtwins Guardiana		
+Art/Model/Item/it02/10/0003/it0210_0003_1.mesh	Whirling Fulgur (R)	Weapons/Dual Blades	it0210_0003_1.mesh,Fulgurtwins Guardiana		
+Art/Model/Item/it02/10/0004/it0210_0004_0.mesh	Artian Edges (L)	Weapons/Dual Blades	it0210_0004_0.mesh,Artian Edges II,Tiltkreise		
+Art/Model/Item/it02/10/0004/it0210_0004_1.mesh	Artian Edges (R)	Weapons/Dual Blades	it0210_0004_1.mesh,Artian Edges II,Tiltkreise		
+Art/Model/Item/it03/00/0000/it0300_0000_0.chain2	Dosha Fatecleaver (Chain Physics)	Weapons/Long Sword	it0300_0000_0.chain2,Dosha Fatecleaver II,Dosha Fatecleaver III		
+Art/Model/Item/it03/00/0000/it0300_0000_0.mesh	Dosha Fatecleaver	Weapons/Long Sword	it0300_0000_0.mesh,Dosha Fatecleaver II,Dosha Fatecleaver III		
+Art/Model/Item/it03/00/0000/it0300_0000_1.mesh	Dosha Fatecleaver (Sheath)	Weapons/Long Sword	it0300_0000_1.mesh,Dosha Fatecleaver II,Dosha Fatecleaver III		
+Art/Model/Item/it03/00/0001/it0300_0001_0.chain2	Fatecleaver Kimkemush (Chain Physics)	Weapons/Long Sword	it0300_0001_0.chain2		
+Art/Model/Item/it03/00/0001/it0300_0001_0.mesh	Fatecleaver Kimkemush	Weapons/Long Sword	it0300_0001_0.mesh		
+Art/Model/Item/it03/00/0001/it0300_0001_1.mesh	Fatecleaver Kimkemush (Sheath)	Weapons/Long Sword	it0300_0001_1.mesh		
+Art/Model/Item/it03/00/0002/it0300_0002_0.mesh	Khanga Edge 	Weapons/Long Sword	it0300_0002_0.mesh,Khanga Rebellion ,Khanga Edge 		
+Art/Model/Item/it03/00/0002/it0300_0002_1.mesh	Khanga Edge (Sheath)	Weapons/Long Sword	it0300_0002_1.mesh,Khanga Rebellion (Sheath),Khanga Edge (Sheath)		
+Art/Model/Item/it03/00/0003/it0300_0003_0.chain2	Hope Edge (Chain Physics)	Weapons/Long Sword	it0300_0003_0.chain2,Hope Edge II,Hope Edge III,Hope Edge IV,Hope Edge V,Esperanza Edge		
+Art/Model/Item/it03/00/0003/it0300_0003_0.mesh	Hope Edge	Weapons/Long Sword	it0300_0003_0.mesh,Hope Edge II,Hope Edge III,Hope Edge IV,Hope Edge V,Esperanza Edge		
+Art/Model/Item/it03/00/0003/it0300_0003_1.mesh	Hope Edge (Sheath)	Weapons/Long Sword	it0300_0003_1.mesh,Hope Edge II,Hope Edge III,Hope Edge IV,Hope Edge V,Esperanza Edge		
+Art/Model/Item/it03/00/0004/it0300_0004_0.mesh	Quematrice Lima	Weapons/Long Sword	it0300_0004_0.mesh,Quematrice Lima II,Quematrice Lima III,Quematrice Lima IV		
+Art/Model/Item/it03/00/0004/it0300_0004_1.chain2	Quematrice Lima (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0004_1.chain2,Quematrice Lima II,Quematrice Lima III,Quematrice Lima IV		
+Art/Model/Item/it03/00/0004/it0300_0004_1.mesh	Quematrice Lima (Sheath)	Weapons/Long Sword	it0300_0004_1.mesh,Quematrice Lima II,Quematrice Lima III,Quematrice Lima IV		
+Art/Model/Item/it03/00/0005/it0300_0005_0.mesh	Firetrail Ferrocere	Weapons/Long Sword	it0300_0005_0.mesh		
+Art/Model/Item/it03/00/0005/it0300_0005_1.chain2	Firetrail Ferrocere (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0005_1.chain2		
+Art/Model/Item/it03/00/0005/it0300_0005_1.mesh	Firetrail Ferrocere (Sheath)	Weapons/Long Sword	it0300_0005_1.mesh		
+Art/Model/Item/it03/00/0006/it0300_0006_0.mesh	Barina Flamberge	Weapons/Long Sword	it0300_0006_0.mesh,Barina Flamberge II,Barina Flamberge III,Barina Flamberge IV		
+Art/Model/Item/it03/00/0006/it0300_0006_1.chain2	Barina Flamberge (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0006_1.chain2,Barina Flamberge II,Barina Flamberge III,Barina Flamberge IV		
+Art/Model/Item/it03/00/0006/it0300_0006_1.mesh	Barina Flamberge (Sheath)	Weapons/Long Sword	it0300_0006_1.mesh,Barina Flamberge II,Barina Flamberge III,Barina Flamberge IV		
+Art/Model/Item/it03/00/0007/it0300_0007_0.mesh	Lala Ornithocton	Weapons/Long Sword	it0300_0007_0.mesh		
+Art/Model/Item/it03/00/0007/it0300_0007_1.chain2	Lala Ornithocton (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0007_1.chain2		
+Art/Model/Item/it03/00/0007/it0300_0007_1.mesh	Lala Ornithocton (Sheath)	Weapons/Long Sword	it0300_0007_1.mesh		
+Art/Model/Item/it03/00/0008/it0300_0008_0.chain2	Uth Khlunda (Chain Physics)	Weapons/Long Sword	it0300_0008_0.chain2,Uth Khlunda II,Uth Khlunda III,Khlunda-of-the-Waves		
+Art/Model/Item/it03/00/0008/it0300_0008_0.mesh	Uth Khlunda	Weapons/Long Sword	it0300_0008_0.mesh,Uth Khlunda II,Uth Khlunda III,Khlunda-of-the-Waves		
+Art/Model/Item/it03/00/0008/it0300_0008_1.chain2	Uth Khlunda (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0008_1.chain2,Uth Khlunda II,Uth Khlunda III,Khlunda-of-the-Waves		
+Art/Model/Item/it03/00/0008/it0300_0008_1.mesh	Uth Khlunda (Sheath)	Weapons/Long Sword	it0300_0008_1.mesh,Uth Khlunda II,Uth Khlunda III,Khlunda-of-the-Waves		
+Art/Model/Item/it03/00/0009/it0300_0009_0.mesh	Rompo Hacker	Weapons/Long Sword	it0300_0009_0.mesh,Rompo Hacker II,Rompo Hacker III,Rompo Mytoxin		
+Art/Model/Item/it03/00/0009/it0300_0009_1.mesh	Rompo Hacker (Sheath)	Weapons/Long Sword	it0300_0009_1.mesh,Rompo Hacker II,Rompo Hacker III,Rompo Mytoxin		
+Art/Model/Item/it03/00/0010/it0300_0010_0.chain2	Rey Tonitrus (Chain Physics)	Weapons/Long Sword	it0300_0010_0.chain2,Rey Tonitrus II,Rey Tonitrus III,Tonitrus Clairblade		
+Art/Model/Item/it03/00/0010/it0300_0010_0.mesh	Rey Tonitrus	Weapons/Long Sword	it0300_0010_0.mesh,Rey Tonitrus II,Rey Tonitrus III,Tonitrus Clairblade		
+Art/Model/Item/it03/00/0010/it0300_0010_1.chain2	Rey Tonitrus (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0010_1.chain2,Rey Tonitrus II,Rey Tonitrus III,Tonitrus Clairblade		
+Art/Model/Item/it03/00/0010/it0300_0010_1.mesh	Rey Tonitrus (Sheath)	Weapons/Long Sword	it0300_0010_1.mesh,Rey Tonitrus II,Rey Tonitrus III,Tonitrus Clairblade		
+Art/Model/Item/it03/00/0011/it0300_0011_0.mesh	Wyvern Blade "Verde"	Weapons/Long Sword	it0300_0011_0.mesh,Wyvern Blade "Verde" II,Wyvern Blade "Holly"		
+Art/Model/Item/it03/00/0011/it0300_0011_1.mesh	Wyvern Blade "Verde" (Sheath)	Weapons/Long Sword	it0300_0011_1.mesh,Wyvern Blade "Verde" II,Wyvern Blade "Holly"		
+Art/Model/Item/it03/00/0012/it0300_0012_0.mesh	Wyvern Blade "Blood"	Weapons/Long Sword	it0300_0012_0.mesh,Wyvern Blade "Maple"		
+Art/Model/Item/it03/00/0012/it0300_0012_1.mesh	Wyvern Blade "Blood" (Sheath)	Weapons/Long Sword	it0300_0012_1.mesh,Wyvern Blade "Maple"		
+Art/Model/Item/it03/00/0013/it0300_0013_0.mesh	Stahlfakt	Weapons/Long Sword	it0300_0013_0.mesh,Stahlrecht		
+Art/Model/Item/it03/00/0013/it0300_0013_1.mesh	Stahlfakt (Sheath)	Weapons/Long Sword	it0300_0013_1.mesh,Stahlrecht		
+Art/Model/Item/it03/00/0014/it0300_0014_0.mesh	Blood Cry	Weapons/Long Sword	it0300_0014_0.mesh,Blood Cry II,Blood Cry III,Blood Scream		
+Art/Model/Item/it03/00/0014/it0300_0014_1.mesh	Blood Cry (Sheath)	Weapons/Long Sword	it0300_0014_1.mesh,Blood Cry II,Blood Cry III,Blood Scream		
+Art/Model/Item/it03/00/0015/it0300_0015_0.chain2	Windclaw Blade (Chain Physics)	Weapons/Long Sword	it0300_0015_0.chain2,Windclaw Blade II,Windclaw Blade III,Windclaw Kiribami		
+Art/Model/Item/it03/00/0015/it0300_0015_0.mesh	Windclaw Blade	Weapons/Long Sword	it0300_0015_0.mesh,Windclaw Blade II,Windclaw Blade III,Windclaw Kiribami		
+Art/Model/Item/it03/00/0015/it0300_0015_1.chain2	Windclaw Blade (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0015_1.chain2,Windclaw Blade II,Windclaw Blade III,Windclaw Kiribami		
+Art/Model/Item/it03/00/0015/it0300_0015_1.mesh	Windclaw Blade (Sheath)	Weapons/Long Sword	it0300_0015_1.mesh,Windclaw Blade II,Windclaw Blade III,Windclaw Kiribami		
+Art/Model/Item/it03/00/0016/it0300_0016_0.mesh	Scavenger Pickaxe 	Weapons/Long Sword	it0300_0016_0.mesh,Mad Scavenger Pickaxe ,Scavenger Pickaxe 		
+Art/Model/Item/it03/00/0016/it0300_0016_1.mesh	Scavenger Pickaxe (Sheath)	Weapons/Long Sword	it0300_0016_1.mesh,Mad Scavenger Pickaxe (Sheath),Scavenger Pickaxe (Sheath)		
+Art/Model/Item/it03/00/0018/it0300_0018_0.mesh	Thunderclap 	Weapons/Long Sword	it0300_0018_0.mesh,Heaven's Thunder ,Thunderclap 		
+Art/Model/Item/it03/00/0018/it0300_0018_1.mesh	Thunderclap (Sheath)	Weapons/Long Sword	it0300_0018_1.mesh,Heaven's Thunder (Sheath),Thunderclap (Sheath)		
+Art/Model/Item/it03/00/0019/it0300_0019_0.mesh	Blanberge	Weapons/Long Sword	it0300_0019_0.mesh,Blangongaberge		
+Art/Model/Item/it03/00/0019/it0300_0019_1.mesh	Blanberge (Sheath)	Weapons/Long Sword	it0300_0019_1.mesh,Blangongaberge		
+Art/Model/Item/it03/00/0021/it0300_0021_0.chain2	G. Veldian Ensis (Chain Physics)	Weapons/Long Sword	it0300_0021_0.chain2,G. Veldian Ensis II,G. Righteous Lancelot		
+Art/Model/Item/it03/00/0021/it0300_0021_0.mesh	G. Veldian Ensis	Weapons/Long Sword	it0300_0021_0.mesh,G. Veldian Ensis II,G. Righteous Lancelot		
+Art/Model/Item/it03/00/0021/it0300_0021_1.chain2	G. Veldian Ensis (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0021_1.chain2,G. Veldian Ensis II,G. Righteous Lancelot		
+Art/Model/Item/it03/00/0021/it0300_0021_1.mesh	G. Veldian Ensis (Sheath)	Weapons/Long Sword	it0300_0021_1.mesh,G. Veldian Ensis II,G. Righteous Lancelot		
+Art/Model/Item/it03/00/0024/it0300_0024_0.chain2	Veldian Ensis (Chain Physics)	Weapons/Long Sword	it0300_0024_0.chain2,Righteous Lancelot		
+Art/Model/Item/it03/00/0024/it0300_0024_0.mesh	Veldian Ensis	Weapons/Long Sword	it0300_0024_0.mesh,Righteous Lancelot		
+Art/Model/Item/it03/00/0024/it0300_0024_1.chain2	Veldian Ensis (Sheath) (Chain Physics)	Weapons/Long Sword	it0300_0024_1.chain2,Righteous Lancelot		
+Art/Model/Item/it03/00/0024/it0300_0024_1.mesh	Veldian Ensis (Sheath)	Weapons/Long Sword	it0300_0024_1.mesh,Righteous Lancelot		
+Art/Model/Item/it03/01/0000/it0301_0000_0.mesh	Iron Katana	Weapons/Long Sword	it0301_0000_0.mesh,Iron Katana II,Iron Katana III		
+Art/Model/Item/it03/01/0000/it0301_0000_1.mesh	Iron Katana (Sheath)	Weapons/Long Sword	it0301_0000_1.mesh,Iron Katana II,Iron Katana III		
+Art/Model/Item/it03/01/0002/it0301_0002_0.mesh	Keen Edge	Weapons/Long Sword	it0301_0002_0.mesh		
+Art/Model/Item/it03/01/0002/it0301_0002_1.mesh	Keen Edge (Sheath)	Weapons/Long Sword	it0301_0002_1.mesh		
+Art/Model/Item/it03/01/0004/it0301_0004_0.mesh	Bone Shotel	Weapons/Long Sword	it0301_0004_0.mesh,Bone Shotel II,Bone Shotel III,Bone Shotel IV,Hard Bone Shotel		
+Art/Model/Item/it03/01/0004/it0301_0004_1.mesh	Bone Shotel (Sheath)	Weapons/Long Sword	it0301_0004_1.mesh,Bone Shotel II,Bone Shotel III,Bone Shotel IV,Hard Bone Shotel		
+Art/Model/Item/it03/10/0000/it0310_0000_0.mesh	Wyvern Blade "Ash"	Weapons/Long Sword	it0310_0000_0.mesh,Wyvern Blade "Ash" II,Wyvern Blade "Lily"		
+Art/Model/Item/it03/10/0000/it0310_0000_1.mesh	Wyvern Blade "Ash" (Sheath)	Weapons/Long Sword	it0310_0000_1.mesh,Wyvern Blade "Ash" II,Wyvern Blade "Lily"		
+Art/Model/Item/it03/10/0001/it0310_0001_0.chain2	Dosha Gravecleaver (Chain Physics)	Weapons/Long Sword	it0310_0001_0.chain2,Dosha Gravecleaver II,Gravecleaver Urkemush		
+Art/Model/Item/it03/10/0001/it0310_0001_0.mesh	Dosha Gravecleaver	Weapons/Long Sword	it0310_0001_0.mesh,Dosha Gravecleaver II,Gravecleaver Urkemush		
+Art/Model/Item/it03/10/0001/it0310_0001_1.mesh	Dosha Gravecleaver (Sheath)	Weapons/Long Sword	it0310_0001_1.mesh,Dosha Gravecleaver II,Gravecleaver Urkemush		
+Art/Model/Item/it03/10/0002/it0310_0002_0.chain2	Gnashing Fulgur (Chain Physics)	Weapons/Long Sword	it0310_0002_0.chain2,Fulgurblade Guardiana		
+Art/Model/Item/it03/10/0002/it0310_0002_0.mesh	Gnashing Fulgur	Weapons/Long Sword	it0310_0002_0.mesh,Fulgurblade Guardiana		
+Art/Model/Item/it03/10/0002/it0310_0002_1.chain2	Gnashing Fulgur (Sheath) (Chain Physics)	Weapons/Long Sword	it0310_0002_1.chain2,Fulgurblade Guardiana		
+Art/Model/Item/it03/10/0002/it0310_0002_1.mesh	Gnashing Fulgur (Sheath)	Weapons/Long Sword	it0310_0002_1.mesh,Fulgurblade Guardiana		
+Art/Model/Item/it03/10/0003/it0310_0003_0.mesh	Artian Saber	Weapons/Long Sword	it0310_0003_0.mesh,Artian Saber II,Dimensius		
+Art/Model/Item/it03/10/0003/it0310_0003_1.mesh	Artian Saber (Sheath)	Weapons/Long Sword	it0310_0003_1.mesh,Artian Saber II,Dimensius		
+Art/Model/Item/it03/99/it0399_0000_0.chain2	Dosha Fatecleaver (Chain Physics)	Weapons/Long Sword	it0399_0000_0.chain2,Dosha Fatecleaver II,Dosha Fatecleaver III		
+Art/Model/Item/it03/99/it0399_0000_1.chain2	Dosha Fatecleaver (Sheath) (Chain Physics)	Weapons/Long Sword	it0399_0000_1.chain2,Dosha Fatecleaver II,Dosha Fatecleaver III		
+Art/Model/Item/it04/00/0000/it0400_0000_0.mesh	Chata Clobberer	Weapons/Hammer	it0400_0000_0.mesh,Chata Clobberer II,Chata Clobberer III,Chata Clobberer IV		
+Art/Model/Item/it04/00/0001/it0400_0001_0.mesh	Shrouded Aghaturi	Weapons/Hammer	it0400_0001_0.mesh		
+Art/Model/Item/it04/00/0002/it0400_0002_0.mesh	Hope Hammer	Weapons/Hammer	it0400_0002_0.mesh,Hope Hammer II,Hope Hammer III,Hope Hammer IV,Hope Hammer V,Esperanza Hammer		
+Art/Model/Item/it04/00/0004/it0400_0004_0.chain2	Jail Hammer (Chain Physics)	Weapons/Hammer	it0400_0004_0.chain2,Jail Hammer II,Jail Hammer III,Jail Hammer IV,Binder Mace		
+Art/Model/Item/it04/00/0004/it0400_0004_0.mesh	Jail Hammer	Weapons/Hammer	it0400_0004_0.mesh,Jail Hammer II,Jail Hammer III,Jail Hammer IV,Binder Mace		
+Art/Model/Item/it04/00/0005/it0400_0005_0.mesh	Balahara Hammer	Weapons/Hammer	it0400_0005_0.mesh,Balahara Hammer II,Balahara Hammer III,Balahara Hammer IV		
+Art/Model/Item/it04/00/0006/it0400_0006_0.mesh	Sandsea Siamitiya	Weapons/Hammer	it0400_0006_0.mesh		
+Art/Model/Item/it04/00/0007/it0400_0007_0.mesh	Rompo Wrecker	Weapons/Hammer	it0400_0007_0.mesh,Rompo Wrecker II,Rompo Wrecker III,Rompo Robustox		
+Art/Model/Item/it04/00/0008/it0400_0008_0.mesh	Red Bludgeon	Weapons/Hammer	it0400_0008_0.mesh,Huracan Hammer		
+Art/Model/Item/it04/00/0009/it0400_0009_0.mesh	Wuchtblick	Weapons/Hammer	it0400_0009_0.mesh,Grimmblick		
+Art/Model/Item/it04/00/0010/it0400_0010_0.mesh	Cluster Hammer	Weapons/Hammer	it0400_0010_0.mesh,Cluster Hammer II,Cluster Hammer III,Nerscrapper		
+Art/Model/Item/it04/00/0011/it0400_0011_0.chain2	Nu Pulpo (Chain Physics)	Weapons/Hammer	it0400_0011_0.chain2,Nu Pulpo II,Abaddonian Pulpo		
+Art/Model/Item/it04/00/0011/it0400_0011_0.mesh	Nu Pulpo	Weapons/Hammer	it0400_0011_0.mesh,Nu Pulpo II,Abaddonian Pulpo		
+Art/Model/Item/it04/00/0013/it0400_0013_0.mesh	Kut-Ku Pick	Weapons/Hammer	it0400_0013_0.mesh,Kut-Ku Pick II,Kut-Ku Thwap		
+Art/Model/Item/it04/00/0014/it0400_0014_0.chain2	Venom Monster (Chain Physics)	Weapons/Hammer	it0400_0014_0.chain2,Venom Monster II,Death Venom Hammer		
+Art/Model/Item/it04/00/0014/it0400_0014_0.mesh	Venom Monster	Weapons/Hammer	it0400_0014_0.mesh,Venom Monster II,Death Venom Hammer		
+Art/Model/Item/it04/00/0015/it0400_0015_0.mesh	Vortex Hammer	Weapons/Hammer	it0400_0015_0.mesh,High Vortex Hammer,Vortex Hammer		
+Art/Model/Item/it04/00/0016/it0400_0016_0.mesh	Shell Hammer	Weapons/Hammer	it0400_0016_0.mesh		
+Art/Model/Item/it04/00/0017/it0400_0017_0.mesh	Blan Gada	Weapons/Hammer	it0400_0017_0.mesh,Singha Gada		
+Art/Model/Item/it04/00/0019/it0400_0019_0.chain2	G. Veldian Malleus (Chain Physics)	Weapons/Hammer	it0400_0019_0.chain2,G. Veldian Malleus II,G. Exultant Bedivere		
+Art/Model/Item/it04/00/0019/it0400_0019_0.mesh	G. Veldian Malleus	Weapons/Hammer	it0400_0019_0.mesh,G. Veldian Malleus II,G. Exultant Bedivere		
+Art/Model/Item/it04/00/0021/it0400_0021_0.mesh	Jin Dhauda	Weapons/Hammer	it0400_0021_0.mesh,Precipice Logamtu		
+Art/Model/Item/it04/00/0022/it0400_0022_0.mesh	Nihil Hammer	Weapons/Hammer	it0400_0022_0.mesh,Nihil Hammer II,Zaccios Execution		
+Art/Model/Item/it04/00/0025/it0400_0025_0.chain2	Veldian Malleus (Chain Physics)	Weapons/Hammer	it0400_0025_0.chain2,Exultant Bedivere		
+Art/Model/Item/it04/00/0025/it0400_0025_0.mesh	Veldian Malleus	Weapons/Hammer	it0400_0025_0.mesh,Exultant Bedivere		
+Art/Model/Item/it04/00/0026/it0400_0026_0.mesh	Graviton Hammer	Weapons/Hammer	it0400_0026_0.mesh		
+Art/Model/Item/it04/00/0029/it0400_0029_0.mesh	Matraca Hammer	Weapons/Hammer	it0400_0029_0.mesh,Argyl Hammer,Matraca Hammer		
+Art/Model/Item/it04/01/0000/it0401_0000_0.mesh	Iron Hammer	Weapons/Hammer	it0401_0000_0.mesh,Iron Hammer II,Iron Hammer III,Iron Devil		
+Art/Model/Item/it04/01/0003/it0401_0003_0.mesh	Bone Bludgeon	Weapons/Hammer	it0401_0003_0.mesh,Bone Bludgeon II,Bone Bludgeon III,Bone Bludgeon IV,Heavy Bone Bludgeon		
+Art/Model/Item/it04/10/0000/it0410_0000_0.mesh	Albirath Bludgeon	Weapons/Hammer	it0410_0000_0.mesh,Albirath Bludgeon II,Gibil Hammer		
+Art/Model/Item/it04/10/0001/it0410_0001_0.chain2	Crashing Fulgur (Chain Physics)	Weapons/Hammer	it0410_0001_0.chain2,Fulgurhammer Guardiana		
+Art/Model/Item/it04/10/0001/it0410_0001_0.mesh	Crashing Fulgur	Weapons/Hammer	it0410_0001_0.mesh,Fulgurhammer Guardiana		
+Art/Model/Item/it04/10/0002/it0410_0002_0.mesh	Artian Hammer	Weapons/Hammer	it0410_0002_0.mesh,Artian Hammer II,Moteurvankel		
+Art/Model/Item/it04/99/it0499_0000_0.chain2	Chata Clobberer (Chain Physics)	Weapons/Hammer	it0499_0000_0.chain2,Chata Clobberer II,Chata Clobberer III,Chata Clobberer IV		
+Art/Model/Item/it05/00/0000/it0500_0000_0.mesh	Balahara Horn	Weapons/Hunting Horn	it0500_0000_0.mesh,Balahara Horn II,Balahara Horn III,Balahara Horn IV		
+Art/Model/Item/it05/00/0001/it0500_0001_0.mesh	Sandsea Ghantisil	Weapons/Hunting Horn	it0500_0001_0.mesh		
+Art/Model/Item/it05/00/0002/it0500_0002_0.chain2	Dosha Farsounder (Chain Physics)	Weapons/Hunting Horn	it0500_0002_0.chain2,Dosha Farsounder II,Dosha Farsounder III		
+Art/Model/Item/it05/00/0002/it0500_0002_0.mesh	Dosha Farsounder	Weapons/Hunting Horn	it0500_0002_0.mesh,Dosha Farsounder II,Dosha Farsounder III		
+Art/Model/Item/it05/00/0003/it0500_0003_0.chain2	Farsounder Honga (Chain Physics)	Weapons/Hunting Horn	it0500_0003_0.chain2		
+Art/Model/Item/it05/00/0003/it0500_0003_0.mesh	Farsounder Honga	Weapons/Hunting Horn	it0500_0003_0.mesh		
+Art/Model/Item/it05/00/0004/it0500_0004_0.chain2	Hope Horn (Chain Physics)	Weapons/Hunting Horn	it0500_0004_0.chain2,Hope Horn II,Hope Horn III,Hope Horn IV,Hope Horn V,Esperanza Horn		
+Art/Model/Item/it05/00/0004/it0500_0004_0.mesh	Hope Horn	Weapons/Hunting Horn	it0500_0004_0.mesh,Hope Horn II,Hope Horn III,Hope Horn IV,Hope Horn V,Esperanza Horn		
+Art/Model/Item/it05/00/0005/it0500_0005_0.mesh	War Bongo	Weapons/Hunting Horn	it0500_0005_0.mesh,War Bongo II,War Conga		
+Art/Model/Item/it05/00/0006/it0500_0006_0.mesh	Poisoned Capri	Weapons/Hunting Horn	it0500_0006_0.mesh,Poisoned Capri II,Crazed Melody		
+Art/Model/Item/it05/00/0007/it0500_0007_0.mesh	Lagia Horn	Weapons/Hunting Horn	it0500_0007_0.mesh,Lagia Thunderpeal,Lagia Horn		
+Art/Model/Item/it05/00/0008/it0500_0008_0.chain2	Rey Perun (Chain Physics)	Weapons/Hunting Horn	it0500_0008_0.chain2,Rey Perun II,Rey Perun III,Perun Clairhorn		
+Art/Model/Item/it05/00/0008/it0500_0008_0.mesh	Rey Perun	Weapons/Hunting Horn	it0500_0008_0.mesh,Rey Perun II,Rey Perun III,Perun Clairhorn		
+Art/Model/Item/it05/00/0009/it0500_0009_0.mesh	Valkyrie Chordmaker	Weapons/Hunting Horn	it0500_0009_0.mesh,Valkyrie Chordmaker II,Queen Chordmaker		
+Art/Model/Item/it05/00/0010/it0500_0010_0.mesh	Flame Feroce	Weapons/Hunting Horn	it0500_0010_0.mesh,Rathalos Feroce		
+Art/Model/Item/it05/00/0011/it0500_0011_0.chain2	Kummerklang (Chain Physics)	Weapons/Hunting Horn	it0500_0011_0.chain2,Gramklang		
+Art/Model/Item/it05/00/0011/it0500_0011_0.mesh	Kummerklang	Weapons/Hunting Horn	it0500_0011_0.mesh,Gramklang		
+Art/Model/Item/it05/00/0012/it0500_0012_0.mesh	Ajara Reverberator	Weapons/Hunting Horn	it0500_0012_0.mesh,Ajara Reverberator II,Ajara-Jivaka		
+Art/Model/Item/it05/00/0015/it0500_0015_0.chain2	Kut-Ku's Song (Chain Physics)	Weapons/Hunting Horn	it0500_0015_0.chain2,Kut-Kus Song II,Kut-Ku Cantabile		
+Art/Model/Item/it05/00/0015/it0500_0015_0.mesh	Kut-Ku's Song	Weapons/Hunting Horn	it0500_0015_0.mesh,Kut-Kus Song II,Kut-Ku Cantabile		
+Art/Model/Item/it05/00/0016/it0500_0016_0.mesh	Vadya Muse	Weapons/Hunting Horn	it0500_0016_0.mesh,Allysyl Muse,Vadya Muse		
+Art/Model/Item/it05/00/0018/it0500_0018_0.mesh	G. Veldian Sibilus	Weapons/Hunting Horn	it0500_0018_0.mesh,G. Veldian Sibilus II,G. Resounding Galahad		
+Art/Model/Item/it05/00/0019/it0500_0019_0.mesh	Jin Dhaang	Weapons/Hunting Horn	it0500_0019_0.mesh,Precipice Kovira		
+Art/Model/Item/it05/00/0020/it0500_0020_0.chain2	Nihil Chord (Chain Physics)	Weapons/Hunting Horn	it0500_0020_0.chain2,Nihil Chord II,Kae-Jins Lament		
+Art/Model/Item/it05/00/0020/it0500_0020_0.mesh	Nihil Chord	Weapons/Hunting Horn	it0500_0020_0.mesh,Nihil Chord II,Kae-Jins Lament		
+Art/Model/Item/it05/00/0024/it0500_0024_0.chain2	Veldian Sibilus (Chain Physics)	Weapons/Hunting Horn	it0500_0024_0.chain2,Resounding Galahad		
+Art/Model/Item/it05/00/0024/it0500_0024_0.mesh	Veldian Sibilus	Weapons/Hunting Horn	it0500_0024_0.mesh,Resounding Galahad		
+Art/Model/Item/it05/00/0027/it0500_0027_0.mesh	Glass Royale	Weapons/Hunting Horn	it0500_0027_0.mesh		
+Art/Model/Item/it05/01/0001/it0501_0001_0.mesh	Bone Horn	Weapons/Hunting Horn	it0501_0001_0.mesh,Bone Horn II,Bone Horn III,Bone Horn IV,Hardened Bone Horn		
+Art/Model/Item/it05/01/0002/it0501_0002_0.mesh	Metal Bagpipe	Weapons/Hunting Horn	it0501_0002_0.mesh,Metal Bagpipe II,Metal Bagpipe III,Great Bagpipe		
+Art/Model/Item/it05/01/0004/it0501_0004_0.mesh	Sonic Horn	Weapons/Hunting Horn	it0501_0004_0.mesh,Sonic Horn II,Sonic Horn III,Sonic Horn IV		
+Art/Model/Item/it05/10/0000/it0510_0000_0.mesh	Albirath Feroce	Weapons/Hunting Horn	it0510_0000_0.mesh,Albirath Feroce II,G. Rathalos Feroce		
+Art/Model/Item/it05/10/0001/it0510_0001_0.chain2	Dosha Grudgesounder (Chain Physics)	Weapons/Hunting Horn	it0510_0001_0.chain2,Dosha Grudgesounder II,Grudgesounder Urga		
+Art/Model/Item/it05/10/0001/it0510_0001_0.mesh	Dosha Grudgesounder	Weapons/Hunting Horn	it0510_0001_0.mesh,Dosha Grudgesounder II,Grudgesounder Urga		
+Art/Model/Item/it05/10/0002/it0510_0002_0.chain2	Deafening Fulgur (Chain Physics)	Weapons/Hunting Horn	it0510_0002_0.chain2,Fulgurhowl Guardiana		
+Art/Model/Item/it05/10/0002/it0510_0002_0.mesh	Deafening Fulgur	Weapons/Hunting Horn	it0510_0002_0.mesh,Fulgurhowl Guardiana		
+Art/Model/Item/it05/10/0003/it0510_0003_0.mesh	Artian Sounder	Weapons/Hunting Horn	it0510_0003_0.mesh,Artian Sounder II,Omiltika		
+Art/Model/Item/it05/99/it0599_0000_0.chain2	Balahara Horn (Chain Physics)	Weapons/Hunting Horn	it0599_0000_0.chain2,Balahara Horn II,Balahara Horn III,Balahara Horn IV		
+Art/Model/Item/it06/00/0000/it0600_0000_0.chain2	Dosha Fierceborer (Chain Physics)	Weapons/Lance	it0600_0000_0.chain2,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it06/00/0000/it0600_0000_0.mesh	Dosha Fierceborer	Weapons/Lance	it0600_0000_0.mesh,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it06/00/0000/it0600_0000_1.chain2	Dosha Fierceborer (Shield) (Chain Physics)	Weapons/Lance	it0600_0000_1.chain2,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it06/00/0000/it0600_0000_1.mesh	Dosha Fierceborer (Shield)	Weapons/Lance	it0600_0000_1.mesh,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it06/00/0001/it0600_0001_0.chain2	Fierceborer Dubhanith (Chain Physics)	Weapons/Lance	it0600_0001_0.chain2		
+Art/Model/Item/it06/00/0001/it0600_0001_0.mesh	Fierceborer Dubhanith	Weapons/Lance	it0600_0001_0.mesh		
+Art/Model/Item/it06/00/0001/it0600_0001_1.chain2	Fierceborer Dubhanith (Shield) (Chain Physics)	Weapons/Lance	it0600_0001_1.chain2		
+Art/Model/Item/it06/00/0001/it0600_0001_1.mesh	Fierceborer Dubhanith (Shield)	Weapons/Lance	it0600_0001_1.mesh		
+Art/Model/Item/it06/00/0002/it0600_0002_0.mesh	Balahara Lance	Weapons/Lance	it0600_0002_0.mesh,Balahara Lance II,Balahara Lance III,Balahara Lance IV		
+Art/Model/Item/it06/00/0002/it0600_0002_1.mesh	Balahara Lance (Shield)	Weapons/Lance	it0600_0002_1.mesh,Balahara Lance II,Balahara Lance III,Balahara Lance IV		
+Art/Model/Item/it06/00/0003/it0600_0003_0.mesh	Sandsea Prallaya	Weapons/Lance	it0600_0003_0.mesh		
+Art/Model/Item/it06/00/0003/it0600_0003_1.mesh	Sandsea Prallaya (Shield)	Weapons/Lance	it0600_0003_1.mesh		
+Art/Model/Item/it06/00/0004/it0600_0004_0.chain2	Hope Lance (Chain Physics)	Weapons/Lance	it0600_0004_0.chain2,Hope Lance II,Hope Lance III,Hope Lance IV,Hope Lance V,Esperanza Lance		
+Art/Model/Item/it06/00/0004/it0600_0004_0.mesh	Hope Lance	Weapons/Lance	it0600_0004_0.mesh,Hope Lance II,Hope Lance III,Hope Lance IV,Hope Lance V,Esperanza Lance		
+Art/Model/Item/it06/00/0004/it0600_0004_1.chain2	Hope Lance (Shield) (Chain Physics)	Weapons/Lance	it0600_0004_1.chain2,Hope Lance II,Hope Lance III,Hope Lance IV,Hope Lance V,Esperanza Lance		
+Art/Model/Item/it06/00/0004/it0600_0004_1.mesh	Hope Lance (Shield)	Weapons/Lance	it0600_0004_1.mesh,Hope Lance II,Hope Lance III,Hope Lance IV,Hope Lance V,Esperanza Lance		
+Art/Model/Item/it06/00/0005/it0600_0005_0.chain2	Quematrice Lanza (Chain Physics)	Weapons/Lance	it0600_0005_0.chain2,Quematrice Lanza II,Quematrice Lanza III,Quematrice Lanza IV		
+Art/Model/Item/it06/00/0005/it0600_0005_0.mesh	Quematrice Lanza	Weapons/Lance	it0600_0005_0.mesh,Quematrice Lanza II,Quematrice Lanza III,Quematrice Lanza IV		
+Art/Model/Item/it06/00/0005/it0600_0005_1.chain2	Quematrice Lanza (Shield) (Chain Physics)	Weapons/Lance	it0600_0005_1.chain2,Quematrice Lanza II,Quematrice Lanza III,Quematrice Lanza IV		
+Art/Model/Item/it06/00/0005/it0600_0005_1.mesh	Quematrice Lanza (Shield)	Weapons/Lance	it0600_0005_1.mesh,Quematrice Lanza II,Quematrice Lanza III,Quematrice Lanza IV		
+Art/Model/Item/it06/00/0006/it0600_0006_0.chain2	Firetrail Kaminet (Chain Physics)	Weapons/Lance	it0600_0006_0.chain2		
+Art/Model/Item/it06/00/0006/it0600_0006_0.mesh	Firetrail Kaminet	Weapons/Lance	it0600_0006_0.mesh		
+Art/Model/Item/it06/00/0006/it0600_0006_1.chain2	Firetrail Kaminet (Shield) (Chain Physics)	Weapons/Lance	it0600_0006_1.chain2		
+Art/Model/Item/it06/00/0006/it0600_0006_1.mesh	Firetrail Kaminet (Shield)	Weapons/Lance	it0600_0006_1.mesh		
+Art/Model/Item/it06/00/0007/it0600_0007_0.mesh	Barina Sarissa	Weapons/Lance	it0600_0007_0.mesh,Barina Sarissa II,Barina Sarissa III,Barina Sarissa IV		
+Art/Model/Item/it06/00/0007/it0600_0007_1.chain2	Barina Sarissa (Shield) (Chain Physics)	Weapons/Lance	it0600_0007_1.chain2,Barina Sarissa II,Barina Sarissa III,Barina Sarissa IV		
+Art/Model/Item/it06/00/0007/it0600_0007_1.mesh	Barina Sarissa (Shield)	Weapons/Lance	it0600_0007_1.mesh,Barina Sarissa II,Barina Sarissa III,Barina Sarissa IV		
+Art/Model/Item/it06/00/0008/it0600_0008_0.mesh	Lala Aviculari	Weapons/Lance	it0600_0008_0.mesh		
+Art/Model/Item/it06/00/0008/it0600_0008_1.chain2	Lala Aviculari (Shield) (Chain Physics)	Weapons/Lance	it0600_0008_1.chain2		
+Art/Model/Item/it06/00/0008/it0600_0008_1.mesh	Lala Aviculari (Shield)	Weapons/Lance	it0600_0008_1.mesh		
+Art/Model/Item/it06/00/0009/it0600_0009_0.mesh	Rompo Piercer	Weapons/Lance	it0600_0009_0.mesh,Rompo Piercer II,Rompo Piercer III,Rompo Tetrotox		
+Art/Model/Item/it06/00/0009/it0600_0009_1.mesh	Rompo Piercer (Shield)	Weapons/Lance	it0600_0009_1.mesh,Rompo Piercer II,Rompo Piercer III,Rompo Tetrotox		
+Art/Model/Item/it06/00/0010/it0600_0010_0.chain2	Rey Indra (Chain Physics)	Weapons/Lance	it0600_0010_0.chain2,Rey Indra II,Rey Indra III,Indra Clairlance		
+Art/Model/Item/it06/00/0010/it0600_0010_0.mesh	Rey Indra	Weapons/Lance	it0600_0010_0.mesh,Rey Indra II,Rey Indra III,Indra Clairlance		
+Art/Model/Item/it06/00/0010/it0600_0010_1.chain2	Rey Indra (Shield) (Chain Physics)	Weapons/Lance	it0600_0010_1.chain2,Rey Indra II,Rey Indra III,Indra Clairlance		
+Art/Model/Item/it06/00/0010/it0600_0010_1.mesh	Rey Indra (Shield)	Weapons/Lance	it0600_0010_1.mesh,Rey Indra II,Rey Indra III,Indra Clairlance		
+Art/Model/Item/it06/00/0011/it0600_0011_0.mesh	Red Tail	Weapons/Lance	it0600_0011_0.mesh,Spear of Prominence		
+Art/Model/Item/it06/00/0011/it0600_0011_1.mesh	Red Tail (Shield)	Weapons/Lance	it0600_0011_1.mesh,Spear of Prominence		
+Art/Model/Item/it06/00/0012/it0600_0012_0.mesh	Eiferschild	Weapons/Lance	it0600_0012_0.mesh,Fieberschild		
+Art/Model/Item/it06/00/0012/it0600_0012_1.mesh	Eiferschild (Shield)	Weapons/Lance	it0600_0012_1.mesh,Fieberschild		
+Art/Model/Item/it06/00/0013/it0600_0013_0.chain2	Windpierce Lance (Chain Physics)	Weapons/Lance	it0600_0013_0.chain2,Windpierce Lance II,Windpierce Lance III,Windpierce Tsukibami		
+Art/Model/Item/it06/00/0013/it0600_0013_0.mesh	Windpierce Lance	Weapons/Lance	it0600_0013_0.mesh,Windpierce Lance II,Windpierce Lance III,Windpierce Tsukibami		
+Art/Model/Item/it06/00/0013/it0600_0013_1.chain2	Windpierce Lance (Shield) (Chain Physics)	Weapons/Lance	it0600_0013_1.chain2,Windpierce Lance II,Windpierce Lance III,Windpierce Tsukibami		
+Art/Model/Item/it06/00/0013/it0600_0013_1.mesh	Windpierce Lance (Shield)	Weapons/Lance	it0600_0013_1.mesh,Windpierce Lance II,Windpierce Lance III,Windpierce Tsukibami		
+Art/Model/Item/it06/00/0014/it0600_0014_0.chain2	Nu Osminog (Chain Physics)	Weapons/Lance	it0600_0014_0.chain2,Nu Osminog II,Abaddonian Osminog		
+Art/Model/Item/it06/00/0014/it0600_0014_0.mesh	Nu Osminog	Weapons/Lance	it0600_0014_0.mesh,Nu Osminog II,Abaddonian Osminog		
+Art/Model/Item/it06/00/0014/it0600_0014_1.chain2	Nu Osminog (Shield) (Chain Physics)	Weapons/Lance	it0600_0014_1.chain2,Nu Osminog II,Abaddonian Osminog		
+Art/Model/Item/it06/00/0014/it0600_0014_1.mesh	Nu Osminog (Shield)	Weapons/Lance	it0600_0014_1.mesh,Nu Osminog II,Abaddonian Osminog		
+Art/Model/Item/it06/00/0017/it0600_0017_0.mesh	Acrus Lance 	Weapons/Lance	it0600_0017_0.mesh,High Acrus Lance 		
+Art/Model/Item/it06/00/0017/it0600_0017_1.mesh	Acrus Lance (Shield)	Weapons/Lance	it0600_0017_1.mesh,High Acrus Lance (Shield)		
+Art/Model/Item/it06/00/0018/it0600_0018_0.mesh	Harbah Lance 	Weapons/Lance	it0600_0018_0.mesh,Turbulent Lance 		
+Art/Model/Item/it06/00/0018/it0600_0018_1.mesh	Harbah Lance (Shield)	Weapons/Lance	it0600_0018_1.mesh,Turbulent Lance (Shield)		
+Art/Model/Item/it06/00/0019/it0600_0019_0.mesh	Gravios Spear	Weapons/Lance	it0600_0019_0.mesh,Gravios Lance		
+Art/Model/Item/it06/00/0019/it0600_0019_1.mesh	Gravios Spear (Shield)	Weapons/Lance	it0600_0019_1.mesh,Gravios Lance		
+Art/Model/Item/it06/00/0021/it0600_0021_0.chain2	G. Veldian Lancea (Chain Physics)	Weapons/Lance	it0600_0021_0.chain2,G. Veldian Lancea II,G. Purifying Beaumains		
+Art/Model/Item/it06/00/0021/it0600_0021_0.mesh	G. Veldian Lancea	Weapons/Lance	it0600_0021_0.mesh,G. Veldian Lancea II,G. Purifying Beaumains		
+Art/Model/Item/it06/00/0021/it0600_0021_1.mesh	G. Veldian Lancea (Shield)	Weapons/Lance	it0600_0021_1.mesh,G. Veldian Lancea II,G. Purifying Beaumains		
+Art/Model/Item/it06/00/0024/it0600_0024_0.chain2	Veldian Lancea (Chain Physics)	Weapons/Lance	it0600_0024_0.chain2,Purifying Beaumains		
+Art/Model/Item/it06/00/0024/it0600_0024_0.mesh	Veldian Lancea	Weapons/Lance	it0600_0024_0.mesh,Purifying Beaumains		
+Art/Model/Item/it06/00/0024/it0600_0024_1.mesh	Veldian Lancea (Shield)	Weapons/Lance	it0600_0024_1.mesh,Purifying Beaumains		
+Art/Model/Item/it06/00/0025/it0600_0025_0.mesh	Babel Spear	Weapons/Lance	it0600_0025_0.mesh		
+Art/Model/Item/it06/00/0025/it0600_0025_1.mesh	Babel Spear (Shield)	Weapons/Lance	it0600_0025_1.mesh		
+Art/Model/Item/it06/00/0030/it0600_0030_0.mesh	Paladin Lance	Weapons/Lance	it0600_0030_0.mesh		
+Art/Model/Item/it06/00/0030/it0600_0030_1.mesh	Paladin Lance (Shield)	Weapons/Lance	it0600_0030_1.mesh		
+Art/Model/Item/it06/01/0002/it0601_0002_0.mesh	Chrome Drill	Weapons/Lance	it0601_0002_0.mesh,Chrome Drill II,Chrome Drill III,Chrome Lance		
+Art/Model/Item/it06/01/0002/it0601_0002_1.mesh	Chrome Drill (Shield)	Weapons/Lance	it0601_0002_1.mesh,Chrome Drill II,Chrome Drill III,Chrome Lance		
+Art/Model/Item/it06/01/0004/it0601_0004_0.mesh	Bone Lance	Weapons/Lance	it0601_0004_0.mesh,Bone Lance II,Bone Lance III,Bone Lance IV,Hard Bone Lance		
+Art/Model/Item/it06/01/0004/it0601_0004_1.mesh	Bone Lance (Shield)	Weapons/Lance	it0601_0004_1.mesh,Bone Lance II,Bone Lance III,Bone Lance IV,Hard Bone Lance		
+Art/Model/Item/it06/10/0000/it0610_0000_0.mesh	Albirath Tail	Weapons/Lance	it0610_0000_0.mesh,Albirath Tail II,Shining Pillar		
+Art/Model/Item/it06/10/0000/it0610_0000_1.mesh	Albirath Tail (Shield)	Weapons/Lance	it0610_0000_1.mesh,Albirath Tail II,Shining Pillar		
+Art/Model/Item/it06/10/0001/it0610_0001_0.mesh	Chthonian Firewheel	Weapons/Lance	it0610_0001_0.mesh,Chthonian Firewheel II,Bequeathed Regret		
+Art/Model/Item/it06/10/0001/it0610_0001_1.mesh	Chthonian Firewheel (Shield)	Weapons/Lance	it0610_0001_1.mesh,Chthonian Firewheel II,Bequeathed Regret		
+Art/Model/Item/it06/10/0002/it0610_0002_0.chain2	Dosha Gloomborer (Chain Physics)	Weapons/Lance	it0610_0002_0.chain2,Dosha Gloomborer II,Gloomborer Urshanith		
+Art/Model/Item/it06/10/0002/it0610_0002_0.mesh	Dosha Gloomborer	Weapons/Lance	it0610_0002_0.mesh,Dosha Gloomborer II,Gloomborer Urshanith		
+Art/Model/Item/it06/10/0002/it0610_0002_1.chain2	Dosha Gloomborer (Shield) (Chain Physics)	Weapons/Lance	it0610_0002_1.chain2,Dosha Gloomborer II,Gloomborer Urshanith		
+Art/Model/Item/it06/10/0002/it0610_0002_1.mesh	Dosha Gloomborer (Shield)	Weapons/Lance	it0610_0002_1.mesh,Dosha Gloomborer II,Gloomborer Urshanith		
+Art/Model/Item/it06/10/0003/it0610_0003_0.mesh	Artian Lance	Weapons/Lance	it0610_0003_0.mesh,Artian Lance II,Skyscraper		
+Art/Model/Item/it06/10/0003/it0610_0003_1.mesh	Artian Lance (Shield)	Weapons/Lance	it0610_0003_1.mesh,Artian Lance II,Skyscraper		
+Art/Model/Item/it06/99/it0699_0000_0.chain2	Dosha Fierceborer (Chain Physics)	Weapons/Lance	it0699_0000_0.chain2,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it06/99/it0699_0000_1.chain2	Dosha Fierceborer (Shield) (Chain Physics)	Weapons/Lance	it0699_0000_1.chain2,Dosha Fierceborer II,Dosha Fierceborer III		
+Art/Model/Item/it07/00/0000/it0700_0000_0.chain2	Hope Gunlance (Chain Physics)	Weapons/Gun Lance	it0700_0000_0.chain2,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it07/00/0000/it0700_0000_0.mesh	Hope Gunlance	Weapons/Gun Lance	it0700_0000_0.mesh,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it07/00/0000/it0700_0000_1.chain2	Hope Gunlance (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0000_1.chain2,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it07/00/0000/it0700_0000_1.mesh	Hope Gunlance (Shield)	Weapons/Gun Lance	it0700_0000_1.mesh,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it07/00/0001/it0700_0001_0.chain2	Quematrice Culebrina (Chain Physics)	Weapons/Gun Lance	it0700_0001_0.chain2,Quematrice Culebrina II,Quematrice Culebrina III,Quematrice Culebrina IV		
+Art/Model/Item/it07/00/0001/it0700_0001_0.mesh	Quematrice Culebrina	Weapons/Gun Lance	it0700_0001_0.mesh,Quematrice Culebrina II,Quematrice Culebrina III,Quematrice Culebrina IV		
+Art/Model/Item/it07/00/0001/it0700_0001_1.chain2	Quematrice Culebrina (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0001_1.chain2,Quematrice Culebrina II,Quematrice Culebrina III,Quematrice Culebrina IV		
+Art/Model/Item/it07/00/0001/it0700_0001_1.mesh	Quematrice Culebrina (Shield)	Weapons/Gun Lance	it0700_0001_1.mesh,Quematrice Culebrina II,Quematrice Culebrina III,Quematrice Culebrina IV		
+Art/Model/Item/it07/00/0002/it0700_0002_0.chain2	Firetrail Quemador (Chain Physics)	Weapons/Gun Lance	it0700_0002_0.chain2		
+Art/Model/Item/it07/00/0002/it0700_0002_0.mesh	Firetrail Quemador	Weapons/Gun Lance	it0700_0002_0.mesh		
+Art/Model/Item/it07/00/0002/it0700_0002_1.chain2	Firetrail Quemador (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0002_1.chain2		
+Art/Model/Item/it07/00/0002/it0700_0002_1.mesh	Firetrail Quemador (Shield)	Weapons/Gun Lance	it0700_0002_1.mesh		
+Art/Model/Item/it07/00/0003/it0700_0003_0.mesh	Balahara Exploder	Weapons/Gun Lance	it0700_0003_0.mesh,Balahara Exploder II,Balahara Exploder III,Balahara Exploder IV		
+Art/Model/Item/it07/00/0003/it0700_0003_1.mesh	Balahara Exploder (Shield)	Weapons/Gun Lance	it0700_0003_1.mesh,Balahara Exploder II,Balahara Exploder III,Balahara Exploder IV		
+Art/Model/Item/it07/00/0004/it0700_0004_0.mesh	Sandsea Visponan	Weapons/Gun Lance	it0700_0004_0.mesh		
+Art/Model/Item/it07/00/0004/it0700_0004_1.mesh	Sandsea Visponan (Shield)	Weapons/Gun Lance	it0700_0004_1.mesh		
+Art/Model/Item/it07/00/0005/it0700_0005_0.chain2	Uth Falarmata (Chain Physics)	Weapons/Gun Lance	it0700_0005_0.chain2,Uth Falarmata II,Uth Falarmata III,Falarmata-of-the-Waves		
+Art/Model/Item/it07/00/0005/it0700_0005_0.mesh	Uth Falarmata	Weapons/Gun Lance	it0700_0005_0.mesh,Uth Falarmata II,Uth Falarmata III,Falarmata-of-the-Waves		
+Art/Model/Item/it07/00/0005/it0700_0005_1.chain2	Uth Falarmata (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0005_1.chain2,Uth Falarmata II,Uth Falarmata III,Falarmata-of-the-Waves		
+Art/Model/Item/it07/00/0005/it0700_0005_1.mesh	Uth Falarmata (Shield)	Weapons/Gun Lance	it0700_0005_1.mesh,Uth Falarmata II,Uth Falarmata III,Falarmata-of-the-Waves		
+Art/Model/Item/it07/00/0006/it0700_0006_0.mesh	Princess Panoply	Weapons/Gun Lance	it0700_0006_0.mesh,Princess Panoply II,Ortlinde		
+Art/Model/Item/it07/00/0006/it0700_0006_1.mesh	Princess Panoply (Shield)	Weapons/Gun Lance	it0700_0006_1.mesh,Princess Panoply II,Ortlinde		
+Art/Model/Item/it07/00/0007/it0700_0007_0.mesh	Red Rook	Weapons/Gun Lance	it0700_0007_0.mesh,Crimson Rook		
+Art/Model/Item/it07/00/0007/it0700_0007_1.mesh	Red Rook (Shield)	Weapons/Gun Lance	it0700_0007_1.mesh,Crimson Rook		
+Art/Model/Item/it07/00/0008/it0700_0008_0.mesh	Tyrannenarm	Weapons/Gun Lance	it0700_0008_0.mesh,Verräterarm		
+Art/Model/Item/it07/00/0008/it0700_0008_1.chain2	Tyrannenarm (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0008_1.chain2,Verräterarm		
+Art/Model/Item/it07/00/0008/it0700_0008_1.mesh	Tyrannenarm (Shield)	Weapons/Gun Lance	it0700_0008_1.mesh,Verräterarm		
+Art/Model/Item/it07/00/0009/it0700_0009_0.mesh	Shell Gunberd	Weapons/Gun Lance	it0700_0009_0.mesh,Shell Gunberd II,Shell Gunberd III,Solid Gunberd		
+Art/Model/Item/it07/00/0009/it0700_0009_1.mesh	Shell Gunberd (Shield)	Weapons/Gun Lance	it0700_0009_1.mesh,Shell Gunberd II,Shell Gunberd III,Solid Gunberd		
+Art/Model/Item/it07/00/0010/it0700_0010_0.mesh	Ajara Gunpike	Weapons/Gun Lance	it0700_0010_0.mesh,Ajara Gunpike II,Ajara-Kalika		
+Art/Model/Item/it07/00/0010/it0700_0010_1.chain2	Ajara Gunpike (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0010_1.chain2,Ajara Gunpike II,Ajara-Kalika		
+Art/Model/Item/it07/00/0010/it0700_0010_1.mesh	Ajara Gunpike (Shield)	Weapons/Gun Lance	it0700_0010_1.mesh,Ajara Gunpike II,Ajara-Kalika		
+Art/Model/Item/it07/00/0013/it0700_0013_0.mesh	Hard Hitter	Weapons/Gun Lance	it0700_0013_0.mesh,Hard Hitter II,Big Slugger		
+Art/Model/Item/it07/00/0013/it0700_0013_1.mesh	Hard Hitter (Shield)	Weapons/Gun Lance	it0700_0013_1.mesh,Hard Hitter II,Big Slugger		
+Art/Model/Item/it07/00/0014/it0700_0014_0.mesh	Lagia Burst 	Weapons/Gun Lance	it0700_0014_0.mesh,Exlagia Gunlance ,Lagia Burst 		
+Art/Model/Item/it07/00/0014/it0700_0014_1.mesh	Lagia Burst (Shield)	Weapons/Gun Lance	it0700_0014_1.mesh,Exlagia Gunlance (Shield),Lagia Burst (Shield)		
+Art/Model/Item/it07/00/0015/it0700_0015_0.mesh	Jaya Gunlance 	Weapons/Gun Lance	it0700_0015_0.mesh,Riotous Gunlance ,Jaya Gunlance 		
+Art/Model/Item/it07/00/0015/it0700_0015_1.mesh	Jaya Gunlance (Shield)	Weapons/Gun Lance	it0700_0015_1.mesh,Riotous Gunlance (Shield),Jaya Gunlance (Shield)		
+Art/Model/Item/it07/00/0016/it0700_0016_0.mesh	White Gunlance	Weapons/Gun Lance	it0700_0016_0.mesh,White Cannon		
+Art/Model/Item/it07/00/0016/it0700_0016_1.mesh	White Gunlance (Shield)	Weapons/Gun Lance	it0700_0016_1.mesh,White Cannon		
+Art/Model/Item/it07/00/0018/it0700_0018_0.chain2	G. Veldian Hasta (Chain Physics)	Weapons/Gun Lance	it0700_0018_0.chain2,G. Veldian Hasta II,G. Lawful Bors		
+Art/Model/Item/it07/00/0018/it0700_0018_0.mesh	G. Veldian Hasta	Weapons/Gun Lance	it0700_0018_0.mesh,G. Veldian Hasta II,G. Lawful Bors		
+Art/Model/Item/it07/00/0018/it0700_0018_1.chain2	G. Veldian Hasta (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0018_1.chain2,G. Veldian Hasta II,G. Lawful Bors		
+Art/Model/Item/it07/00/0018/it0700_0018_1.mesh	G. Veldian Hasta (Shield)	Weapons/Gun Lance	it0700_0018_1.mesh,G. Veldian Hasta II,G. Lawful Bors		
+Art/Model/Item/it07/00/0020/it0700_0020_0.mesh	Jin Dhatop	Weapons/Gun Lance	it0700_0020_0.mesh,Precipice Lohamata		
+Art/Model/Item/it07/00/0020/it0700_0020_1.mesh	Jin Dhatop (Shield)	Weapons/Gun Lance	it0700_0020_1.mesh,Precipice Lohamata		
+Art/Model/Item/it07/00/0023/it0700_0023_0.chain2	Paretic Gunlance (Chain Physics)	Weapons/Gun Lance	it0700_0023_0.chain2,Paretic Gunlance II,Paretic Gunlance III,Paretic Gunlance IV,Debilitating Torpor		
+Art/Model/Item/it07/00/0023/it0700_0023_1.chain2	Paretic Gunlance (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0023_1.chain2,Paretic Gunlance II,Paretic Gunlance III,Paretic Gunlance IV,Debilitating Torpor		
+Art/Model/Item/it07/00/0024/it0700_0024_0.chain2	Veldian Hasta (Chain Physics)	Weapons/Gun Lance	it0700_0024_0.chain2,Lawful Bors		
+Art/Model/Item/it07/00/0024/it0700_0024_0.mesh	Veldian Hasta	Weapons/Gun Lance	it0700_0024_0.mesh,Lawful Bors		
+Art/Model/Item/it07/00/0024/it0700_0024_1.chain2	Veldian Hasta (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0024_1.chain2,Lawful Bors		
+Art/Model/Item/it07/00/0024/it0700_0024_1.mesh	Veldian Hasta (Shield)	Weapons/Gun Lance	it0700_0024_1.mesh,Lawful Bors		
+Art/Model/Item/it07/00/0025/it0700_0025_0.chain2	Cornpopper  (Chain Physics)	Weapons/Gun Lance	it0700_0025_0.chain2,Mighty Cornpopper  (Chain Physics)		
+Art/Model/Item/it07/00/0025/it0700_0025_0.mesh	Cornpopper 	Weapons/Gun Lance	it0700_0025_0.mesh,Mighty Cornpopper 		
+Art/Model/Item/it07/00/0025/it0700_0025_1.chain2	Cornpopper (Shield) (Chain Physics)	Weapons/Gun Lance	it0700_0025_1.chain2,Mighty Cornpopper (Shield) (Chain Physics)		
+Art/Model/Item/it07/00/0025/it0700_0025_1.mesh	Cornpopper (Shield)	Weapons/Gun Lance	it0700_0025_1.mesh,Mighty Cornpopper (Shield)		
+Art/Model/Item/it07/01/0002/it0701_0002_0.mesh	Triple Bayonet	Weapons/Gun Lance	it0701_0002_0.mesh,Triple Bayonet II,Triple Bayonet III,Triumvirate Edge		
+Art/Model/Item/it07/01/0002/it0701_0002_1.mesh	Triple Bayonet (Shield)	Weapons/Gun Lance	it0701_0002_1.mesh,Triple Bayonet II,Triple Bayonet III,Triumvirate Edge		
+Art/Model/Item/it07/01/0004/it0701_0004_0.mesh	Bone Gunlance	Weapons/Gun Lance	it0701_0004_0.mesh,Bone Gunlance II,Bone Gunlance III,Bone Gunlance IV,Great Bone Gunlance		
+Art/Model/Item/it07/01/0004/it0701_0004_1.mesh	Bone Gunlance (Shield)	Weapons/Gun Lance	it0701_0004_1.mesh,Bone Gunlance II,Bone Gunlance III,Bone Gunlance IV,Great Bone Gunlance		
+Art/Model/Item/it07/10/0000/it0710_0000_0.mesh	Albirath Rook	Weapons/Gun Lance	it0710_0000_0.mesh,Albirath Rook II,Shining Rook		
+Art/Model/Item/it07/10/0000/it0710_0000_1.mesh	Albirath Rook (Shield)	Weapons/Gun Lance	it0710_0000_1.mesh,Albirath Rook II,Shining Rook		
+Art/Model/Item/it07/10/0001/it0710_0001_0.mesh	Artian Cannon	Weapons/Gun Lance	it0710_0001_0.mesh,Artian Cannon II,Argenesis		
+Art/Model/Item/it07/10/0001/it0710_0001_1.mesh	Artian Cannon (Shield)	Weapons/Gun Lance	it0710_0001_1.mesh,Artian Cannon II,Argenesis		
+Art/Model/Item/it07/10/0002/it0710_0002_0.chain2	Warring Fulgur (Chain Physics)	Weapons/Gun Lance	it0710_0002_0.chain2,Fulgurcannon Guardiana		
+Art/Model/Item/it07/10/0002/it0710_0002_0.mesh	Warring Fulgur	Weapons/Gun Lance	it0710_0002_0.mesh,Fulgurcannon Guardiana		
+Art/Model/Item/it07/10/0002/it0710_0002_1.chain2	Warring Fulgur (Shield) (Chain Physics)	Weapons/Gun Lance	it0710_0002_1.chain2,Fulgurcannon Guardiana		
+Art/Model/Item/it07/10/0002/it0710_0002_1.mesh	Warring Fulgur (Shield)	Weapons/Gun Lance	it0710_0002_1.mesh,Fulgurcannon Guardiana		
+Art/Model/Item/it07/99/it0799_0000_0.chain2	Hope Gunlance (Chain Physics)	Weapons/Gun Lance	it0799_0000_0.chain2,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it07/99/it0799_0000_1.chain2	Hope Gunlance (Shield) (Chain Physics)	Weapons/Gun Lance	it0799_0000_1.chain2,Hope Gunlance II,Hope Gunlance III,Hope Gunlance IV,Hope Gunlance V,Esperanza Gunlance		
+Art/Model/Item/it08/00/0000/it0800_0000_0.chain2	Hope Axe (Chain Physics)	Weapons/Switch Axe	it0800_0000_0.chain2,Hope Axe II,Hope Axe III,Hope Axe IV,Hope Axe V,Esperanza Axe		
+Art/Model/Item/it08/00/0000/it0800_0000_0.mesh	Hope Axe	Weapons/Switch Axe	it0800_0000_0.mesh,Hope Axe II,Hope Axe III,Hope Axe IV,Hope Axe V,Esperanza Axe		
+Art/Model/Item/it08/00/0001/it0800_0001_0.chain2	Barina Hache (Chain Physics)	Weapons/Switch Axe	it0800_0001_0.chain2,Barina Hache II,Barina Hache III,Barina Hache IV		
+Art/Model/Item/it08/00/0001/it0800_0001_0.mesh	Barina Hache	Weapons/Switch Axe	it0800_0001_0.mesh,Barina Hache II,Barina Hache III,Barina Hache IV		
+Art/Model/Item/it08/00/0002/it0800_0002_0.chain2	Lala Selenocosmi (Chain Physics)	Weapons/Switch Axe	it0800_0002_0.chain2		
+Art/Model/Item/it08/00/0002/it0800_0002_0.mesh	Lala Selenocosmi	Weapons/Switch Axe	it0800_0002_0.mesh		
+Art/Model/Item/it08/00/0003/it0800_0003_0.mesh	Golba Vandal	Weapons/Switch Axe	it0800_0003_0.mesh,Golba Vandal II,Gundava Vandal		
+Art/Model/Item/it08/00/0004/it0800_0004_0.mesh	Dosha Fleshhacker	Weapons/Switch Axe	it0800_0004_0.mesh,Dosha Fleshhacker II,Dosha Fleshhacker III		
+Art/Model/Item/it08/00/0005/it0800_0005_0.mesh	Fleshhacker Yaogahaac	Weapons/Switch Axe	it0800_0005_0.mesh		
+Art/Model/Item/it08/00/0006/it0800_0006_0.chain2	Uth Olacha (Chain Physics)	Weapons/Switch Axe	it0800_0006_0.chain2,Uth Olacha II,Uth Olacha III,Olacha-of-the-Waves		
+Art/Model/Item/it08/00/0006/it0800_0006_0.mesh	Uth Olacha	Weapons/Switch Axe	it0800_0006_0.mesh,Uth Olacha II,Uth Olacha III,Olacha-of-the-Waves		
+Art/Model/Item/it08/00/0007/it0800_0007_0.mesh	Dragonmaiden Axe	Weapons/Switch Axe	it0800_0007_0.mesh,Dragonmaiden Axe II,Gríðrs Landmaker		
+Art/Model/Item/it08/00/0008/it0800_0008_0.mesh	Rath Flamesplitter	Weapons/Switch Axe	it0800_0008_0.mesh,Rath Blaze Splitter		
+Art/Model/Item/it08/00/0009/it0800_0009_0.mesh	Eisenleib	Weapons/Switch Axe	it0800_0009_0.mesh,Eisengeist		
+Art/Model/Item/it08/00/0010/it0800_0010_0.chain2	Windsunder Axe (Chain Physics)	Weapons/Switch Axe	it0800_0010_0.chain2,Windsunder Axe II,Windsunder Axe III,Windsunder Sakibami		
+Art/Model/Item/it08/00/0010/it0800_0010_0.mesh	Windsunder Axe	Weapons/Switch Axe	it0800_0010_0.mesh,Windsunder Axe II,Windsunder Axe III,Windsunder Sakibami		
+Art/Model/Item/it08/00/0011/it0800_0011_0.chain2	Nu Zhangyu (Chain Physics)	Weapons/Switch Axe	it0800_0011_0.chain2,Nu Zhangyu II,Abaddonian Zhangyu		
+Art/Model/Item/it08/00/0011/it0800_0011_0.mesh	Nu Zhangyu	Weapons/Switch Axe	it0800_0011_0.mesh,Nu Zhangyu II,Abaddonian Zhangyu		
+Art/Model/Item/it08/00/0013/it0800_0013_0.mesh	Beak Axe	Weapons/Switch Axe	it0800_0013_0.mesh,Beak Axe II,Sawbill Axe		
+Art/Model/Item/it08/00/0014/it0800_0014_0.mesh	Bolt Axe	Weapons/Switch Axe	it0800_0014_0.mesh,High Bolt Axe		
+Art/Model/Item/it08/00/0015/it0800_0015_0.mesh	Aksa Switch	Weapons/Switch Axe	it0800_0015_0.mesh,Baran Defiance		
+Art/Model/Item/it08/00/0017/it0800_0017_0.mesh	G. Veldian Securis	Weapons/Switch Axe	it0800_0017_0.mesh,G. Veldian Securis II,G. Indomitable Perceval		
+Art/Model/Item/it08/00/0019/it0800_0019_0.mesh	Nihil Switch Axe	Weapons/Switch Axe	it0800_0019_0.mesh,Nihil Switch Axe II,Brutuss Abolishment		
+Art/Model/Item/it08/00/0022/it0800_0022_0.mesh	Veldian Securis	Weapons/Switch Axe	it0800_0022_0.mesh,Indomitable Perceval		
+Art/Model/Item/it08/01/0001/it0801_0001_0.mesh	Iron Accelerator	Weapons/Switch Axe	it0801_0001_0.mesh,Iron Accelerator II,Iron Accelerator III,Chrome Accelerator		
+Art/Model/Item/it08/01/0003/it0801_0003_0.mesh	Bone Axe	Weapons/Switch Axe	it0801_0003_0.mesh,Bone Axe II,Bone Axe III,Bone Axe IV,Bone Smasher		
+Art/Model/Item/it08/10/0000/it0810_0000_0.mesh	Albirath Flamesplitter	Weapons/Switch Axe	it0810_0000_0.mesh,Albirath Flamesplitter II,Albirath Blaze Splitter		
+Art/Model/Item/it08/10/0001/it0810_0001_0.mesh	Dosha Gorehacker	Weapons/Switch Axe	it0810_0001_0.mesh,Dosha Gorehacker II,Gorehacker Urgahaac		
+Art/Model/Item/it08/10/0002/it0810_0002_0.chain2	Morphing Fulgur (Chain Physics)	Weapons/Switch Axe	it0810_0002_0.chain2,Fulgurswitch Guardiana		
+Art/Model/Item/it08/10/0002/it0810_0002_0.mesh	Morphing Fulgur	Weapons/Switch Axe	it0810_0002_0.mesh,Fulgurswitch Guardiana		
+Art/Model/Item/it08/10/0003/it0810_0003_0.mesh	Artian Saw	Weapons/Switch Axe	it0810_0003_0.mesh,Artian Saw II,Mundus Altus		
+Art/Model/Item/it08/99/it0899_0000_0.chain2	Hope Axe (Chain Physics)	Weapons/Switch Axe	it0899_0000_0.chain2,Hope Axe II,Hope Axe III,Hope Axe IV,Hope Axe V,Esperanza Axe		
+Art/Model/Item/it09/00/0000/it0900_0000_0.mesh	Chata Strongarm	Weapons/Charge Blade	it0900_0000_0.mesh,Chata Strongarm II,Chata Strongarm III,Chata Strongarm IV		
+Art/Model/Item/it09/00/0000/it0900_0000_1.mesh	Chata Strongarm (Shield)	Weapons/Charge Blade	it0900_0000_1.mesh,Chata Strongarm II,Chata Strongarm III,Chata Strongarm IV		
+Art/Model/Item/it09/00/0001/it0900_0001_0.mesh	Shrouded Kutharja	Weapons/Charge Blade	it0900_0001_0.mesh		
+Art/Model/Item/it09/00/0001/it0900_0001_1.mesh	Shrouded Kutharja (Shield)	Weapons/Charge Blade	it0900_0001_1.mesh		
+Art/Model/Item/it09/00/0002/it0900_0002_0.chain2	Hope Strongarm (Chain Physics)	Weapons/Charge Blade	it0900_0002_0.chain2,Hope Strongarm II,Hope Strongarm III,Hope Strongarm IV,Hope Strongarm V,Esperanza Strongarm		
+Art/Model/Item/it09/00/0002/it0900_0002_0.mesh	Hope Strongarm	Weapons/Charge Blade	it0900_0002_0.mesh,Hope Strongarm II,Hope Strongarm III,Hope Strongarm IV,Hope Strongarm V,Esperanza Strongarm		
+Art/Model/Item/it09/00/0002/it0900_0002_1.mesh	Hope Strongarm (Shield)	Weapons/Charge Blade	it0900_0002_1.mesh,Hope Strongarm II,Hope Strongarm III,Hope Strongarm IV,Hope Strongarm V,Esperanza Strongarm		
+Art/Model/Item/it09/00/0003/it0900_0003_0.mesh	Barina Bouclier	Weapons/Charge Blade	it0900_0003_0.mesh,Barina Bouclier II,Barina Bouclier III,Barina Bouclier IV		
+Art/Model/Item/it09/00/0003/it0900_0003_1.mesh	Barina Bouclier (Shield)	Weapons/Charge Blade	it0900_0003_1.mesh,Barina Bouclier II,Barina Bouclier III,Barina Bouclier IV		
+Art/Model/Item/it09/00/0004/it0900_0004_0.mesh	Lala Eumenophor	Weapons/Charge Blade	it0900_0004_0.mesh		
+Art/Model/Item/it09/00/0004/it0900_0004_1.mesh	Lala Eumenophor (Shield)	Weapons/Charge Blade	it0900_0004_1.mesh		
+Art/Model/Item/it09/00/0005/it0900_0005_0.chain2	Uth Valeroje (Chain Physics)	Weapons/Charge Blade	it0900_0005_0.chain2,Uth Valeroje II,Uth Valeroje III,Valeroje-of-the-Waves		
+Art/Model/Item/it09/00/0005/it0900_0005_0.mesh	Uth Valeroje	Weapons/Charge Blade	it0900_0005_0.mesh,Uth Valeroje II,Uth Valeroje III,Valeroje-of-the-Waves		
+Art/Model/Item/it09/00/0005/it0900_0005_1.chain2	Uth Valeroje (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0005_1.chain2,Uth Valeroje II,Uth Valeroje III,Valeroje-of-the-Waves		
+Art/Model/Item/it09/00/0005/it0900_0005_1.mesh	Uth Valeroje (Shield)	Weapons/Charge Blade	it0900_0005_1.mesh,Uth Valeroje II,Uth Valeroje III,Valeroje-of-the-Waves		
+Art/Model/Item/it09/00/0006/it0900_0006_0.mesh	Rompo Shielder	Weapons/Charge Blade	it0900_0006_0.mesh,Rompo Shielder II,Rompo Shielder III,Rompo Dendrotox		
+Art/Model/Item/it09/00/0006/it0900_0006_1.chain2	Rompo Shielder (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0006_1.chain2,Rompo Shielder II,Rompo Shielder III,Rompo Dendrotox		
+Art/Model/Item/it09/00/0006/it0900_0006_1.mesh	Rompo Shielder (Shield)	Weapons/Charge Blade	it0900_0006_1.mesh,Rompo Shielder II,Rompo Shielder III,Rompo Dendrotox		
+Art/Model/Item/it09/00/0007/it0900_0007_0.chain2	Rey Astrapi (Chain Physics)	Weapons/Charge Blade	it0900_0007_0.chain2,Rey Astrapi II,Rey Astrapi III,Astrapi Clairaxe		
+Art/Model/Item/it09/00/0007/it0900_0007_0.mesh	Rey Astrapi	Weapons/Charge Blade	it0900_0007_0.mesh,Rey Astrapi II,Rey Astrapi III,Astrapi Clairaxe		
+Art/Model/Item/it09/00/0007/it0900_0007_1.mesh	Rey Astrapi (Shield)	Weapons/Charge Blade	it0900_0007_1.mesh,Rey Astrapi II,Rey Astrapi III,Astrapi Clairaxe		
+Art/Model/Item/it09/00/0008/it0900_0008_0.mesh	Dear Lutemis	Weapons/Charge Blade	it0900_0008_0.mesh,Dear Lutemis II,Dear Lutemia		
+Art/Model/Item/it09/00/0008/it0900_0008_1.mesh	Dear Lutemis (Shield)	Weapons/Charge Blade	it0900_0008_1.mesh,Dear Lutemis II,Dear Lutemia		
+Art/Model/Item/it09/00/0009/it0900_0009_0.mesh	Axelion Blade	Weapons/Charge Blade	it0900_0009_0.mesh,Bardichion Blade		
+Art/Model/Item/it09/00/0009/it0900_0009_1.mesh	Axelion Blade (Shield)	Weapons/Charge Blade	it0900_0009_1.mesh,Bardichion Blade		
+Art/Model/Item/it09/00/0010/it0900_0010_0.mesh	Elendskraft	Weapons/Charge Blade	it0900_0010_0.mesh,Leidenskraft		
+Art/Model/Item/it09/00/0010/it0900_0010_1.mesh	Elendskraft (Shield)	Weapons/Charge Blade	it0900_0010_1.mesh,Leidenskraft		
+Art/Model/Item/it09/00/0011/it0900_0011_0.mesh	Arachnoscale	Weapons/Charge Blade	it0900_0011_0.mesh,Arachnoscale II,Arachnoscale III,Arachnoscythe		
+Art/Model/Item/it09/00/0011/it0900_0011_1.mesh	Arachnoscale (Shield)	Weapons/Charge Blade	it0900_0011_1.mesh,Arachnoscale II,Arachnoscale III,Arachnoscythe		
+Art/Model/Item/it09/00/0012/it0900_0012_0.chain2	Windthrash Charger (Chain Physics)	Weapons/Charge Blade	it0900_0012_0.chain2,Windthrash Charger II,Windthrash Charger III,Windthrash Tamebami		
+Art/Model/Item/it09/00/0012/it0900_0012_0.mesh	Windthrash Charger	Weapons/Charge Blade	it0900_0012_0.mesh,Windthrash Charger II,Windthrash Charger III,Windthrash Tamebami		
+Art/Model/Item/it09/00/0012/it0900_0012_1.mesh	Windthrash Charger (Shield)	Weapons/Charge Blade	it0900_0012_1.mesh,Windthrash Charger II,Windthrash Charger III,Windthrash Tamebami		
+Art/Model/Item/it09/00/0013/it0900_0013_0.mesh	Nu Pweza	Weapons/Charge Blade	it0900_0013_0.mesh,Nu Pweza II,Abaddonian Pweza		
+Art/Model/Item/it09/00/0013/it0900_0013_1.mesh	Nu Pweza (Shield)	Weapons/Charge Blade	it0900_0013_1.mesh,Nu Pweza II,Abaddonian Pweza		
+Art/Model/Item/it09/00/0016/it0900_0016_0.mesh	Poison Blade	Weapons/Charge Blade	it0900_0016_0.mesh,Poison Blade II,Venoms Kiss		
+Art/Model/Item/it09/00/0016/it0900_0016_1.mesh	Poison Blade (Shield)	Weapons/Charge Blade	it0900_0016_1.mesh,Poison Blade II,Venoms Kiss		
+Art/Model/Item/it09/00/0017/it0900_0017_0.mesh	Lagia Storm 	Weapons/Charge Blade	it0900_0017_0.mesh,Vankrom Blade ,Lagia Storm 		
+Art/Model/Item/it09/00/0017/it0900_0017_1.mesh	Lagia Storm (Shield)	Weapons/Charge Blade	it0900_0017_1.mesh,Vankrom Blade (Shield),Lagia Storm (Shield)		
+Art/Model/Item/it09/00/0018/it0900_0018_0.mesh	Aslat Charger 	Weapons/Charge Blade	it0900_0018_0.mesh,Rebellious Charger 		
+Art/Model/Item/it09/00/0018/it0900_0018_1.mesh	Aslat Charger (Shield)	Weapons/Charge Blade	it0900_0018_1.mesh,Rebellious Charger (Shield)		
+Art/Model/Item/it09/00/0020/it0900_0020_0.mesh	G. Veldian Labrys	Weapons/Charge Blade	it0900_0020_0.mesh,G. Veldian Labrys II,G. Abiding Gawain		
+Art/Model/Item/it09/00/0020/it0900_0020_1.chain2	G. Veldian Labrys (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0020_1.chain2,G. Veldian Labrys II,G. Abiding Gawain		
+Art/Model/Item/it09/00/0020/it0900_0020_1.mesh	G. Veldian Labrys (Shield)	Weapons/Charge Blade	it0900_0020_1.mesh,G. Veldian Labrys II,G. Abiding Gawain		
+Art/Model/Item/it09/00/0023/it0900_0023_0.mesh	Veldian Labrys	Weapons/Charge Blade	it0900_0023_0.mesh,Abiding Gawain		
+Art/Model/Item/it09/00/0023/it0900_0023_1.chain2	Veldian Labrys (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0023_1.chain2,Abiding Gawain		
+Art/Model/Item/it09/00/0023/it0900_0023_1.mesh	Veldian Labrys (Shield)	Weapons/Charge Blade	it0900_0023_1.mesh,Abiding Gawain		
+Art/Model/Item/it09/01/0000/it0901_0000_0.mesh	Hyperguard	Weapons/Charge Blade	it0901_0000_0.mesh,Hyperguard II,Hyperguard III,Regas Hyper		
+Art/Model/Item/it09/01/0000/it0901_0000_1.mesh	Hyperguard (Shield)	Weapons/Charge Blade	it0901_0000_1.mesh,Hyperguard II,Hyperguard III,Regas Hyper		
+Art/Model/Item/it09/01/0003/it0901_0003_0.mesh	Bone Strongarm	Weapons/Charge Blade	it0901_0003_0.mesh,Bone Strongarm II,Bone Strongarm III,Bone Strongarm IV,Hard Bone Strongarm		
+Art/Model/Item/it09/01/0003/it0901_0003_1.mesh	Bone Strongarm (Shield)	Weapons/Charge Blade	it0901_0003_1.mesh,Bone Strongarm II,Bone Strongarm III,Bone Strongarm IV,Hard Bone Strongarm		
+Art/Model/Item/it09/10/0000/it0910_0000_0.mesh	Albirath Blade	Weapons/Charge Blade	it0910_0000_0.mesh,Albirath Blade II,Guardian Albathos		
+Art/Model/Item/it09/10/0000/it0910_0000_1.mesh	Albirath Blade (Shield)	Weapons/Charge Blade	it0910_0000_1.mesh,Albirath Blade II,Guardian Albathos		
+Art/Model/Item/it09/10/0001/it0910_0001_0.mesh	Chthonian Flame	Weapons/Charge Blade	it0910_0001_0.mesh,Chthonian Flame II,Bequeathed Enmity		
+Art/Model/Item/it09/10/0001/it0910_0001_1.mesh	Chthonian Flame (Shield)	Weapons/Charge Blade	it0910_0001_1.mesh,Chthonian Flame II,Bequeathed Enmity		
+Art/Model/Item/it09/10/0002/it0910_0002_0.mesh	Artian Defender	Weapons/Charge Blade	it0910_0002_0.mesh,Artian Defender II,Chrono Gear		
+Art/Model/Item/it09/10/0002/it0910_0002_1.mesh	Artian Defender (Shield)	Weapons/Charge Blade	it0910_0002_1.mesh,Artian Defender II,Chrono Gear		
+Art/Model/Item/it09/99/it0999_0000_0.chain2	Chata Strongarm (Chain Physics)	Weapons/Charge Blade	it0999_0000_0.chain2,Chata Strongarm II,Chata Strongarm III,Chata Strongarm IV		
+Art/Model/Item/it09/99/it0999_0000_1.chain2	Chata Strongarm (Shield) (Chain Physics)	Weapons/Charge Blade	it0999_0000_1.chain2,Chata Strongarm II,Chata Strongarm III,Chata Strongarm IV		
+Art/Model/Item/it10/00/0000/it1000_0000_0.mesh	Chata Glaive	Weapons/Insect Glaive	it1000_0000_0.mesh,Chata Glaive II,Chata Glaive III,Chata Glaive IV		
+Art/Model/Item/it10/00/0001/it1000_0001_0.mesh	Shrouded Laphoka	Weapons/Insect Glaive	it1000_0001_0.mesh		
+Art/Model/Item/it10/00/0002/it1000_0002_0.chain2	Hope Glaive (Chain Physics)	Weapons/Insect Glaive	it1000_0002_0.chain2,Hope Glaive II,Hope Glaive III,Hope Glaive IV,Hope Glaive V,Esperanza Glaive		
+Art/Model/Item/it10/00/0002/it1000_0002_0.mesh	Hope Glaive	Weapons/Insect Glaive	it1000_0002_0.mesh,Hope Glaive II,Hope Glaive III,Hope Glaive IV,Hope Glaive V,Esperanza Glaive		
+Art/Model/Item/it10/00/0003/it1000_0003_0.mesh	Barina Perche	Weapons/Insect Glaive	it1000_0003_0.mesh,Barina Perche II,Barina Perche III,Barina Perche IV		
+Art/Model/Item/it10/00/0004/it1000_0004_0.mesh	Lala Stromatopelm	Weapons/Insect Glaive	it1000_0004_0.mesh		
+Art/Model/Item/it10/00/0005/it1000_0005_0.mesh	Balahara Glaive	Weapons/Insect Glaive	it1000_0005_0.mesh,Balahara Glaive II,Balahara Glaive III,Balahara Glaive IV		
+Art/Model/Item/it10/00/0006/it1000_0006_0.mesh	Sandsea Uchaltiya	Weapons/Insect Glaive	it1000_0006_0.mesh		
+Art/Model/Item/it10/00/0007/it1000_0007_0.chain2	Rey Halilintar (Chain Physics)	Weapons/Insect Glaive	it1000_0007_0.chain2,Rey Halilintar II,Rey Halilintar III,Halilintar Clairglaive		
+Art/Model/Item/it10/00/0007/it1000_0007_0.mesh	Rey Halilintar	Weapons/Insect Glaive	it1000_0007_0.mesh,Rey Halilintar II,Rey Halilintar III,Halilintar Clairglaive		
+Art/Model/Item/it10/00/0008/it1000_0008_0.mesh	Princess Regalia	Weapons/Insect Glaive	it1000_0008_0.mesh,Princess Regalia II,Queen Regalia		
+Art/Model/Item/it10/00/0009/it1000_0009_0.mesh	Rathmaul	Weapons/Insect Glaive	it1000_0009_0.mesh,Firedance Rathmaul		
+Art/Model/Item/it10/00/0010/it1000_0010_0.mesh	Leumundslist	Weapons/Insect Glaive	it1000_0010_0.mesh,Leumundsgift		
+Art/Model/Item/it10/00/0011/it1000_0011_0.mesh	Stealth Glaive	Weapons/Insect Glaive	it1000_0011_0.mesh,Stealth Glaive II,Stealth Glaive III,Stealth Glaive Redux		
+Art/Model/Item/it10/00/0012/it1000_0012_0.chain2	Ajara Trident (Chain Physics)	Weapons/Insect Glaive	it1000_0012_0.chain2,Ajara Trident II,Ajara-Bhadra		
+Art/Model/Item/it10/00/0012/it1000_0012_0.mesh	Ajara Trident	Weapons/Insect Glaive	it1000_0012_0.mesh,Ajara Trident II,Ajara-Bhadra		
+Art/Model/Item/it10/00/0014/it1000_0014_0.chain2	Kut-Ku Pike (Chain Physics)	Weapons/Insect Glaive	it1000_0014_0.chain2,Kut-Ku Pike II,Toucan Pike		
+Art/Model/Item/it10/00/0014/it1000_0014_0.mesh	Kut-Ku Pike	Weapons/Insect Glaive	it1000_0014_0.mesh,Kut-Ku Pike II,Toucan Pike		
+Art/Model/Item/it10/00/0015/it1000_0015_0.mesh	Altair	Weapons/Insect Glaive	it1000_0015_0.mesh,Alteal		
+Art/Model/Item/it10/00/0016/it1000_0016_0.mesh	Graviafaren	Weapons/Insect Glaive	it1000_0016_0.mesh,Gravordius		
+Art/Model/Item/it10/00/0017/it1000_0017_0.mesh	Blizzard Glaive	Weapons/Insect Glaive	it1000_0017_0.mesh,Immaculate Blizzard		
+Art/Model/Item/it10/00/0019/it1000_0019_0.chain2	G. Veldian Trudis (Chain Physics)	Weapons/Insect Glaive	it1000_0019_0.chain2,G. Veldian Trudis II,G. Enduring Tor		
+Art/Model/Item/it10/00/0019/it1000_0019_0.mesh	G. Veldian Trudis	Weapons/Insect Glaive	it1000_0019_0.mesh,G. Veldian Trudis II,G. Enduring Tor		
+Art/Model/Item/it10/00/0020/it1000_0020_0.mesh	Jin Dhachhad	Weapons/Insect Glaive	it1000_0020_0.mesh,Precipice Geumgel		
+Art/Model/Item/it10/00/0023/it1000_0023_0.chain2	Veldian Trudis (Chain Physics)	Weapons/Insect Glaive	it1000_0023_0.chain2,Enduring Tor		
+Art/Model/Item/it10/00/0023/it1000_0023_0.mesh	Veldian Trudis	Weapons/Insect Glaive	it1000_0023_0.mesh,Enduring Tor		
+Art/Model/Item/it10/00/0024/it1000_0024_0.chain2	Vanguard's Glaive (Chain Physics)	Weapons/Insect Glaive	it1000_0024_0.chain2,Vanguard's Pride (Chain Physics),Vanguard's Glaive (Chain Physics)		
+Art/Model/Item/it10/00/0024/it1000_0024_0.mesh	Vanguard's Glaive	Weapons/Insect Glaive	it1000_0024_0.mesh,Vanguard's Pride,Vanguard's Glaive		
+Art/Model/Item/it10/00/0028/it1000_0028_0.mesh	Thunder Glaive Triacrus	Weapons/Insect Glaive	it1000_0028_0.mesh,Fractal Glaive Boltlagia,Thunder Glaive Triacrus		
+Art/Model/Item/it10/01/0001/it1001_0001_0.mesh	Iron Gale	Weapons/Insect Glaive	it1001_0001_0.mesh,Iron Gale II,Iron Gale III,Chrome Gale		
+Art/Model/Item/it10/01/0003/it1001_0003_0.mesh	Bone Staff	Weapons/Insect Glaive	it1001_0003_0.mesh,Bone Staff II,Bone Staff III,Bone Staff IV,Aerial Glaive		
+Art/Model/Item/it10/03/0000/it1003_0000_0.mesh	Chata Glaive	Weapons/Insect Glaive	it1003_0000_0.mesh,Chata Glaive II,Chata Glaive III,Chata Glaive IV		
+Art/Model/Item/it10/03/0001/it1003_0001_0.mesh	Shrouded Laphoka	Weapons/Insect Glaive	it1003_0001_0.mesh		
+Art/Model/Item/it10/03/0003/it1003_0003_0.mesh	Barina Perche	Weapons/Insect Glaive	it1003_0003_0.mesh,Barina Perche II,Barina Perche III,Barina Perche IV		
+Art/Model/Item/it10/03/0004/it1003_0004_0.mesh	Lala Stromatopelm	Weapons/Insect Glaive	it1003_0004_0.mesh		
+Art/Model/Item/it10/03/0005/it1003_0005_0.mesh	Balahara Glaive	Weapons/Insect Glaive	it1003_0005_0.mesh,Balahara Glaive II,Balahara Glaive III,Balahara Glaive IV		
+Art/Model/Item/it10/03/0006/it1003_0006_0.mesh	Sandsea Uchaltiya	Weapons/Insect Glaive	it1003_0006_0.mesh		
+Art/Model/Item/it10/03/0007/it1003_0007_0.mesh	Rey Halilintar	Weapons/Insect Glaive	it1003_0007_0.mesh,Rey Halilintar II,Rey Halilintar III,Halilintar Clairglaive		
+Art/Model/Item/it10/03/0008/it1003_0008_0.mesh	Princess Regalia	Weapons/Insect Glaive	it1003_0008_0.mesh,Princess Regalia II,Queen Regalia		
+Art/Model/Item/it10/03/0009/it1003_0009_0.mesh	Rathmaul	Weapons/Insect Glaive	it1003_0009_0.mesh,Firedance Rathmaul		
+Art/Model/Item/it10/03/0010/it1003_0010_0.mesh	Leumundslist	Weapons/Insect Glaive	it1003_0010_0.mesh,Leumundsgift		
+Art/Model/Item/it10/03/0011/it1003_0011_0.mesh	Stealth Glaive	Weapons/Insect Glaive	it1003_0011_0.mesh,Stealth Glaive II,Stealth Glaive III,Stealth Glaive Redux		
+Art/Model/Item/it10/03/0014/it1003_0014_0.mesh	Kut-Ku Pike	Weapons/Insect Glaive	it1003_0014_0.mesh,Kut-Ku Pike II,Toucan Pike		
+Art/Model/Item/it10/03/0016/it1003_0016_0.mesh	Graviafaren	Weapons/Insect Glaive	it1003_0016_0.mesh,Gravordius		
+Art/Model/Item/it10/03/0017/it1003_0017_0.mesh	Blizzard Glaive	Weapons/Insect Glaive	it1003_0017_0.mesh,Immaculate Blizzard		
+Art/Model/Item/it10/03/0019/it1003_0019_0.mesh	G. Veldian Trudis	Weapons/Insect Glaive	it1003_0019_0.mesh,G. Veldian Trudis II,G. Enduring Tor		
+Art/Model/Item/it10/03/0020/it1003_0020_0.mesh	Jin Dhachhad	Weapons/Insect Glaive	it1003_0020_0.mesh,Precipice Geumgel		
+Art/Model/Item/it10/10/0000/it1010_0000_0.mesh	Guardian Rathmaul	Weapons/Insect Glaive	it1010_0000_0.mesh,Guardian Rathmaul II,Alabaster Rathmaul		
+Art/Model/Item/it10/10/0001/it1010_0001_0.mesh	Chthonian Vajra	Weapons/Insect Glaive	it1010_0001_0.mesh,Chthonian Vajra II,Bequeathed Testament		
+Art/Model/Item/it10/10/0002/it1010_0002_0.mesh	Rising Fulgur	Weapons/Insect Glaive	it1010_0002_0.mesh,Fulgurglaive Guardiana		
+Art/Model/Item/it10/99/it1099_0000_0.chain2	Chata Glaive (Chain Physics)	Weapons/Insect Glaive	it1099_0000_0.chain2,Chata Glaive II,Chata Glaive III,Chata Glaive IV		
+Art/Model/Item/it11/00/0000/it1100_0000_0.chain2	Hope Bow (Chain Physics)	Weapons/Bow	it1100_0000_0.chain2,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/00/0000/it1100_0000_0.mesh	Hope Bow	Weapons/Bow	it1100_0000_0.mesh,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/00/0000/it1100_0000_1.chain2	Hope Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0000_1.chain2,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/00/0000/it1100_0000_1.mesh	Hope Bow (Quiver)	Weapons/Bow	it1100_0000_1.mesh,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/00/0001/it100_0001_0.chain2	Shrouded Laphoka (Chain Physics)	Weapons/Bow	it100_0001_0.chain2		
+Art/Model/Item/it11/00/0001/it1100_0001_0.mesh	Quematrice Arco	Weapons/Bow	it1100_0001_0.mesh,Quematrice Arco II,Quematrice Arco III,Quematrice Arco IV		
+Art/Model/Item/it11/00/0001/it1100_0001_1.chain2	Quematrice Arco (Quiver) (Chain Physics)	Weapons/Bow	it1100_0001_1.chain2,Quematrice Arco II,Quematrice Arco III,Quematrice Arco IV		
+Art/Model/Item/it11/00/0001/it1100_0001_1.mesh	Quematrice Arco (Quiver)	Weapons/Bow	it1100_0001_1.mesh,Quematrice Arco II,Quematrice Arco III,Quematrice Arco IV		
+Art/Model/Item/it11/00/0002/it1100_0002_0.chain2	Firetrail Leviora (Chain Physics)	Weapons/Bow	it1100_0002_0.chain2		
+Art/Model/Item/it11/00/0002/it1100_0002_0.mesh	Firetrail Leviora	Weapons/Bow	it1100_0002_0.mesh		
+Art/Model/Item/it11/00/0002/it1100_0002_1.chain2	Firetrail Leviora (Quiver) (Chain Physics)	Weapons/Bow	it1100_0002_1.chain2		
+Art/Model/Item/it11/00/0002/it1100_0002_1.mesh	Firetrail Leviora (Quiver)	Weapons/Bow	it1100_0002_1.mesh		
+Art/Model/Item/it11/00/0003/it1100_0003_0.mesh	Wild Power Bow	Weapons/Bow	it1100_0003_0.mesh,Wild Power Bow II,Wildwood Kalifa		
+Art/Model/Item/it11/00/0003/it1100_0003_1.chain2	Wild Power Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0003_1.chain2,Wild Power Bow II,Wildwood Kalifa		
+Art/Model/Item/it11/00/0003/it1100_0003_1.mesh	Wild Power Bow (Quiver)	Weapons/Bow	it1100_0003_1.mesh,Wild Power Bow II,Wildwood Kalifa		
+Art/Model/Item/it11/00/0004/it1100_0004_0.chain2	Dosha Fearbringer (Chain Physics)	Weapons/Bow	it1100_0004_0.chain2,Dosha Fearbringer II,Dosha Fearbringer III		
+Art/Model/Item/it11/00/0004/it1100_0004_0.mesh	Dosha Fearbringer	Weapons/Bow	it1100_0004_0.mesh,Dosha Fearbringer II,Dosha Fearbringer III		
+Art/Model/Item/it11/00/0004/it1100_0004_1.chain2	Dosha Fearbringer (Quiver) (Chain Physics)	Weapons/Bow	it1100_0004_1.chain2,Dosha Fearbringer II,Dosha Fearbringer III		
+Art/Model/Item/it11/00/0004/it1100_0004_1.mesh	Dosha Fearbringer (Quiver)	Weapons/Bow	it1100_0004_1.mesh,Dosha Fearbringer II,Dosha Fearbringer III		
+Art/Model/Item/it11/00/0005/it1100_0005_0.chain2	Fearbringer Callistox (Chain Physics)	Weapons/Bow	it1100_0005_0.chain2		
+Art/Model/Item/it11/00/0005/it1100_0005_0.mesh	Fearbringer Callistox	Weapons/Bow	it1100_0005_0.mesh		
+Art/Model/Item/it11/00/0005/it1100_0005_1.chain2	Fearbringer Callistox (Quiver) (Chain Physics)	Weapons/Bow	it1100_0005_1.chain2		
+Art/Model/Item/it11/00/0005/it1100_0005_1.mesh	Fearbringer Callistox (Quiver)	Weapons/Bow	it1100_0005_1.mesh		
+Art/Model/Item/it11/00/0006/it1100_0006_0.chain2	Uth Khviluk (Chain Physics)	Weapons/Bow	it1100_0006_0.chain2,Uth Khviluk II,Uth Khviluk III,Khviluk-of-the-Waves		
+Art/Model/Item/it11/00/0006/it1100_0006_0.mesh	Uth Khviluk	Weapons/Bow	it1100_0006_0.mesh,Uth Khviluk II,Uth Khviluk III,Khviluk-of-the-Waves		
+Art/Model/Item/it11/00/0006/it1100_0006_1.chain2	Uth Khviluk (Quiver) (Chain Physics)	Weapons/Bow	it1100_0006_1.chain2,Uth Khviluk II,Uth Khviluk III,Khviluk-of-the-Waves		
+Art/Model/Item/it11/00/0006/it1100_0006_1.mesh	Uth Khviluk (Quiver)	Weapons/Bow	it1100_0006_1.mesh,Uth Khviluk II,Uth Khviluk III,Khviluk-of-the-Waves		
+Art/Model/Item/it11/00/0007/it1100_0007_0.chain2	Rey Perkonis (Chain Physics)	Weapons/Bow	it1100_0007_0.chain2,Rey Perkonis II,Rey Perkonis III,Perkonis Clairbow		
+Art/Model/Item/it11/00/0007/it1100_0007_0.mesh	Rey Perkonis	Weapons/Bow	it1100_0007_0.mesh,Rey Perkonis II,Rey Perkonis III,Perkonis Clairbow		
+Art/Model/Item/it11/00/0007/it1100_0007_1.chain2	Rey Perkonis (Quiver) (Chain Physics)	Weapons/Bow	it1100_0007_1.chain2,Rey Perkonis II,Rey Perkonis III,Perkonis Clairbow		
+Art/Model/Item/it11/00/0007/it1100_0007_1.mesh	Rey Perkonis (Quiver)	Weapons/Bow	it1100_0007_1.mesh,Rey Perkonis II,Rey Perkonis III,Perkonis Clairbow		
+Art/Model/Item/it11/00/0008/it1100_0008_0.mesh	Queen Blaster	Weapons/Bow	it1100_0008_0.mesh,Queen Blaster II,Queens Melody		
+Art/Model/Item/it11/00/0008/it1100_0008_1.mesh	Queen Blaster (Quiver)	Weapons/Bow	it1100_0008_1.mesh,Queen Blaster II,Queens Melody		
+Art/Model/Item/it11/00/0009/it1100_0009_0.mesh	Prominence Bow	Weapons/Bow	it1100_0009_0.mesh,Dark Filament		
+Art/Model/Item/it11/00/0009/it1100_0009_1.chain2	Prominence Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0009_1.chain2,Dark Filament		
+Art/Model/Item/it11/00/0009/it1100_0009_1.mesh	Prominence Bow (Quiver)	Weapons/Bow	it1100_0009_1.mesh,Dark Filament		
+Art/Model/Item/it11/00/0010/it1100_0010_0.mesh	Entbehrung	Weapons/Bow	it1100_0010_0.mesh,Verzweiflung		
+Art/Model/Item/it11/00/0010/it1100_0010_1.chain2	Entbehrung (Quiver) (Chain Physics)	Weapons/Bow	it1100_0010_1.chain2,Verzweiflung		
+Art/Model/Item/it11/00/0010/it1100_0010_1.mesh	Entbehrung (Quiver)	Weapons/Bow	it1100_0010_1.mesh,Verzweiflung		
+Art/Model/Item/it11/00/0011/it1100_0011_0.mesh	Scylla Fist	Weapons/Bow	it1100_0011_0.mesh,Scylla Fist II,Scylla Fist III,Nershock		
+Art/Model/Item/it11/00/0011/it1100_0011_1.chain2	Scylla Fist (Quiver) (Chain Physics)	Weapons/Bow	it1100_0011_1.chain2,Scylla Fist II,Scylla Fist III,Nershock		
+Art/Model/Item/it11/00/0011/it1100_0011_1.mesh	Scylla Fist (Quiver)	Weapons/Bow	it1100_0011_1.mesh,Scylla Fist II,Scylla Fist III,Nershock		
+Art/Model/Item/it11/00/0012/it1100_0012_0.chain2	Windbrace Bow (Chain Physics)	Weapons/Bow	it1100_0012_0.chain2,Windbrace Bow II,Windbrace Bow III,Windbrace Ibami		
+Art/Model/Item/it11/00/0012/it1100_0012_0.mesh	Windbrace Bow	Weapons/Bow	it1100_0012_0.mesh,Windbrace Bow II,Windbrace Bow III,Windbrace Ibami		
+Art/Model/Item/it11/00/0012/it1100_0012_1.chain2	Windbrace Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0012_1.chain2,Windbrace Bow II,Windbrace Bow III,Windbrace Ibami		
+Art/Model/Item/it11/00/0012/it1100_0012_1.mesh	Windbrace Bow (Quiver)	Weapons/Bow	it1100_0012_1.mesh,Windbrace Bow II,Windbrace Bow III,Windbrace Ibami		
+Art/Model/Item/it11/00/0015/it1100_0015_0.mesh	Kut-Ku Stave	Weapons/Bow	it1100_0015_0.mesh,Kut-Ku Stave II,Strange Kut-Ku Stave		
+Art/Model/Item/it11/00/0015/it1100_0015_1.chain2	Kut-Ku Stave (Quiver) (Chain Physics)	Weapons/Bow	it1100_0015_1.chain2,Kut-Ku Stave II,Strange Kut-Ku Stave		
+Art/Model/Item/it11/00/0015/it1100_0015_1.mesh	Kut-Ku Stave (Quiver)	Weapons/Bow	it1100_0015_1.mesh,Kut-Ku Stave II,Strange Kut-Ku Stave		
+Art/Model/Item/it11/00/0016/it1100_0016_0.mesh	Boltsender 	Weapons/Bow	it1100_0016_0.mesh,High Voltsender 		
+Art/Model/Item/it11/00/0016/it1100_0016_1.chain2	Boltsender (Quiver) (Chain Physics)	Weapons/Bow	it1100_0016_1.chain2,High Voltsender (Quiver) (Chain Physics)		
+Art/Model/Item/it11/00/0016/it1100_0016_1.mesh	Boltsender (Quiver)	Weapons/Bow	it1100_0016_1.mesh,High Voltsender (Quiver)		
+Art/Model/Item/it11/00/0017/it1100_0017_0.mesh	Shalya Bow 	Weapons/Bow	it1100_0017_0.mesh,Insurgent Bow ,Shalya Bow 		
+Art/Model/Item/it11/00/0017/it1100_0017_1.chain2	Shalya Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0017_1.chain2,Insurgent Bow (Quiver) (Chain Physics),Shalya Bow (Quiver) (Chain Physics)		
+Art/Model/Item/it11/00/0017/it1100_0017_1.mesh	Shalya Bow (Quiver)	Weapons/Bow	it1100_0017_1.mesh,Insurgent Bow (Quiver),Shalya Bow (Quiver)		
+Art/Model/Item/it11/00/0018/it1100_0018_0.chain2	Blan Sharanga (Chain Physics)	Weapons/Bow	it1100_0018_0.chain2,Singha Sharanga		
+Art/Model/Item/it11/00/0018/it1100_0018_0.mesh	Blan Sharanga	Weapons/Bow	it1100_0018_0.mesh,Singha Sharanga		
+Art/Model/Item/it11/00/0018/it1100_0018_1.chain2	Blan Sharanga (Quiver) (Chain Physics)	Weapons/Bow	it1100_0018_1.chain2,Singha Sharanga		
+Art/Model/Item/it11/00/0018/it1100_0018_1.mesh	Blan Sharanga (Quiver)	Weapons/Bow	it1100_0018_1.mesh,Singha Sharanga		
+Art/Model/Item/it11/00/0020/it1100_0020_0.chain2	G. Veldian Arcum (Chain Physics)	Weapons/Bow	it1100_0020_0.chain2,G. Veldian Arcum II,G. Renowned Tristram		
+Art/Model/Item/it11/00/0020/it1100_0020_0.mesh	G. Veldian Arcum	Weapons/Bow	it1100_0020_0.mesh,G. Veldian Arcum II,G. Renowned Tristram		
+Art/Model/Item/it11/00/0020/it1100_0020_1.chain2	G. Veldian Arcum (Quiver) (Chain Physics)	Weapons/Bow	it1100_0020_1.chain2,G. Veldian Arcum II,G. Renowned Tristram		
+Art/Model/Item/it11/00/0020/it1100_0020_1.mesh	G. Veldian Arcum (Quiver)	Weapons/Bow	it1100_0020_1.mesh,G. Veldian Arcum II,G. Renowned Tristram		
+Art/Model/Item/it11/00/0022/it1100_0022_0.chain2	Nihil Bow (Chain Physics)	Weapons/Bow	it1100_0022_0.chain2,Nihil Bow II,Bookwilthes Punisher		
+Art/Model/Item/it11/00/0022/it1100_0022_0.mesh	Nihil Bow	Weapons/Bow	it1100_0022_0.mesh,Nihil Bow II,Bookwilthes Punisher		
+Art/Model/Item/it11/00/0022/it1100_0022_1.chain2	Nihil Bow (Quiver) (Chain Physics)	Weapons/Bow	it1100_0022_1.chain2,Nihil Bow II,Bookwilthes Punisher		
+Art/Model/Item/it11/00/0022/it1100_0022_1.mesh	Nihil Bow (Quiver)	Weapons/Bow	it1100_0022_1.mesh,Nihil Bow II,Bookwilthes Punisher		
+Art/Model/Item/it11/00/0025/it1100_0025_0.chain2	Veldian Arcum (Chain Physics)	Weapons/Bow	it1100_0025_0.chain2,Renowned Tristram		
+Art/Model/Item/it11/00/0025/it1100_0025_0.mesh	Veldian Arcum	Weapons/Bow	it1100_0025_0.mesh,Renowned Tristram		
+Art/Model/Item/it11/00/0025/it1100_0025_1.chain2	Veldian Arcum (Quiver) (Chain Physics)	Weapons/Bow	it1100_0025_1.chain2,Renowned Tristram		
+Art/Model/Item/it11/00/0025/it1100_0025_1.mesh	Veldian Arcum (Quiver)	Weapons/Bow	it1100_0025_1.mesh,Renowned Tristram		
+Art/Model/Item/it11/01/0001/it1101_0001_0.mesh	Dragon Perforator	Weapons/Bow	it1101_0001_0.mesh,Dragon Perforator II,Dragon Perforator III,True Dragon Perforator		
+Art/Model/Item/it11/01/0001/it1101_0001_1.chain2	Dragon Perforator (Quiver) (Chain Physics)	Weapons/Bow	it1101_0001_1.chain2,Dragon Perforator II,Dragon Perforator III,True Dragon Perforator		
+Art/Model/Item/it11/01/0001/it1101_0001_1.mesh	Dragon Perforator (Quiver)	Weapons/Bow	it1101_0001_1.mesh,Dragon Perforator II,Dragon Perforator III,True Dragon Perforator		
+Art/Model/Item/it11/01/0003/it1101_0003_0.mesh	Hunter's Bow	Weapons/Bow	it1101_0003_0.mesh,Hunters Bow II,Hunters Bow III,Hunters Bow IV,Hunters Stoutbow		
+Art/Model/Item/it11/01/0003/it1101_0003_1.chain2	Hunter's Bow (Quiver) (Chain Physics)	Weapons/Bow	it1101_0003_1.chain2,Hunters Bow II,Hunters Bow III,Hunters Bow IV,Hunters Stoutbow		
+Art/Model/Item/it11/01/0003/it1101_0003_1.mesh	Hunter's Bow (Quiver)	Weapons/Bow	it1101_0003_1.mesh,Hunters Bow II,Hunters Bow III,Hunters Bow IV,Hunters Stoutbow		
+Art/Model/Item/it11/10/0000/it1110_0000_0.mesh	Albirath Bow	Weapons/Bow	it1110_0000_0.mesh,Albirath Bow II,Solar Spicule		
+Art/Model/Item/it11/10/0000/it1110_0000_1.chain2	Albirath Bow (Quiver) (Chain Physics)	Weapons/Bow	it1110_0000_1.chain2,Albirath Bow II,Solar Spicule		
+Art/Model/Item/it11/10/0000/it1110_0000_1.mesh	Albirath Bow (Quiver)	Weapons/Bow	it1110_0000_1.mesh,Albirath Bow II,Solar Spicule		
+Art/Model/Item/it11/10/0001/it1110_0001_0.chain2	Dosha Griefbringer (Chain Physics)	Weapons/Bow	it1110_0001_0.chain2,Dosha Griefbringer II,Griefbringer Urstox		
+Art/Model/Item/it11/10/0001/it1110_0001_0.mesh	Dosha Griefbringer	Weapons/Bow	it1110_0001_0.mesh,Dosha Griefbringer II,Griefbringer Urstox		
+Art/Model/Item/it11/10/0001/it1110_0001_1.chain2	Dosha Griefbringer (Quiver) (Chain Physics)	Weapons/Bow	it1110_0001_1.chain2,Dosha Griefbringer II,Griefbringer Urstox		
+Art/Model/Item/it11/10/0001/it1110_0001_1.mesh	Dosha Griefbringer (Quiver)	Weapons/Bow	it1110_0001_1.mesh,Dosha Griefbringer II,Griefbringer Urstox		
+Art/Model/Item/it11/10/0002/it1110_0002_0.chain2	Blinding Fulgur (Chain Physics)	Weapons/Bow	it1110_0002_0.chain2,Fulgurbow Guardiana		
+Art/Model/Item/it11/10/0002/it1110_0002_0.mesh	Blinding Fulgur	Weapons/Bow	it1110_0002_0.mesh,Fulgurbow Guardiana		
+Art/Model/Item/it11/10/0002/it1110_0002_1.chain2	Blinding Fulgur (Quiver) (Chain Physics)	Weapons/Bow	it1110_0002_1.chain2,Fulgurbow Guardiana		
+Art/Model/Item/it11/10/0002/it1110_0002_1.mesh	Blinding Fulgur (Quiver)	Weapons/Bow	it1110_0002_1.mesh,Fulgurbow Guardiana		
+Art/Model/Item/it11/10/0003/it1110_0003_0.chain2	Artian Sight (Chain Physics)	Weapons/Bow	it1110_0003_0.chain2,Artian Sight II,Angelbein		
+Art/Model/Item/it11/10/0003/it1110_0003_0.mesh	Artian Sight	Weapons/Bow	it1110_0003_0.mesh,Artian Sight II,Angelbein		
+Art/Model/Item/it11/10/0003/it1110_0003_1.chain2	Artian Sight (Quiver) (Chain Physics)	Weapons/Bow	it1110_0003_1.chain2,Artian Sight II,Angelbein		
+Art/Model/Item/it11/10/0003/it1110_0003_1.mesh	Artian Sight (Quiver)	Weapons/Bow	it1110_0003_1.mesh,Artian Sight II,Angelbein		
+Art/Model/Item/it11/99/0000/it1199_0000_0.mesh	Hope Bow	Weapons/Bow	it1199_0000_0.mesh,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/99/0002/it1199_0002_0.mesh	Firetrail Leviora	Weapons/Bow	it1199_0002_0.mesh		
+Art/Model/Item/it11/99/0004/it1199_0004_0.mesh	Dosha Fearbringer	Weapons/Bow	it1199_0004_0.mesh,Dosha Fearbringer II,Dosha Fearbringer III		
+Art/Model/Item/it11/99/0005/it1199_0005_0.mesh	Fearbringer Callistox	Weapons/Bow	it1199_0005_0.mesh		
+Art/Model/Item/it11/99/it1199_0000_0.chain2	Hope Bow (Chain Physics)	Weapons/Bow	it1199_0000_0.chain2,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it11/99/it1199_0000_1.chain2	Hope Bow (Quiver) (Chain Physics)	Weapons/Bow	it1199_0000_1.chain2,Hope Bow II,Hope Bow III,Hope Bow IV,Hope Bow V,Esperanza Bow		
+Art/Model/Item/it12/00/0000/it1200_0000_0.mesh	Chata Sheller	Weapons/Heavy Bowgun	it1200_0000_0.mesh,Chata Sheller II,Chata Sheller III,Chata Sheller IV		
+Art/Model/Item/it12/00/0001/it1200_0001_0.mesh	Shrouded Muktana	Weapons/Heavy Bowgun	it1200_0001_0.mesh		
+Art/Model/Item/it12/00/0003/it1200_0003_0.chain2	Hope Cannon (Chain Physics)	Weapons/Heavy Bowgun	it1200_0003_0.chain2,Hope Cannon II,Hope Cannon III,Hope Cannon IV,Hope Cannon V,Esperanza Cannon		
+Art/Model/Item/it12/00/0003/it1200_0003_0.mesh	Hope Cannon	Weapons/Heavy Bowgun	it1200_0003_0.mesh,Hope Cannon II,Hope Cannon III,Hope Cannon IV,Hope Cannon V,Esperanza Cannon		
+Art/Model/Item/it12/00/0004/it1200_0004_0.mesh	Power Stinger	Weapons/Heavy Bowgun	it1200_0004_0.mesh,Power Stinger II,Wild Stinger		
+Art/Model/Item/it12/00/0005/it1200_0005_0.chain2	Uth Dalgap (Chain Physics)	Weapons/Heavy Bowgun	it1200_0005_0.chain2,Uth Dalgap II,Uth Dalgap III,Dalgap-of-the-Waves		
+Art/Model/Item/it12/00/0005/it1200_0005_0.mesh	Uth Dalgap	Weapons/Heavy Bowgun	it1200_0005_0.mesh,Uth Dalgap II,Uth Dalgap III,Dalgap-of-the-Waves		
+Art/Model/Item/it12/00/0006/it1200_0006_0.chain2	Rompo Sniper (Chain Physics)	Weapons/Heavy Bowgun	it1200_0006_0.chain2,Rompo Sniper II,Rompo Sniper III,Rompo Latrotox		
+Art/Model/Item/it12/00/0006/it1200_0006_0.mesh	Rompo Sniper	Weapons/Heavy Bowgun	it1200_0006_0.mesh,Rompo Sniper II,Rompo Sniper III,Rompo Latrotox		
+Art/Model/Item/it12/00/0007/it1200_0007_0.chain2	Queen's Longfire (Chain Physics)	Weapons/Heavy Bowgun	it1200_0007_0.chain2,Queens Longfire II,Queens Farflier		
+Art/Model/Item/it12/00/0007/it1200_0007_0.mesh	Queen's Longfire	Weapons/Heavy Bowgun	it1200_0007_0.mesh,Queens Longfire II,Queens Farflier		
+Art/Model/Item/it12/00/0008/it1200_0008_0.mesh	Tödlicher Abzug	Weapons/Heavy Bowgun	it1200_0008_0.mesh,Ableben Abzug		
+Art/Model/Item/it12/00/0009/it1200_0009_0.mesh	Ner Bustergun	Weapons/Heavy Bowgun	it1200_0009_0.mesh,Ner Bustergun II,Ner Bustergun III,Buster Blaster		
+Art/Model/Item/it12/00/0010/it1200_0010_0.chain2	Nu Muneo (Chain Physics)	Weapons/Heavy Bowgun	it1200_0010_0.chain2,Nu Muneo II,Abaddonian Muneo		
+Art/Model/Item/it12/00/0010/it1200_0010_0.mesh	Nu Muneo	Weapons/Heavy Bowgun	it1200_0010_0.mesh,Nu Muneo II,Abaddonian Muneo		
+Art/Model/Item/it12/00/0012/it1200_0012_0.mesh	Yian Kut-Ku Cannon	Weapons/Heavy Bowgun	it1200_0012_0.mesh,Yian Kut-Ku Cannon II,Super Kut-Ku Cannon		
+Art/Model/Item/it12/00/0013/it1200_0013_0.mesh	Tankmage	Weapons/Heavy Bowgun	it1200_0013_0.mesh,Tankmage II,Tanksorcerer		
+Art/Model/Item/it12/00/0014/it1200_0014_0.mesh	Lagia Blitz	Weapons/Heavy Bowgun	it1200_0014_0.mesh,Thunderblitz Cannon,Lagia Blitz		
+Art/Model/Item/it12/00/0015/it1200_0015_0.mesh	Sayyad Cannon	Weapons/Heavy Bowgun	it1200_0015_0.mesh,Insurrection Cannon,Sayyad Cannon		
+Art/Model/Item/it12/00/0016/it1200_0016_0.chain2	Gravios Howl (Chain Physics)	Weapons/Heavy Bowgun	it1200_0016_0.chain2,Gravios Gigahowl		
+Art/Model/Item/it12/00/0016/it1200_0016_0.mesh	Gravios Howl	Weapons/Heavy Bowgun	it1200_0016_0.mesh,Gravios Gigahowl		
+Art/Model/Item/it12/00/0018/it1200_0018_0.mesh	G. Veldian Tormentum	Weapons/Heavy Bowgun	it1200_0018_0.mesh,G. Veldian Tormentum II,G. Aeternal Palamedes		
+Art/Model/Item/it12/00/0020/it1200_0020_0.mesh	Jin Dhaphal	Weapons/Heavy Bowgun	it1200_0020_0.mesh,Precipice Malmiam		
+Art/Model/Item/it12/00/0023/it1200_0023_0.mesh	Veldian Tormentum	Weapons/Heavy Bowgun	it1200_0023_0.mesh,Aeternal Palamedes		
+Art/Model/Item/it12/01/0000/it1201_0000_0.chain2	Iron Assault (Chain Physics)	Weapons/Heavy Bowgun	it1201_0000_0.chain2,Iron Assault II,Iron Assault III,Steel Assault		
+Art/Model/Item/it12/01/0000/it1201_0000_0.mesh	Iron Assault	Weapons/Heavy Bowgun	it1201_0000_0.mesh,Iron Assault II,Iron Assault III,Steel Assault		
+Art/Model/Item/it12/01/0001/it1201_0001_0.mesh	Bone Shooter	Weapons/Heavy Bowgun	it1201_0001_0.mesh,Bone Shooter II,Bone Shooter III,Bone Shooter IV,Heavy Shooter		
+Art/Model/Item/it12/10/0000/it1210_0000_0.mesh	Grounding Fulgur	Weapons/Heavy Bowgun	it1210_0000_0.mesh,Fulgurblast Guardiana		
+Art/Model/Item/it12/10/0001/it1210_0001_0.mesh	Artian Sheller	Weapons/Heavy Bowgun	it1210_0001_0.mesh,Artian Sheller II,Greifen		
+Art/Model/Item/it12/99/0000/it1299_0000_0.mesh	Chata Sheller	Weapons/Heavy Bowgun	it1299_0000_0.mesh,Chata Sheller II,Chata Sheller III,Chata Sheller IV		
+Art/Model/Item/it12/99/0001/it1299_0001_0.mesh	Shrouded Muktana	Weapons/Heavy Bowgun	it1299_0001_0.mesh		
+Art/Model/Item/it12/99/it1299_0000_0.chain2	Chata Sheller (Chain Physics)	Weapons/Heavy Bowgun	it1299_0000_0.chain2,Chata Sheller II,Chata Sheller III,Chata Sheller IV		
+Art/Model/Item/it13/00/0001/it1300_0001_0.chain2	Hope Rifle (Chain Physics)	Weapons/Light Bowgun	it1300_0001_0.chain2,Hope Rifle II,Hope Rifle III,Hope Rifle IV,Hope Rifle V,Esperanza Rifle		
+Art/Model/Item/it13/00/0001/it1300_0001_0.mesh	Hope Rifle	Weapons/Light Bowgun	it1300_0001_0.mesh,Hope Rifle II,Hope Rifle III,Hope Rifle IV,Hope Rifle V,Esperanza Rifle		
+Art/Model/Item/it13/00/0002/it1300_0002_0.chain2	Assault Conga (Chain Physics)	Weapons/Light Bowgun	it1300_0002_0.chain2,Assault Conga II,Combat Conga		
+Art/Model/Item/it13/00/0002/it1300_0002_0.mesh	Assault Conga	Weapons/Light Bowgun	it1300_0002_0.mesh,Assault Conga II,Combat Conga		
+Art/Model/Item/it13/00/0003/it1300_0003_0.chain2	Dosha Faithbreaker (Chain Physics)	Weapons/Light Bowgun	it1300_0003_0.chain2,Dosha Faithbreaker II,Dosha Faithbreaker III		
+Art/Model/Item/it13/00/0003/it1300_0003_0.mesh	Dosha Faithbreaker	Weapons/Light Bowgun	it1300_0003_0.mesh,Dosha Faithbreaker II,Dosha Faithbreaker III		
+Art/Model/Item/it13/00/0004/it1300_0004_0.chain2	Faithbreaker Leibolkule (Chain Physics)	Weapons/Light Bowgun	it1300_0004_0.chain2		
+Art/Model/Item/it13/00/0004/it1300_0004_0.mesh	Faithbreaker Leibolkule	Weapons/Light Bowgun	it1300_0004_0.mesh		
+Art/Model/Item/it13/00/0005/it1300_0005_0.mesh	Rey Szelatya	Weapons/Light Bowgun	it1300_0005_0.mesh,Rey Szelatya II,Rey Szelatya III,Szelatya Clairgun		
+Art/Model/Item/it13/00/0006/it1300_0006_0.mesh	Valkyrie Fire	Weapons/Light Bowgun	it1300_0006_0.mesh,Valkyrie Fire II,Valkyrie Flame		
+Art/Model/Item/it13/00/0007/it1300_0007_0.mesh	Rathling Gun	Weapons/Light Bowgun	it1300_0007_0.mesh,Rathling Phoenix		
+Art/Model/Item/it13/00/0008/it1300_0008_0.chain2	Fäulnisschleuder (Chain Physics)	Weapons/Light Bowgun	it1300_0008_0.chain2,Wahnschleuder		
+Art/Model/Item/it13/00/0008/it1300_0008_0.mesh	Fäulnisschleuder	Weapons/Light Bowgun	it1300_0008_0.mesh,Wahnschleuder		
+Art/Model/Item/it13/00/0009/it1300_0009_0.chain2	Windshear Light (Chain Physics)	Weapons/Light Bowgun	it1300_0009_0.chain2,Windshear Light II,Windshear Light III,Windshear Uchibami		
+Art/Model/Item/it13/00/0009/it1300_0009_0.mesh	Windshear Light	Weapons/Light Bowgun	it1300_0009_0.mesh,Windshear Light II,Windshear Light III,Windshear Uchibami		
+Art/Model/Item/it13/00/0010/it1300_0010_0.chain2	Nu Chobotnice (Chain Physics)	Weapons/Light Bowgun	it1300_0010_0.chain2,Nu Chobotnice II,Abaddonian Chobotnice		
+Art/Model/Item/it13/00/0010/it1300_0010_0.mesh	Nu Chobotnice	Weapons/Light Bowgun	it1300_0010_0.mesh,Nu Chobotnice II,Abaddonian Chobotnice		
+Art/Model/Item/it13/00/0011/it1300_0011_0.mesh	Ajara Shellgun	Weapons/Light Bowgun	it1300_0011_0.mesh,Ajara Shellgun II,Ajara-Angaja		
+Art/Model/Item/it13/00/0013/it1300_0013_0.mesh	Kut-Ku Anger	Weapons/Light Bowgun	it1300_0013_0.mesh,Kut-Ku Anger II,Kut-Ku Counterattack		
+Art/Model/Item/it13/00/0014/it1300_0014_0.mesh	Thundacrus	Weapons/Light Bowgun	it1300_0014_0.mesh,Thundacrus Rex,Thundacrus		
+Art/Model/Item/it13/00/0015/it1300_0015_0.mesh	Rasasa Bowgun	Weapons/Light Bowgun	it1300_0015_0.mesh,Rebel Stopper,Rasasa Bowgun		
+Art/Model/Item/it13/00/0016/it1300_0016_0.mesh	Titan Launcher	Weapons/Light Bowgun	it1300_0016_0.mesh,Titan Panzer		
+Art/Model/Item/it13/00/0017/it1300_0017_0.mesh	Tail String	Weapons/Light Bowgun	it1300_0017_0.mesh,Tail Catapult		
+Art/Model/Item/it13/00/0019/it1300_0019_0.chain2	G. Veldian Impetum (Chain Physics)	Weapons/Light Bowgun	it1300_0019_0.chain2,G. Veldian Impetum II,G. Expiating Caius		
+Art/Model/Item/it13/00/0019/it1300_0019_0.mesh	G. Veldian Impetum	Weapons/Light Bowgun	it1300_0019_0.mesh,G. Veldian Impetum II,G. Expiating Caius		
+Art/Model/Item/it13/00/0022/it1300_0022_0.chain2	Veldian Impetum (Chain Physics)	Weapons/Light Bowgun	it1300_0022_0.chain2,Expiating Caius		
+Art/Model/Item/it13/00/0022/it1300_0022_0.mesh	Veldian Impetum	Weapons/Light Bowgun	it1300_0022_0.mesh,Expiating Caius		
+Art/Model/Item/it13/01/0000/it1301_0000_0.mesh	Chain Blitz	Weapons/Light Bowgun	it1301_0000_0.mesh,Chain Blitz II,Chain Blitz III,High Chain Blitz		
+Art/Model/Item/it13/01/0001/it1301_0001_0.mesh	Hunter's Rifle	Weapons/Light Bowgun	it1301_0001_0.mesh,Hunters Rifle II,Hunters Rifle III,Hunters Rifle IV,Power Rifle		
+Art/Model/Item/it13/10/0000/it1310_0000_0.mesh	G. Rathling Gun	Weapons/Light Bowgun	it1310_0000_0.mesh,G. Rathling Gun II,White Rathling Phoenix		
+Art/Model/Item/it13/10/0001/it1310_0001_0.mesh	Chthonian Gunfire	Weapons/Light Bowgun	it1310_0001_0.mesh,Chthonian Gunfire II,Bequeathed Animus		
+Art/Model/Item/it13/10/0002/it1310_0002_0.chain2	Dosha Gigasbreaker (Chain Physics)	Weapons/Light Bowgun	it1310_0002_0.chain2,Dosha Gigasbreaker II,Gigasbreaker Urbolkule		
+Art/Model/Item/it13/10/0002/it1310_0002_0.mesh	Dosha Gigasbreaker	Weapons/Light Bowgun	it1310_0002_0.mesh,Dosha Gigasbreaker II,Gigasbreaker Urbolkule		
+Art/Model/Item/it13/10/0003/it1310_0003_0.chain2	Felling Fulgur (Chain Physics)	Weapons/Light Bowgun	it1310_0003_0.chain2,Fulgursnipe Guardiana		
+Art/Model/Item/it13/10/0003/it1310_0003_0.mesh	Felling Fulgur	Weapons/Light Bowgun	it1310_0003_0.mesh,Fulgursnipe Guardiana		
+Art/Model/Item/it13/10/0004/it1310_0004_0.mesh	Artian Blaster	Weapons/Light Bowgun	it1310_0004_0.mesh,Artian Blaster II,Animilater		
