@@ -13,18 +13,18 @@ with open(FIGHTER_DUMP,"r", encoding ="utf-8") as file:
 	fighterInfo = json.load(file)
 	
 AUTOMATIC_CATEGORY_LIST = [
-	("Characters/Fighters",r"Product/Model/esf"),
-	("Characters/NPCs",r"Product/Model/npc"),
-	("Characters/Avatar",r"Product/Model/wcs"),
-	("Characters/Avatar/Head",r"Product/Model/wpl"),
-	("Characters/Animals",r"Product/Model/mob"),
-	("VFX",r"Product/VFX"),
-	("Objects",r"Product/Model/gnp"),
-	("Objects",r"Product/Model/atc"),
-	("Objects",r"Product/MiniGame"),
-	("Stage/Parts",r"Product/Environment/Stage/Resource/ess"),
-	("Stage/Props",r"Product/Environment/Props/Resource"),
-	("Stage/World Tour",r"Product/Environment/Stage/Resource/wtc"),
+	("Characters/Fighters",r"product/model/esf"),
+	("Characters/NPCs",r"product/model/npc"),
+	("Characters/Avatar",r"product/model/wcs"),
+	("Characters/Avatar/Head",r"product/model/wpl"),
+	("Characters/Animals",r"product/model/mob"),
+	("VFX",r"product/vfx"),
+	("Objects",r"product/model/gnp"),
+	("Objects",r"product/model/atc"),
+	("Objects",r"product/minigame"),
+	("Stage/Parts",r"product/environment/stage/resource/ess"),
+	("Stage/Props",r"product/environment/props/resource"),
+	("Stage/World Tour",r"product/environment/stage/resource/wtc"),
 	
 	
 	
@@ -69,7 +69,7 @@ with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 			
 			#Category detection
 			for categoryTuple in AUTOMATIC_CATEGORY_LIST:
-				if categoryTuple[1] in filePath:
+				if categoryTuple[1] in filePath.lower():
 					category = categoryTuple[0]
 					break
 			
@@ -82,7 +82,7 @@ with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 				])
 			
 			if fileExtension not in excludeExtensionSet:
-				if filePath.startswith("Product/Model/esf") and fileName.startswith("esf"):
+				if filePath.lower().startswith("product/model/esf") and fileName.startswith("esf"):
 					if fileName.count("_") >= 2:
 						#print(fileName)
 						split = fileName.split("_")

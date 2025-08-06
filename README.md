@@ -4,7 +4,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-6/30/2025 - Updated MH Wilds asset library for Title Update 2.
+8/5/2025 - Updated SF6 library for Sagat update.
 
 * MHWILDS - Updated 6/30/2025 - Title Update 2 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
@@ -12,7 +12,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
 * RE4 - Updated 2/28/2025 - Most important things are labeled.
-* SF6 - Updated 6/4/2025 - Updated for Elena Update.
+* SF6 - Updated 8/5/2025 - Updated for Sagat Update.
 * DMC5 - Updated 2/28/2025 - Completely unlabeled.
 
 If you would like to contribute to mapping out libraries, use the "Submit Library Changes to Github" button when you have the asset library blend file open.
