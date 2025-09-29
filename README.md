@@ -4,9 +4,9 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-8/27/2025 - Updated MHWILDS library with fbxskel files.
+9/28/2025 - Updated MHWILDS for Title Update 3.
 
-* MHWILDS - Updated 8/27/2025 - Title Update 2.5 support.
+* MHWILDS - Updated 9/28/2025 - Title Update 3 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.

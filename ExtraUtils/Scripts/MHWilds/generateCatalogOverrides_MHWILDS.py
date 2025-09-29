@@ -106,7 +106,7 @@ wpPartsDict = {
 
 weaponTypeStrings = tuple(fullIDDict.keys())
 CATALOG_PATH = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
-CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_NEWTU2.tsv"
+CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_NEWTU3.tsv"
 OVERRIDES_DIR = os.path.join(os.getcwd(),"Overrides")
 #CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
 
