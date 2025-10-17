@@ -4,7 +4,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-10/16/2025 - Updated SF6 for C. Viper Update.
+10/17/2025 - Updated SF6 for C. Viper Update. (Hotfix: Fixed incorrect tex version)
 
 * MHWILDS - Updated 9/28/2025 - Title Update 3 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
@@ -12,7 +12,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
 * RE4 - Updated 2/28/2025 - Most important things are labeled.
-* SF6 - Updated 10/16/2025 - Updated for C. Viper Update.
+* SF6 - Updated 10/17/2025 - Updated for C. Viper Update.
 * DMC5 - Updated 2/28/2025 - Completely unlabeled.
 
 If you would like to contribute to mapping out libraries, use the "Submit Library Changes to Github" button when you have the asset library blend file open.
