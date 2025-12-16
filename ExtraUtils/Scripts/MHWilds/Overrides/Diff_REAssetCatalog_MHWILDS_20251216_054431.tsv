@@ -1,0 +1,89 @@
+File Path	Display Name	Category (Forward Slash Separated)	Tags (Comma Separated)	Platform Extension	Language Extension
+Art/Model/Character/ch02/084/000/5/ch02_084_0005.mesh	Fluffy Tail Waist (M-M)	Armors/Male/Waist	ch02_084_0005.mesh		
+Art/Model/Character/ch02/088/800/3/ch02_088_8003.mesh	Mirror Visor (M-M)	Armors/Male/Helmet	ch02_088_8003.mesh		
+Art/Model/Character/ch02/088/900/3/ch02_088_9003.mesh	Analytic E.Y.E. (M-M)	Armors/Male/Helmet	ch02_088_9003.mesh		
+Art/Model/Character/ch03/084/000/5/ch03_084_0005.chain2	Fluffy Tail Waist (F-M) (Chain Physics)	Armors/Female/Waist	ch03_084_0005.chain2		
+Art/Model/Character/ch03/084/000/5/ch03_084_0005.chain2	Fluffy Tail Waist (F-M) (Chain Physics)	Armors/Female/Waist	ch03_084_0005.chain2		
+Art/Model/Character/ch03/084/000/5/ch03_084_0005.mesh	Fluffy Tail Waist (F-M)	Armors/Female/Waist	ch03_084_0005.mesh		
+Art/Model/Item/it00/00/0016/it0000_0016_0.chain2	Ostrak Oblivion (Chain Physics)	Weapons/Great Sword	it0000_0016_0.chain2,Ostrak Oblivion (Chain Physics)		
+Art/Model/Item/it00/00/0016/it0000_0016_0.mesh	Ostrak Oblivion	Weapons/Great Sword	it0000_0016_0.mesh,Ostrak Oblivion		
+Art/Model/Item/it01/00/0021/it0100_0021_0.mesh	Kyrie Verd 	Weapons/Sword and Shield	it0100_0021_0.mesh,Kyrie Verd 		
+Art/Model/Item/it01/00/0021/it0100_0021_1.mesh	Kyrie Verd (Shield)	Weapons/Sword and Shield	it0100_0021_1.mesh,Kyrie Verd (Shield)		
+Art/Model/Item/it01/00/0036/it0100_0036_0.mesh	Catspaw 	Weapons/Sword and Shield	it0100_0036_0.mesh,Catburglar 		
+Art/Model/Item/it01/00/0036/it0100_0036_1.mesh	Catspaw (Shield)	Weapons/Sword and Shield	it0100_0036_1.mesh,Catburglar (Shield)		
+Art/Model/Item/it02/00/0020/it0200_0020_0.mesh	Eternal Cusp (L)	Weapons/Dual Blades	it0200_0020_0.mesh,Eternal Cusp (L)		
+Art/Model/Item/it02/00/0020/it0200_0020_1.chain2	Eternal Cusp (R) (Chain Physics)	Weapons/Dual Blades	it0200_0020_1.chain2,Eternal Cusp (R) (Chain Physics)		
+Art/Model/Item/it02/00/0020/it0200_0020_1.mesh	Eternal Cusp (R)	Weapons/Dual Blades	it0200_0020_1.mesh,Eternal Cusp (R)		
+Art/Model/Item/it03/00/0020/it0300_0020_0.chain2	Headsman's Hamus  (Chain Physics)	Weapons/Long Sword	it0300_0020_0.chain2,Headsman's Hamus  (Chain Physics)		
+Art/Model/Item/it03/00/0020/it0300_0020_0.mesh	Headsman's Hamus 	Weapons/Long Sword	it0300_0020_0.mesh,Headsman's Hamus 		
+Art/Model/Item/it03/00/0020/it0300_0020_1.mesh	Headsman's Hamus (Sheath)	Weapons/Long Sword	it0300_0020_1.mesh,Headsman's Hamus (Sheath)		
+Art/Model/Item/it04/00/0018/it0400_0018_0.mesh	Bound Admonition	Weapons/Hammer	it0400_0018_0.mesh,Bound Admonition		
+Art/Model/Item/it05/00/0017/it0500_0017_0.mesh	Onyx Choros	Weapons/Hunting Horn	it0500_0017_0.mesh,Onyx Choros		
+Art/Model/Item/it06/00/0020/it0600_0020_0.chain2	Aether Pike  (Chain Physics)	Weapons/Lance	it0600_0020_0.chain2,Aether Pike  (Chain Physics)		
+Art/Model/Item/it06/00/0020/it0600_0020_0.mesh	Aether Pike 	Weapons/Lance	it0600_0020_0.mesh,Aether Pike 		
+Art/Model/Item/it06/00/0020/it0600_0020_1.mesh	Aether Pike (Shield)	Weapons/Lance	it0600_0020_1.mesh,Aether Pike (Shield)		
+Art/Model/Item/it07/00/0017/it0700_0017_0.chain2	Auguring Omen  (Chain Physics)	Weapons/Gun Lance	it0700_0017_0.chain2,Auguring Omen  (Chain Physics)		
+Art/Model/Item/it07/00/0017/it0700_0017_0.mesh	Auguring Omen 	Weapons/Gun Lance	it0700_0017_0.mesh,Auguring Omen 		
+Art/Model/Item/it07/00/0017/it0700_0017_1.mesh	Auguring Omen (Shield)	Weapons/Gun Lance	it0700_0017_1.mesh,Auguring Omen (Shield)		
+Art/Model/Item/it08/00/0016/it0800_0016_0.mesh	Wicked Regnum	Weapons/Switch Axe	it0800_0016_0.mesh,Wicked Regnum		
+Art/Model/Item/it09/00/0019/it0900_0019_0.chain2	Promised Abyss  (Chain Physics)	Weapons/Charge Blade	it0900_0019_0.chain2,Promised Abyss  (Chain Physics)		
+Art/Model/Item/it09/00/0019/it0900_0019_0.mesh	Promised Abyss 	Weapons/Charge Blade	it0900_0019_0.mesh,Promised Abyss 		
+Art/Model/Item/it09/00/0019/it0900_0019_1.chain2	Promised Abyss (Shield) (Chain Physics)	Weapons/Charge Blade	it0900_0019_1.chain2,Promised Abyss (Shield) (Chain Physics)		
+Art/Model/Item/it09/00/0019/it0900_0019_1.mesh	Promised Abyss (Shield)	Weapons/Charge Blade	it0900_0019_1.mesh,Promised Abyss (Shield)		
+Art/Model/Item/it10/00/0018/it1000_0018_0.mesh	Limbo Llor	Weapons/Insect Glaive	it1000_0018_0.mesh,Limbo Llor		
+Art/Model/Item/it11/00/0019/it1100_0019_0.mesh	Calamitous Angel 	Weapons/Bow	it1100_0019_0.mesh,Calamitous Angel 		
+Art/Model/Item/it11/00/0019/it1100_0019_1.chain2	Calamitous Angel (Quiver) (Chain Physics)	Weapons/Bow	it1100_0019_1.chain2,Calamitous Angel (Quiver) (Chain Physics)		
+Art/Model/Item/it11/00/0019/it1100_0019_1.mesh	Calamitous Angel (Quiver)	Weapons/Bow	it1100_0019_1.mesh,Calamitous Angel (Quiver)		
+Art/Model/Item/it12/00/0017/it1200_0017_0.mesh	Trembling Hels	Weapons/Heavy Bowgun	it1200_0017_0.mesh,Trembling Hels		
+Art/Model/Item/it13/00/0018/it1300_0018_0.mesh	Bethorned Agony	Weapons/Light Bowgun	it1300_0018_0.mesh,Bethorned Agony		
+Art/Model/Item/it48/00/0003/it4800_0003_0.chain2	it4800_0003_0.chain2	Items/Pendants	it4800_0003_0.chain2		
+Art/Model/Item/it48/00/0003/it4800_0003_0.chain2	it4800_0003_0.chain2	Items/Pendants	it4800_0003_0.chain2		
+Art/Model/Item/it48/00/0003/it4800_0003_0.mesh	it4800_0003_0.mesh	Items/Pendants	it4800_0003_0.mesh		
+Art/Model/Item/it48/00/0055/it4800_0055_0.chain2	it4800_0055_0.chain2	Items/Pendants	it4800_0055_0.chain2		
+Art/Model/Item/it48/00/0055/it4800_0055_0.chain2	it4800_0055_0.chain2	Items/Pendants	it4800_0055_0.chain2		
+Art/Model/Item/it48/00/0055/it4800_0055_0.mesh	it4800_0055_0.mesh	Items/Pendants	it4800_0055_0.mesh		
+Art/Model/Item/it48/00/0091/it4800_0091_0.chain2	it4800_0091_0.chain2	Items/Pendants	it4800_0091_0.chain2		
+Art/Model/Item/it48/00/0091/it4800_0091_0.chain2	it4800_0091_0.chain2	Items/Pendants	it4800_0091_0.chain2		
+Art/Model/Item/it48/00/0091/it4800_0091_0.mesh	it4800_0091_0.mesh	Items/Pendants	it4800_0091_0.mesh		
+Art/Model/Item/it48/00/0101/it4800_0101_0.chain2	it4800_0101_0.chain2	Items/Pendants	it4800_0101_0.chain2		
+Art/Model/Item/it48/00/0101/it4800_0101_0.chain2	it4800_0101_0.chain2	Items/Pendants	it4800_0101_0.chain2		
+Art/Model/Item/it48/00/0101/it4800_0101_0.mesh	it4800_0101_0.mesh	Items/Pendants	it4800_0101_0.mesh		
+Art/Model/Item/it48/00/0109/it4800_0109_0.chain2	it4800_0109_0.chain2	Items/Pendants	it4800_0109_0.chain2		
+Art/Model/Item/it48/00/0109/it4800_0109_0.chain2	it4800_0109_0.chain2	Items/Pendants	it4800_0109_0.chain2		
+Art/Model/Item/it48/00/0109/it4800_0109_0.mesh	it4800_0109_0.mesh	Items/Pendants	it4800_0109_0.mesh		
+Art/Model/Item/it48/00/0110/it4800_0110_0.chain2	it4800_0110_0.chain2	Items/Pendants	it4800_0110_0.chain2		
+Art/Model/Item/it48/00/0110/it4800_0110_0.chain2	it4800_0110_0.chain2	Items/Pendants	it4800_0110_0.chain2		
+Art/Model/Item/it48/00/0110/it4800_0110_0.mesh	it4800_0110_0.mesh	Items/Pendants	it4800_0110_0.mesh		
+Art/Model/Item/it48/00/0111/it4800_0111_0.chain2	it4800_0111_0.chain2	Items/Pendants	it4800_0111_0.chain2		
+Art/Model/Item/it48/00/0111/it4800_0111_0.chain2	it4800_0111_0.chain2	Items/Pendants	it4800_0111_0.chain2		
+Art/Model/Item/it48/00/0111/it4800_0111_0.mesh	it4800_0111_0.mesh	Items/Pendants	it4800_0111_0.mesh		
+Art/Model/Item/it48/00/0112/it4800_0112_0.chain2	it4800_0112_0.chain2	Items/Pendants	it4800_0112_0.chain2		
+Art/Model/Item/it48/00/0112/it4800_0112_0.chain2	it4800_0112_0.chain2	Items/Pendants	it4800_0112_0.chain2		
+Art/Model/Item/it48/00/0112/it4800_0112_0.mesh	it4800_0112_0.mesh	Items/Pendants	it4800_0112_0.mesh		
+Art/Model/Item/it48/00/0113/it4800_0113_0.chain2	it4800_0113_0.chain2	Items/Pendants	it4800_0113_0.chain2		
+Art/Model/Item/it48/00/0113/it4800_0113_0.chain2	it4800_0113_0.chain2	Items/Pendants	it4800_0113_0.chain2		
+Art/Model/Item/it48/00/0113/it4800_0113_0.mesh	it4800_0113_0.mesh	Items/Pendants	it4800_0113_0.mesh		
+Art/Model/Item/it48/00/0114/it4800_0114_0.chain2	it4800_0114_0.chain2	Items/Pendants	it4800_0114_0.chain2		
+Art/Model/Item/it48/00/0114/it4800_0114_0.chain2	it4800_0114_0.chain2	Items/Pendants	it4800_0114_0.chain2		
+Art/Model/Item/it48/00/0114/it4800_0114_0.mesh	it4800_0114_0.mesh	Items/Pendants	it4800_0114_0.mesh		
+Art/Model/Item/it48/00/0123/it4800_0123_0.chain2	it4800_0123_0.chain2	Items/Pendants	it4800_0123_0.chain2		
+Art/Model/Item/it48/00/0123/it4800_0123_0.chain2	it4800_0123_0.chain2	Items/Pendants	it4800_0123_0.chain2		
+Art/Model/Item/it48/00/0123/it4800_0123_0.mesh	it4800_0123_0.mesh	Items/Pendants	it4800_0123_0.mesh		
+Art/Model/Item/it48/00/0129/it4800_0129_0.chain2	it4800_0129_0.chain2	Items/Pendants	it4800_0129_0.chain2		
+Art/Model/Item/it48/00/0129/it4800_0129_0.chain2	it4800_0129_0.chain2	Items/Pendants	it4800_0129_0.chain2		
+Art/Model/Item/it48/00/0129/it4800_0129_0.mesh	it4800_0129_0.mesh	Items/Pendants	it4800_0129_0.mesh		
+Art/Model/Item/it48/00/0133/it4800_0133_0.chain2	it4800_0133_0.chain2	Items/Pendants	it4800_0133_0.chain2		
+Art/Model/Item/it48/00/0133/it4800_0133_0.chain2	it4800_0133_0.chain2	Items/Pendants	it4800_0133_0.chain2		
+Art/Model/Item/it48/00/0133/it4800_0133_0.mesh	it4800_0133_0.mesh	Items/Pendants	it4800_0133_0.mesh		
+Art/Model/Item/it48/00/0150/it4800_0150_0.chain2	it4800_0150_0.chain2	Items/Pendants	it4800_0150_0.chain2		
+Art/Model/Item/it48/00/0150/it4800_0150_0.chain2	it4800_0150_0.chain2	Items/Pendants	it4800_0150_0.chain2		
+Art/Model/Item/it48/00/0150/it4800_0150_0.mesh	it4800_0150_0.mesh	Items/Pendants	it4800_0150_0.mesh		
+Art/Model/Item/it48/00/0161/it4800_0161_0.chain2	it4800_0161_0.chain2	Items/Pendants	it4800_0161_0.chain2		
+Art/Model/Item/it48/00/0161/it4800_0161_0.chain2	it4800_0161_0.chain2	Items/Pendants	it4800_0161_0.chain2		
+Art/Model/Item/it48/00/0161/it4800_0161_0.mesh	it4800_0161_0.mesh	Items/Pendants	it4800_0161_0.mesh		
+Art/Model/Item/it48/00/0169/it4800_0169_0.chain2	it4800_0169_0.chain2	Items/Pendants	it4800_0169_0.chain2		
+Art/Model/Item/it48/00/0169/it4800_0169_0.chain2	it4800_0169_0.chain2	Items/Pendants	it4800_0169_0.chain2		
+Art/Model/Item/it48/00/0169/it4800_0169_0.mesh	it4800_0169_0.mesh	Items/Pendants	it4800_0169_0.mesh		
+Art/Model/Item/it48/00/0173/it4800_0173_0.chain2	it4800_0173_0.chain2	Items/Pendants	it4800_0173_0.chain2		
+Art/Model/Item/it48/00/0173/it4800_0173_0.chain2	it4800_0173_0.chain2	Items/Pendants	it4800_0173_0.chain2		
+Art/Model/Item/it48/00/0173/it4800_0173_0.mesh	it4800_0173_0.mesh	Items/Pendants	it4800_0173_0.mesh		

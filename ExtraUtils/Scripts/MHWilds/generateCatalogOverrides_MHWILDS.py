@@ -106,7 +106,7 @@ wpPartsDict = {
 
 weaponTypeStrings = tuple(fullIDDict.keys())
 CATALOG_PATH = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
-CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_NEWTU3.tsv"
+CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS_NEWTU4.tsv"
 OVERRIDES_DIR = os.path.join(os.getcwd(),"Overrides")
 #CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\MHWILDS\REAssetCatalog_MHWILDS.tsv"
 
@@ -148,7 +148,10 @@ AUTOMATIC_CATEGORY_LIST = [
 	("Weapons/Bow",r"Art/Model/Item/it11"),
 	("Weapons/Heavy Bowgun",r"Art/Model/Item/it12"),
 	("Weapons/Light Bowgun",r"Art/Model/Item/it13"),
+	
 	("Items/Misc",r"Art/Model/Item"),
+	("Items/Pendants",r"Art/Model/Item/it48/"),
+	("Items/Talismans",r"Art/Model/Item/it50/15/"),
 	
 	("Player/Hair/Male",r"Art/Model/Character/ch01/000/0"),
 	("Player/Hair/Female",r"Art/Model/Character/ch01/001/0"),

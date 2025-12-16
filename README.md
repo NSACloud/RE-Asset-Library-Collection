@@ -4,10 +4,11 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-10/17/2025 - Updated SF6 for C. Viper Update. (Hotfix: Fixed incorrect tex version)
+12/15/2025 - Updated for Wilds TU4 and added Pragmata. 
 
-* MHWILDS - Updated 9/28/2025 - Title Update 3 support.
+* MHWILDS - Updated 12/15/2025 - Title Update 4 support.
 * MHRSB - Updated 2/28/2025 - Completely unlabeled.
+* PRAG - Updated 12/15/2025 - Sketchbook demo support.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
 * RE2RT - Updated 2/28/2025 - Completely unlabeled.
