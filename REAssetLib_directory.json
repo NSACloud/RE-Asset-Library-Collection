@@ -13,12 +13,22 @@
         {
             "displayName": "Monster Hunter Rise",
             "gameName": "MHRSB",
-            "releaseDescription": "Supports latest game version. Asset Library addon V0.6 or higher required.",
-            "timestamp": "2025-02-27 23:26:56",
-            "CRC": 1579301823,
-            "compressedSize": 259489316,
-            "uncompressedSize": 3029731341,
-            "URL": "1V60gdk8TTo_mjhG8LlwZ3doKkxxMe60K"
+            "releaseDescription": "Update - January 12th 2026, library is fully labelled now.",
+            "timestamp": "2026-02-12 02:40:46",
+            "CRC": 494848418,
+            "compressedSize": 258433611,
+            "uncompressedSize": 3043390479,
+            "URL": "1EwaiBulLdO6ZMfoEd3oMe_H9yfv6_b-Q"
+        },
+        {
+            "displayName": "Monster Hunter Stories 3",
+            "gameName": "MHS3",
+            "releaseDescription": "Supports demo. RE Mesh Editor v0.61 or higher required.",
+            "timestamp": "2026-02-12 02:45:24",
+            "CRC": 3163955728,
+            "compressedSize": 27277821,
+            "uncompressedSize": 600362451,
+            "URL": "10f2ANZMQ4rQZ3Otpm6zA-_NaDdjqxSXx"
         },
         {
             "displayName": "Pragmata",

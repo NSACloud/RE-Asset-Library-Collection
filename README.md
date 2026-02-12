@@ -4,10 +4,13 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-12/15/2025 - Updated for Wilds TU4 and added Pragmata. 
+2/11/2026 - Added Monster Hunter Stories 3 and fully labeled the Monster Hunter Rise library. 
+
+If you want to contribute to asset libraries, see this [tutorial](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/How-to-create-a-new-RE-Asset-Library/).
 
 * MHWILDS - Updated 12/15/2025 - Title Update 4 support.
-* MHRSB - Updated 2/28/2025 - Completely unlabeled.
+* MHS3 - Updated 2/11/2026 - Demo support.
+* MHRSB - Updated 2/11/2026 - Most important things are labeled.
 * PRAG - Updated 12/15/2025 - Sketchbook demo support.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
