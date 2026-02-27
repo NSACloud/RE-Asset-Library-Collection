@@ -1,6 +1,16 @@
 {
     "libraryList": [
         {
+            "displayName": "Resident Evil 9",
+            "gameName": "RE9",
+            "releaseDescription": "No DLC yet, check for a library update in a day or two.",
+            "timestamp": "2026-02-27 10:09:01",
+            "CRC": 2827993787,
+            "compressedSize": 81306404,
+            "uncompressedSize": 3230250040,
+            "URL": "1LfMgp7Uy1FYOj_HKwHex76hYTRa5nDTG"
+        },
+        {
             "displayName": "Monster Hunter Wilds",
             "gameName": "MHWILDS",
             "releaseDescription": "Supports latest title update (Feb 18th Update).",

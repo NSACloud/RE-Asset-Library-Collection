@@ -4,10 +4,11 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-2/18/2026 - Updated MH Wilds Library for Feb 18th update.
+2/27/2026 - Added RE9 asset library.
 
 If you want to contribute to asset libraries, see this [tutorial](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/How-to-create-a-new-RE-Asset-Library/).
 
+* RE9 - Updated 2/27/2026 - RE9 release support. No DLC yet, library will be updated within a day or two.
 * MHWILDS - Updated 2/18/2026 - Feb 18th update support.
 * MHS3 - Updated 2/11/2026 - Demo support.
 * MHRSB - Updated 2/11/2026 - Most important things are labeled.
