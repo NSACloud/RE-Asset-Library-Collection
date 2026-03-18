@@ -4,13 +4,13 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-3/2/2026 - Added all files to RE9 Library.
+3/18/2026 - MHS3 updated with full game + DLC support (Thanks Kazuki and Torvosaure).
 
 If you want to contribute to asset libraries, see this [tutorial](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/How-to-create-a-new-RE-Asset-Library/).
 
 * RE9 - Updated 3/2/2026 - Added all files to RE9 Library.
 * MHWILDS - Updated 2/18/2026 - Feb 18th update support.
-* MHS3 - Updated 2/11/2026 - Demo support.
+* MHS3 - Updated 3/18/2026 - Full game + DLC support (Thanks Kazuki and Torvosaure).
 * MHRSB - Updated 2/11/2026 - Most important things are labeled.
 * PRAG - Updated 12/15/2025 - Sketchbook demo support.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
@@ -37,12 +37,21 @@ Thank you to the following people for helping with asset libraries:
 **shadowcookie**
     
 </details>
+<details>
+<summary>MHS3</summary>
+
+**Kazuki,Torvosaure**
+    
+</details>
+<details>
 <summary>ONI2</summary>
 
 **Niko,Murad58**
     
 </details>
+
 # NO GAME ASSETS ARE INCLUDED
+
 **These asset libraries do not contain any game assets. You must own the games and extract the game files yourself.**
 
 The way asset libraries with this addon works is very simple.
