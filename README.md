@@ -4,7 +4,7 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-4/7/2026 - Added RE2, RE3, RE3RT, RE8. Updated MHWILDS, RE4, RE2 RT.
+4/7/2026 - Added RE2, RE3, RE3RT, RE7RT, RE8. Updated MHWILDS, RE4, RE2 RT.
 
 If you want to contribute to asset libraries, see this [tutorial](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/How-to-create-a-new-RE-Asset-Library/).
 
@@ -20,6 +20,7 @@ If you want to contribute to asset libraries, see this [tutorial](https://github
 * RE3 - Updated 4/7/2026 - Partially labeled (Thanks to linkthehylian).
 * RE3RT - Updated 4/7/2026 - Partially labeled.
 * RE4 - Updated 4/7/2026 - Fixed Linux issue and added new thumbnails.
+* RE7RT - Updated 4/7/2026 - Partially labeled. (Thanks to linkthehylian)
 * RE8 - Updated 4/7/2026 - Partially labeled. (Thanks to linkthehylian)
 * SF6 - Updated 10/17/2025 - Updated for C. Viper Update.
 * DMC5 - Updated 2/28/2025 - Completely unlabeled.
@@ -55,7 +56,7 @@ Thank you to the following people for helping with asset libraries:
 </details>
 
 <details>
-<summary>RE2,RE3,RE8</summary>
+<summary>RE2,RE3,RE7,RE8</summary>
 
 **linkthehylian**
     

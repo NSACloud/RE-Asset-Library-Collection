@@ -23,7 +23,7 @@
         {
             "displayName": "Monster Hunter Rise",
             "gameName": "MHRSB",
-            "releaseDescription": "Update - January 12th 2026, library is fully labelled now.",
+            "releaseDescription": "Update - February 12th 2026, library is fully labelled now.",
             "timestamp": "2026-02-12 02:40:46",
             "CRC": 494848418,
             "compressedSize": 258433611,
@@ -73,7 +73,7 @@
 		{
             "displayName": "Resident Evil 2 DX11 Non RT",
             "gameName": "RE2RT",
-            "releaseDescription": "Supports latest game version.",
+            "releaseDescription": "Supports latest game version. For DX11 version only. (Non RT)",
             "timestamp": "2026-04-07 11:11:34",
             "CRC": 1926085890,
             "compressedSize": 81886549,
@@ -93,7 +93,7 @@
 		{
             "displayName": "Resident Evil 3 DX 11 Non RT",
             "gameName": "RE3",
-            "releaseDescription": "Supports latest game version.",
+            "releaseDescription": "Supports latest game version. For DX11 version only. (Non RT)",
             "timestamp": "2026-04-07 10:37:46",
             "CRC": 349434041,
             "compressedSize": 78216318,
@@ -119,6 +119,16 @@
             "compressedSize": 209691405,
             "uncompressedSize": 2211748793,
             "URL": "1bN6bJwwOG0z_LSY6lr61yiki3RGbTqgo"
+        },
+		{
+            "displayName": "Resident Evil 7 Ray Tracing",
+            "gameName": "RE7RT",
+            "releaseDescription": "Supports latest game version.",
+            "timestamp": "2026-04-07 22:42:36",
+            "CRC": 341133382,
+            "compressedSize": 108750335,
+            "uncompressedSize": 1111863348,
+            "URL": "1CS33i0Gup7_lGlZOmRQKsMEhekGtm2BB"
         },
 		{
             "displayName": "Resident Evil 8",
