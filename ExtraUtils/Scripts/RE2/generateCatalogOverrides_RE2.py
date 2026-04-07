@@ -9,10 +9,10 @@ import json
 import csv
 
 #Change these paths to where ever your asset library is installed
-CATALOG_PATH = r"J:\REAssetLibrary\RE3RT\REAssetCatalog_RE3RT.tsv"
+CATALOG_PATH = r"J:\REAssetLibrary\RE2\REAssetCatalog_RE2.tsv"
 #Where to save the edited catalog to
 #By default it doesn't overwrite the original, you can make it do that but you should make sure your code runs without errors first before changing it.
-CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\RE3RT\REAssetCatalog_RE3RT.tsv"
+CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\RE2\REAssetCatalog_RE2.tsv"
 
 AUTOMATIC_CATEGORY_LIST = [
 	#Change here
@@ -32,22 +32,28 @@ AUTOMATIC_CATEGORY_LIST = [
 	#Make sure the slashes are forward slashes /
 	
 	#(r"CATEGORY_NAME",r"directoryPath"),
-	("Weapons",r"escape/character/weapon"),
-	("Characters/Carlos",r"escape/character/player/pl0"),
-	("Characters/Jill",r"escape/character/player/pl2"),
-	("Characters/Enemies",r"escape/character/enemy"),
+	("Accessories",r"sectionroot/character/accessory"),
+	("Weapons",r"sectionroot/character/weapon"),
+	("Characters/Leon",r"sectionroot/character/player/pl0000"),
+	("Characters/Claire",r"sectionroot/character/player/pl1000"),
+	("Characters/Ada",r"sectionroot/character/player/pl2000"),
+	("Characters/Sherry",r"sectionroot/character/player/pl3000"),
+	("Characters/Hunk",r"sectionroot/character/player/pl4000"),
+	("Characters/Kendo",r"sectionroot/character/player/pl5000"),
+	("Characters/Chief Irons",r"sectionroot/character/player/pl5100"),
+	("Characters/Annette",r"sectionroot/character/player/pl5300"),
+	("Characters/Marvin",r"sectionroot/character/player/pl5700"),
 	("Characters/Enemies",r"sectionroot/character/enemy"),
-	("Characters/Other",r"escape/character/player"),
-	("Characters/Enemies",r"sectionroot/character/player"),
+	("Characters/Other",r"sectionroot/character/player"),
 	
-	("Props",r"escape/setmodel"),
 	("Props",r"objectroot/setmodel"),
-	("Props/Gimmicks",r"escape/setmodel/sm4x_gimmick"),
-	("Items",r"escape/setmodel/sm7x_item"),
+	("Props/Gimmicks",r"objectroot/setmodel/sm4x_gimmick"),
+	("Items",r"objectroot/setmodel/sm7x_item"),
 	
-	("Stage Models",r"escape/environment/location"),
+	("Stage Models",r"objectroot/environment/location"),
+	("Stage Models",r"sectionroot/environment/location"),
 	("VFX",r"vfx/"),
-	("VFX",r"escape/vfx/"),
+	("VFX",r"objectroot/vfx/"),
 	("VFX",r"re_engine_library/vfx_library"),
 	
 	]

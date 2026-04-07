@@ -4,19 +4,23 @@ You're probably looking for [https://github.com/NSACloud/RE-Asset-Library](https
 
 ## Current Library Status
 
-3/18/2026 - MHS3 updated with full game + DLC support (Thanks Kazuki and Torvosaure).
+4/7/2026 - Added RE2, RE3, RE3RT, RE8. Updated MHWILDS, RE4, RE2 RT.
 
 If you want to contribute to asset libraries, see this [tutorial](https://github.com/Havens-Night/REEngine-Modding-Documentation/wiki/How-to-create-a-new-RE-Asset-Library/).
 
 * RE9 - Updated 3/2/2026 - Added all files to RE9 Library.
-* MHWILDS - Updated 2/18/2026 - Feb 18th update support.
+* MHWILDS - Updated 4/7/2026 - Added stage meshes.
 * MHS3 - Updated 3/18/2026 - Full game + DLC support (Thanks Kazuki and Torvosaure).
 * MHRSB - Updated 2/11/2026 - Most important things are labeled.
 * PRAG - Updated 12/15/2025 - Sketchbook demo support.
 * ONI2 - Updated 6/1/2025 - Most important things are labeled.
 * DD2 - Updated 5/30/2025 - Most important things are labeled.
-* RE2RT - Updated 2/28/2025 - Completely unlabeled.
-* RE4 - Updated 2/28/2025 - Most important things are labeled.
+* RE2 - Updated 4/7/2026 - Most important things are labeled. (Thanks to linkthehylian)
+* RE2RT - Updated 4/7/2026 - Most important things are labeled.
+* RE3 - Updated 4/7/2026 - Partially labeled (Thanks to linkthehylian).
+* RE3RT - Updated 4/7/2026 - Partially labeled.
+* RE4 - Updated 4/7/2026 - Fixed Linux issue and added new thumbnails.
+* RE8 - Updated 4/7/2026 - Partially labeled. (Thanks to linkthehylian)
 * SF6 - Updated 10/17/2025 - Updated for C. Viper Update.
 * DMC5 - Updated 2/28/2025 - Completely unlabeled.
 
@@ -49,6 +53,14 @@ Thank you to the following people for helping with asset libraries:
 **Niko,Murad58**
     
 </details>
+
+<details>
+<summary>RE2,RE3,RE8</summary>
+
+**linkthehylian**
+    
+</details>
+<details>
 
 # NO GAME ASSETS ARE INCLUDED
 

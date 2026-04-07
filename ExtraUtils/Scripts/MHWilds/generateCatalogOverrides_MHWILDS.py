@@ -220,6 +220,12 @@ monsterSectionDict = {
 	"1":"Tail",
 	}
 
+armorSubPartDict = {
+	"0":"Carve Knife A",
+	"1":"Alternate Waist",
+	"9":"Carve Knife B",
+	}
+
 with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 	outputFile.write("File Path\tDisplay Name\tCategory (Forward Slash Separated)\tTags (Comma Separated)\tPlatform Extension\tLanguage Extension\n")#Write header line
 	for line in lines[1:]:
@@ -270,6 +276,34 @@ with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 						elif fileExtension == ".fbxskel":
 							name += " (Base Skeleton)"
 						category += f"/{armorSection}"
+					elif fileName.count("_") == 3:#Carve knife/extra waist pieces
+						genderStr,armorID,partIDStr,subPartStr = fileName.split("_")
+						gender = genderDict.get(genderStr,"UNK")
+						#print(filePath)
+						armorSection = armorSectionDict.get(partIDStr[3],"Unknown Part")
+						subPart = armorSubPartDict.get(subPartStr,"Unknown Part")
+						variantGender = genderVariantDict.get(partIDStr[2],"UNK")
+						#seriesID = partIDStr[1],"UNK"
+						typeVariant = partIDStr[0]#Alpha, beta, gamma armor? Used on innerwear
+						name = f"{armorInfo.get(armorID,os.path.split(filePath)[1])} {armorSection} ({subPart}) ({gender}-{variantGender})"
+						#print(partIDStr[0:2])
+						if partIDStr [0:2] == "50" or partIDStr [0:2] == "60":
+							name = "Guardian " + name
+						
+						if fileExtension == ".chain2":
+							name += " (Chain Physics)"
+						elif fileExtension == ".mdf2":
+							name += " (Material Data)"
+						elif fileExtension == ".clsp":
+							name += " (Collision Shape)"
+						elif fileExtension == ".sfur":
+							name += " (Shell Fur)"
+						elif fileExtension == ".jcns":
+							name += " (Joint Constraints)"
+						elif fileExtension == ".fbxskel":
+							name += " (Base Skeleton)"
+						category += f"/{armorSection}"
+					
 				
 				#Large monster overrides
 				elif filePath.startswith("Art/Model/Character/ch90") and fileName.startswith("ch"):

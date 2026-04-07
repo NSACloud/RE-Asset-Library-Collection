@@ -9,10 +9,10 @@ import json
 import csv
 
 #Change these paths to where ever your asset library is installed
-CATALOG_PATH = r"J:\REAssetLibrary\RE3RT\REAssetCatalog_RE3RT.tsv"
+CATALOG_PATH = r"J:\REAssetLibrary\RE3\REAssetCatalog_RE3.tsv"
 #Where to save the edited catalog to
 #By default it doesn't overwrite the original, you can make it do that but you should make sure your code runs without errors first before changing it.
-CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\RE3RT\REAssetCatalog_RE3RT.tsv"
+CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\RE3\REAssetCatalog_RE3.tsv"
 
 AUTOMATIC_CATEGORY_LIST = [
 	#Change here

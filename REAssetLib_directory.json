@@ -13,11 +13,11 @@
         {
             "displayName": "Monster Hunter Wilds",
             "gameName": "MHWILDS",
-            "releaseDescription": "Supports latest title update (Feb 18th Update).",
-            "timestamp": "2026-02-18 06:10:20",
-            "CRC": 660242928,
-            "compressedSize": 216836055,
-            "uncompressedSize": 3437001092,
+            "releaseDescription": "Supports latest title update. Now includes stage meshes.",
+            "timestamp": "2026-04-07 09:30:13",
+            "CRC": 3113742214,
+            "compressedSize": 336038214,
+            "uncompressedSize": 3540287471,
             "URL": "1dNXn3-jSHYsE-74kGrRShsi_lTfLwyAY"
         },
         {
@@ -70,25 +70,65 @@
             "uncompressedSize": 2807646331,
             "URL": "1KlKTRd3jrIau_Lxm5TbdoNDnsvOfVUQp"
         },
+		{
+            "displayName": "Resident Evil 2 DX11 Non RT",
+            "gameName": "RE2RT",
+            "releaseDescription": "Supports latest game version.",
+            "timestamp": "2026-04-07 11:11:34",
+            "CRC": 1926085890,
+            "compressedSize": 81886549,
+            "uncompressedSize": 902387573,
+            "URL": "1u33IiqW5j3B1wvlUe23HUJXpOdswEbDb"
+        },
         {
             "displayName": "Resident Evil 2 Ray Tracing",
             "gameName": "RE2RT",
+            "releaseDescription": "Supports latest game version. Now updated with labeling.",
+            "timestamp": "2026-04-07 11:08:19",
+            "CRC": 1879862612,
+            "compressedSize": 81887104,
+            "uncompressedSize": 894941464,
+            "URL": "1kXx3wngGnexb6O0fMnfpFBtbWbtYwBvc"
+        },
+		{
+            "displayName": "Resident Evil 3 DX 11 Non RT",
+            "gameName": "RE3",
             "releaseDescription": "Supports latest game version.",
-            "timestamp": "2025-02-27 23:29:59",
-            "CRC": 1342006204,
-            "compressedSize": 82446046,
-            "uncompressedSize": 897495717,
-            "URL": "1llw5_RuGN9amy2Zblv4Sj9Dnm-OUwjQy"
+            "timestamp": "2026-04-07 10:37:46",
+            "CRC": 349434041,
+            "compressedSize": 78216318,
+            "uncompressedSize": 859595182,
+            "URL": "1sVjIOq1p3GACSN3PVR-DMv2vTxx7PoSh"
+        },
+		{
+            "displayName": "Resident Evil 3 Ray Tracing",
+            "gameName": "RE3RT",
+            "releaseDescription": "Supports latest game version.",
+            "timestamp": "2026-04-07 10:26:41",
+            "CRC": 1875929130,
+            "compressedSize": 79520574,
+            "uncompressedSize": 863251638,
+            "URL": "1aQmpV9W9MwjoOKryu9Uk4Vt77kayCukg"
         },
         {
             "displayName": "Resident Evil 4",
             "gameName": "RE4",
             "releaseDescription": "Supports latest game version.",
-            "timestamp": "2025-02-27 04:34:51",
-            "CRC": 3043501433,
-            "compressedSize": 208470229,
-            "uncompressedSize": 2211530183,
-            "URL": "1_Sp2XObTRN0sfgVafbs6T2m6u8ez1WQ8"
+            "timestamp": "2026-04-07 11:39:50",
+            "CRC": 3739804996,
+            "compressedSize": 209691405,
+            "uncompressedSize": 2211748793,
+            "URL": "1bN6bJwwOG0z_LSY6lr61yiki3RGbTqgo"
+        },
+		{
+            "displayName": "Resident Evil 8",
+            "gameName": "RE8",
+            "releaseDescription": "Supports latest game version.",
+            "timestamp": "2026-04-07 10:14:19",
+            "CRC": 2681204336,
+            "compressedSize": 187091870,
+            "uncompressedSize": 2041237030,
+            "URL": "1MukWEpqIE-GjSZ7f2av-TiHa75Vqhf-H"
         },
         {
             "displayName": "Street Fighter 6",
