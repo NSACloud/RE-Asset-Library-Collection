@@ -4,6 +4,8 @@
 #This is game specific so changes will need to be made for other games
 import os
 import json
+import csv
+
 CATALOG_PATH = r"J:\REAssetLibrary\SF6\REAssetCatalog_SF6.tsv"
 CATALOG_PATH_OUTPUT = r"J:\REAssetLibrary\SF6\REAssetCatalog_SF6_new.tsv"
 
@@ -33,7 +35,21 @@ AUTOMATIC_CATEGORY_LIST = [
 
 
 #-------------
+OVERRIDE_DIR = "Overrides"
 
+
+overrideDict = dict()
+if os.path.isdir(OVERRIDE_DIR):
+	for entry in os.scandir(OVERRIDE_DIR):
+		if entry.is_file() and entry.name.endswith(".tsv"):
+			tsvPath = os.path.join(OVERRIDE_DIR,entry.name)
+			with open(tsvPath,"r") as file:
+				rd = csv.reader(file, delimiter="\t", quotechar='"')
+				next(rd)#Skip header
+				for row in rd:
+					overrideDict[row[0]] = list(row)
+				print(f"Loaded override file: {tsvPath}")
+						
 AUTOMATIC_CATEGORY_LIST.sort(key = lambda item: len(item[1]))#Sort so largest strings are first
 AUTOMATIC_CATEGORY_LIST.reverse()
 
@@ -111,7 +127,12 @@ with open(CATALOG_PATH_OUTPUT,"w") as outputFile:
 							name += " (Base Skeleton)"
 							
 						category += f"/{fighterInfo.get(fighterID,fighterID)}"
-				
+			if filePath in overrideDict:
+				override = overrideDict[filePath]
+				name = override[1]
+				category = override[2]
+				tags = override[3]
+			outputFile.write(f"{filePath}\t{name}\t{category}\t{tags}\t{platformExtension}\t{langExtension}")	
 			#
 			#Name Overrides
 			#TODO
